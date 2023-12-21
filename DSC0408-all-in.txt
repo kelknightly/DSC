@@ -1,0 +1,470 @@
+
+
+
+[Federation HQ]
+
+VANCE: I need Booker's ship found. Scramble every available vessel. Eisenberg class, shuttle, I don't care. They've stolen classified tech. Do we have any idea where it is?
+OPS OFFICER: Negative, sir. It spore-jumped.
+VANCE: Any idea where it's headed?
+POPS OFFICER: Not yet, sir. All available personnel are looking.
+VANCE: And can anyone please tell me, how the hell did our prototype get out in the first place? Security requires dual authorisation, does it not?
+SECURITY OFFICER: Yes, sir. It has dual authorisation. Er, Ruon Tarka entered his code somehow in conjunction with, er... yours, sir.
+RILLAK: Admiral.
+
+[Rillak's office]
+
+RILLAK: I'll ask you both just once. Did you have any idea this was coming?
+VANCE + BURNHAM: No, Madam President.
+RILLAK: Okay, then, how did you have no idea it was coming? Tarka was your guy, Admiral. Handpicked. You gave him free rein. Barely any oversight. And it is one thing to miss the capacity for criminal misbehaviour in a professional relationship, but yours was also personal.
+BURNHAM: I knew Book was struggling, but he... he gave no indication that he would do something like this.
+RILLAK: Hmm. That spore drive technology is the closest we have come to ending our dilithium dependence. If word gets out that the only functional prototype has been stolen, it will threaten everything. Including trust that we have the ability to pull off this monumental first contact mission that you just helped to sell a few hours ago. That doesn't even take into account the risk we now run of provoking a highly advanced species who are capable of destroying us all, if Booker and Tarka succeed.
+BURNHAM: With all due respect, ma'am, he's a good man who's not thinking clearly. He's grieving, he's... he's dealing with unimaginable loss. He thinks he's preventing another Kwejian.
+RILLAK: We are trying to prevent something even worse.
+BURNHAM: I can get him to see that before it's too late. In order to build an isolytic weapon, Tarka needs isolynium. That's a black-market element that is not easy to track down. That buys us time to find them. Discovery's primary repairs are done. We can leave immediately.
+RILLAK: I know you want to help, Captain, but you're too close to this. You cannot be involved. I'm told Intelligence has identified four vendors who are believed to have access to isolynium.
+VANCE: I'm deploying ships to all locations with orders to detain Booker and Tarka on sight.
+RILLAK: Good. In the meantime, I'd ask that Discovery gather data on Species Ten-C. We have to prepare for a first contact, provided our rogue associates don't beat us to it.
+VANCE: I agree. You have your orders, Captain Burnham. Dismissed.
+
+[Booker's ship]
+
+TARKA: So, how'd it feel? The spore drive. The interface. Efficiency. Hit me. Come on, you're the first real beta tester.
+BOOK: It's impressive.
+TARKA: Oh, come on, now. Specifics.
+BOOK: It works. It'll help us stop the DMA. That's all that matters to me.
+TARKA: Can't fault your honesty.
+BOOK: We're safe for now, out of scanner range. How long do you need to build the weapon?
+TARKA: 24 hours should do it. She's hailing you again.
+BOOK: Yeah. And there's this, too.
+(They are both wanted men.)
+TARKA: Well, it's not the most flattering picture of me, but you? You look fantastic. It's not lost on me, what you're giving up to do this.
+BOOK: It's worth it, whatever my sentence turns out to be.
+TARKA: Your sentence? Once billions of lives are saved, you'll be a hero.
+BOOK: That's not how the Federation works.
+TARKA: You had half the assembly eating out of your hand.
+BOOK: We still lost the vote.
+TARKA: Rillak's a political animal. Once the DMA is gone, she'll face political pressure to pardon us. She'll find a way to explain that, in this case, the ends justified the means.
+BOOK: Let's just worry about saving the billions of lives first, okay?
+TARKA: Very well. Once you've secured us some isolynium, I can finish the third phase of...
+BOOK: Wait, what? You made it sound like you knew exactly how to get it.
+TARKA: I was counting on the Federation's help. We don't have that now.
+BOOK: Unbelievable.
+TARKA: What's the issue here? I thought couriers could find anything.
+BOOK: Buying something that's dangerous and rare is never easy, especially with Starfleet on our asses. I know a place that won't be on their radar. But it's gonna cost us.
+TARKA: See? That's the spirit. And don't worry, cost won't be an issue.
+
+[Ready room]
+
+(Door chime.)
+BURNHAM: Come. Admiral.
+VANCE: I first met Ruon Tarka when he was giving a lecture ten years ago. One of the most brilliant minds I've ever encountered. He had all these ideas for new propulsion systems and power sources. Made it sound like anything was possible. And I believed him. I still do. I keep asking myself, why would he do this? What am I missing?
+BURNHAM: Sir, I wish I had answers. Maybe Tarka couldn't handle the council voting down his plan?
+VANCE: Well, he has quite the ego... but I don't think that's it. I just got my family back, Captain. The thought that I will have to send them away again for their protection, because someone I brought into the fold might invite a war that we couldn't possibly win...
+BURNHAM: We will figure this out. And I will do everything in my power to help make things right.
+VANCE: I think we can both agree that Booker's not foolish enough to buy isolynium from any of the known suspects.
+BURNHAM: Sir, you and President Rillak were pretty clear.
+VANCE: Yes, and it's very important for the Federation president and I to present a united front. So I would never publicly contradict her, but I can take a page out of her own book and encourage you, as one of the most creative and adept officers in my service, to do everything you can to stop them within the parameters of the mission you were given. You find a way, Captain Burnham. That's also an order.
+
+[Engineering]
+
+BURNHAM: Well, the president wants us to make first contact sooner rather than later. What have we found at the coordinates?
+SARU: Er, Commander Stamets was just updating me. But may I say first, we support you, Captain. We all do.
+STAMETS: And, er... we hope Book's okay.
+BURNHAM: Thank you. What have we got?
+STAMETS: Well, unfortunately, not much. Data on what lies beyond the galactic barrier is extremely limited.
+BURNHAM: That gap in the centre? Is that where the Ten-C are located?
+STAMETS: Well, er, like I said, it's limited, but the orbit of the extra galactic stars nearby indicate a significant gravitational presence. There's definitely something there. To find out what, we'll need a visual on the area.
+BURNHAM: Any idea how to do that?
+STAMETS: Zora?
+ZORA: Yes, Commander Stamets. I may have something. The sphere data has records of a civilisation located 30 light-years away from these coordinates, just inside the galactic barrier. The Stilph. They're warp-capable.
+BURNHAM: So they're advanced enough and close enough that their standard stellar surveys should cover the area we need.
+SARU: Zora, has the Federation ever crossed paths with the Stilph?
+ZORA: No. And no diplomatic relations exist. But they've dealt with the Orions in the past.
+SARU: Mmm. Rather complicated intermediaries.
+BURNHAM: We don't have to go through them. I know a broker on Porathia. He has relationships with everyone. He can get us what we need.
+SARU: A broker?
+BURNHAM: He's an old friend. I will have to make the request myself. Keep combing through for more data points in the meantime.
+STAMETS: Yes, Captain.
+ZORA: I'd be happy to complete that task myself. It is perhaps more tedious than is worthy of your time.
+STAMETS: Thank you. Er... I'd appreciate that.
+BURNHAM: Mister Saru?
+
+[Corridor]
+
+BURNHAM: I'm bringing Commander Owosekun to verify the surveys. The Federation isn't exactly welcome on Porathia, so once we jump there, Discovery will need to keep its distance. We'll take a shuttle down.
+SARU: Captain, am I correct in assuming that this broker is from your courier days with Mister Booker?
+BURNHAM: Yes.
+SARU: And are President Rillak and Admiral Vance aware that you are planning to pursue him?
+BURNHAM: You don't miss much, do you?
+SARU: Only when sleep-deprived.
+BURNHAM: Vance unofficially ordered me to kill two birds with one stone. And I believe this broker is where Book will go to get the isolynium.
+SARU: I see.
+BURNHAM: You think I'm too close to this?
+SARU: I believe there is no one else who could possibly convince Mister Booker to correct his path, but I do not envy your position should he refuse.
+BURNHAM: I'll be back as soon as I can.
+SARU: Er, be safe, Captain, above all.
+
+[Karma Barge]
+
+(Gambling tables, a boxing ring, plenty of non-humanoids.)
+BOOK: Welcome to Haz Mazaro's Karma Barge. We're gonna need to make this fast.
+TARKA: Not what I was expecting when you said we'd find isolynium here.
+BOOK: There's nothing Haz won't take bets on in the front or sell in the back. He'll have it, or know someone who does.
+TARKA: Charming place.
+BOOK: I should probably mention that we didn't part on the greatest of terms.
+TARKA: Do I need to know the particulars?
+BOOK: Only that it was something I did on my own. Hopefully he's forgotten, 'cause it doesn't look like a good day to be here.
+(Dispute at a gaming table.)
+GUARD: Empty out your pockets. Show me your hands.
+GAMBLER: Nothing. See?
+TARKA: Always wondered where Emerald Chain dimwits went to die.
+BOOK: Listen, Haz is fun until he's not, so let me do the talking.
+TARKA: Think of me as your shadow.
+(Booker gets patted down.)
+GUARD: Haz know you?
+BOOK: Tell him it's Glow-Worm.
+GUARD: Glow-Worm? Huh.
+HAZ: Glow-Worm!
+
+[Haz's office]
+
+HAZ: A swamp cat could've learned the Hortan Hustle since I last saw you.
+TARKA: Seems like good terms to me.
+HAZ: Your timing's perfect. I'm having a special on Devore scanners and modified scan deflectors. Who's Mister Personality?
+BOOK: My shadow.
+HAZ: Where's Michael?
+BOOK: Not here, obviously.
+HAZ: Come on, tell your buddy Haz. What's the what with you two?
+BOOK: Still none of your business. Look, I'm here for something important, okay?
+TARKA: This Devore scanner couldn't pick out a Betazoid standing all alone in a Nieser cage.
+BOOK: Apologies for my associate. His filter was taken from him by cognition pirates. Very sad. I'm here for isolynium.
+HAZ: Heavy stuff. Why, exactly, do you need it?
+(Book puts latinum on the table.)
+HAZ: Chatty as always, I see. Not that I mind. Each to his own, her own, their own, all the things.
+BOOK: Hmm.
+HAZ: I do happen to have access, but it'll cost you more than that.
+TARKA: We need proof it's pure. Not the usual stuff cut with sammonium.
+HAZ: Pay first, inspect later, Shadow.
+(Tarka puts more latinum on the table.)
+BOOK: Take it all. We have a deal?
+HAZ: I'll take your latinum, but we don't have a deal. Old score to settle, or did you forget?
+BOOK: Course not. But it wasn't on me. I warned Ertel to stop delivering Tranceworms. It was dangerous business.
+HAZ: It wasn't, until you stole his cargo and he spent six months trying to get back his losses. Cost me my best customer. In the meantime, I'd say that about covers it.
+BOOK: We need the isolynium, Haz.
+HAZ: Weren't you listening? I said not without more latinum.
+TARKA: It'll take a few days.
+BOOK: We don't have a few days.
+HAZ: Sorry, Glow-Worm. Nice seeing you, though. Give Michael a hug for me.
+(Guards bustle them out.)
+BOOK: Haz. Haz, wait, wait. Wait! Your guys out there, they're looking for crooks or card counters, right?
+HAZ: Detection tech hasn't worked. I can't even tell you how many are in the ring.
+BOOK: So you've got nothing to lose by letting us try. You keep the latinum, we get the isolynium. Win-win.
+HAZ: You got yourself a deal. But jab a brussel fly, and I'll scoot some greenbread. Clear?
+BOOK: Crystal.
+
+[Shuttle]
+
+BURNHAM: The casino is a dead zone by design, so all of our weapons, tech and comms have to be checked at the door. The Federation has no authority on Porathia, so we'll be on our own. And there may be a few surprises. I... I'm not sure. Any questions?
+OWOSEKUN: Just one. You can verify stellar surveys yourself. Why bring me?
+BURNHAM: Saru told me what happened at the subspace rift. How you didn't want to stand down when he told you to.
+OWOSEKUN: I was totally out of bounds. I... I apologised to him.
+BURNHAM: I know. But I also know how it feels to want to do something. Anything. And how it feels when you can't.
+OWOSEKUN: Thank you.
+(They skim over the ocean, which starts to churn.)
+BURNHAM: Just wait for it.
+(A sea monster reaches up to swallow the shuttle, and they arrive at the Barge.)
+BURNHAM: We're here.
+OWOSEKUN: Karma barge?
+
+[Karma Barge]
+
+OWOSEKUN: Friendly bunch.
+BURNHAM: Always.
+(A very tall person bumps Owosekun, and his companion speaks.)
+MANAGER: Watch yourselves, Starfleet.
+OWOSEKUN: Oh, we're good. Don't worry.
+HAZ: I heard we had Starfleet guests, so I just had to scurry like a spider cow to welcome you. Right Hook? Starfleet Captain Right Hook?
+BURNHAM: Tale for another time. This is Lieutenant Commander Owosekun. This is Haz Mazaro.
+HAZ: I feel like I'm in a time warp today. So, er, are you here as part of Starfleet, or are we still friends?
+BURNHAM: Both. Both. Here to buy some extra galactic stellar surveys from a civilisation called the Stilph. They've had some run-ins with the Orions.
+HAZ: I may know an Orion or two.
+
+[Haz's office]
+
+HAZ: But why would you want pictures of stars?
+BURNHAM: Stars are pretty.
+HAZ: Everyone's so secretive nowadays. I have missed you like a Cardassian misses cake. Unfortunately, that won't be enough. Ah. And yet she remembers the way to his heart. It's true what the Elasians say. Give a man a tor-bak, and you are warm in the desert. Anything else you need, it's yours.
+BURNHAM: How about isolynium?
+HAZ: The plot thickens.
+BURNHAM: You said anything else I need. Should be enough latinum to cover it.
+HAZ: Sadly, the price goes up with multiple bidders, and there's already someone else in play. But perhaps you knew that.
+BURNHAM: Is the other bidder here now?
+HAZ: He might be sniffing out some vermin for me. Which gives you two lovelies a chance to hit the tables. See if you can at least double that. I'll get your star charts. Open 'em up. Let's get some tables going in here while I'm out.
+GUARD: A new room is now open!
+OWOSEKUN: It's Book, isn't it? The other bidder.
+BURNHAM: I had a hunch, but I wasn't certain. If you want to wait in the shuttle...
+OWOSEKUN: No. I'm in, all the way. And for what it's worth, there's no way you could have seen this coming.
+BURNHAM: Thank you, Owo. All right. Let's do this.
+
+[Karma Barge]
+
+BOOK: Haz said his detection tech couldn't find the cheaters. What makes you think that thing will?
+TARKA: Given the obsolete kernel patches on the translators he was hawking, I wouldn't put any faith in Mister Mazaro's judgment of what technology can or cannot do.
+BOOK: Lots of possible cheats in here. Pickpockets, card counters, and that guy. Check out his eyes.
+TARKA: Where?
+BOOK: I lost them. Their eyes were locked on the deck, and they had this rhythmic blink, like a signal. Maybe it's how they communicate.
+TARKA: Good. That's good. I'll be back.
+BOOK: Hey. What?
+BURNHAM: We need to talk.
+BOOK: How did you find me?
+BURNHAM: You really need to ask?
+BOOK: You shouldn't be here.
+BURNHAM: Neither should you. Whatever Tarka did or said to sell you on this doesn't matter now. Just come back while you still can. If you take the isolynium off the market and out of Tarka's hands, you could earn some grace with the Federation. They'll understand how you got pulled into this.
+BOOK: I wasn't pulled into anything. Tarka and I came to this together, okay?
+BURNHAM: You broke a half dozen laws.
+BOOK: If that's what it takes to stop that thing from killing more people.
+BURNHAM: But that's... That's not how... This isn't the way.
+BOOK: When you first met me, I had just hijacked someone else's cargo to save an endangered species. Are you really surprised by this, Michael?
+BURNHAM: If you buy that isolynium, you'll be crossing a line you cannot come back from.
+BOOK: You should leave, Michael. Okay? Just go back, say you never saw me.
+BURNHAM: I can't do that.
+BOOK: Then what are you gonna do?
+BURNHAM: Stop you.
+REFEREE [OC]: If you like a challenge, we need challengers!
+HAZ: I was just telling your associate that the stellar surveys won't be an issue but, er... they'll take time.
+BURNHAM: No problem. We have some other business to attend to, anyway. Haz, how much do you want to take the isolynium out of play?
+HAZ: Three times what you have now.
+BURNHAM: Fine. I just need access to a comms channel.
+HAZ: Ah. Last thing I need is more Starfleet sweeping in, no offence, and that's exactly what'll happen when they find out Book's here. I monitor Federation channels. I know what's what.
+BURNHAM: Then you know you cannot sell him the isolynium.
+HAZ: Sure I can. Unless I sell it to you. I'm a banta tree either way.
+(Haz leaves them.)
+OWOSEKUN: Book's not gonna change his mind, is he?
+BURNHAM: Which means we need to score a lot of latinum... fast.
+OWOSEKUN: Got an idea. It's a little crazy.
+REFEREE [OC]: Visit us up here at the fight ring, and we'll match your first bet up to five slips.
+
+[Stamet & Culber's quarters]
+
+(Culber is busy with cloth and spray.)
+STAMETS: Er... Hugh? The ship cleans for us.
+CULBER: Yeah, well... sometimes, it needs a little zhuzh. (to a DOT) No! How many times do I have to say it? Return to dock!
+STAMETS: You're stressed.
+CULBER: I'm not stressed.
+STAMETS: You're also cleaning. Ergo, stressed.
+CULBER: Just... clearing my head.
+STAMETS: Is this about Book?
+CULBER: He was in a volatile emotional state, and I didn't do enough. This is what Kovich was warning me about. Pushing myself, wearing myself out. Failing people.
+STAMETS: What he did is not on you.
+CULBER: But it is. I'm responsible for the psychological and emotional health of everyone on board this ship. Book included.
+STAMETS: You know that's a completely unreasonable expectation to bear. You can't solve your patients' problems. All you can do is help them find their own answers.
+CULBER: I know that. I do. I just... It's all I can think about. What I could've done differently.
+STAMETS: Hugh, listen to me. I get anxiety. I mean, right now, I'm... I'm toggling between the DMA and how Gray is settling in to life on Trill. Is Book okay, wherever he is? And let's not forget about how badly I handled the situation with Zora, so... It's not the same as yours, but it all comes from the same place, uncertainty, which is terrifying. So, let's be terrified together. Kovich said you need to take some time for yourself, right? The holodeck just got updated with the Venabalia bloom from Salata Major so... how about we take a little stroll through a field full of flowers for a bit?
+CULBER: I'd like that.
+(They leave and the DOT comes out of hiding.)
+
+[Karma Barge]
+
+(Owosekun is in the fight ring.)
+BURNHAM: Are you sure about this?
+REFEREE [OC]: Things are gonna be heating up in the ring soon, folks. You won't want to miss it.
+BURNHAM: Place your bets now! Don't miss your chance to score on Joann "Oh Wow" Owosekun, the most ferocious fighter this side of Felton Prime! Two to one odds are a steal, folks. Double your money now.
+REFEREE: We have one rule. First one to hit the mat loses. How you get there is up to you. Fight!
+(Owosekun's opponent is a bigger, taller male.)
+BURNHAM: That's right, keep your feet. Limit vulnerabilities. You got this.
+KURR: Come on!
+BURNHAM: Wait for your moment!
+(Kurr lifts Owosekun into the air, holds, then drops her to the mat.)
+REFEREE: At two-to-one, your winner, Ato Kurr!
+OWOSEKUN: I want another shot.
+BURNHAM: I don't think that's a good idea.
+OWOSEKUN: We need the win. Come on, let me try. I can do this.
+REFEREE: Who's gonna finally...
+OWOSEKUN: Come on.
+BURNHAM: That was just a warm-up, folks! Don't miss out on the rematch. You'll regret it if you don't bet it. Owosekun for the win!
+REFEREE [OC]: The odds are ten to one. Place your bets now.
+(At the gaming tables - )
+BOOK: Michael's here.
+TARKA: What? How?
+BOOK: She guessed this is where I'd go. The Federation has no authority here. I didn't think she'd risk it. She's gonna try to buy the isolynium out from under us.
+REFEREE: Fight!
+TARKA: I doubt she'll have enough to get a sandwich, seeing how that's going.
+BOOK: She always finds a way. So if you could manage to help find the cheaters ASAP, I'd appreciate that.
+TARKA: Does it look like I'm having fun here? Had to get into the mindset. I had to see the action up close. Found another cog in your network, by the way. You're welcome. His variances between his large and small bets is far too sporadic. Plus, look at his eyes. Pardon me if I mispronounce this, but you were right. That is how they signal each other. Thanks for the drink.
+(They watch the card shark leaving, and transforming.)
+BOOK: It's a Changeling. The network is a ring of one.
+TARKA: Blinking must be a nervous tic.
+BOOK: Everybody's got a tell.
+TARKS: Keep on him. I'll put together a little something to make sure he can't get away.
+(Sound of a person hitting the mat... hard.)
+REFEREE: Ato Kurr has...
+BURNHAM: That's enough. We're done here.
+OWOSEKUN: I'm not quitting.
+BURNHAM: I'm not letting you get killed. He's twice your size. You can't win.
+OWOSEKUN: You don't get to decide this for me.
+BURNHAM: Please. Let's just cut our losses.
+OWOSEKUN: Come on!
+BURNHAM: Fine! Okay! Okay. Okay, rematch. Last one. All in.
+REFEREE: We have ourselves a rematch. Odds coming in at 45 to one.
+BURNHAM: Okay.
+REFEREE: Place your bets now.
+BURNHAM: I want the money line. Bet it all on Owosekun.
+KURR: Someone should teach you when to quit.
+OWOSEKUN: Someone should teach you and your friend some manners.
+REFEREE: Fight!
+(Owosekun goes in hard, low and dirty, throttling him on the ropes.)
+MAN: Finish him!
+(Some more low blows, and he's on the mat.)
+REFEREE: 45 to one, your winner, Joann "Oh Wow" Owosekun!
+BOOK: We need to move. Now.
+TARKA: You can't rush genius.
+CASHIER: Congratulations. Everyone's a winner on Haz Mazaro's Karma Barge. Do you want a bag? Because there's more.
+BURNHAM: Actually, you can just send it all to Haz.
+MANAGER: Actually, we'll take it. You hustled us.
+OWOSEKUN: You don't want to do that.
+(Owosekun deals with the manager. Kerr creates a knife.)
+BURNHAM: You definitely don't want to do that.
+(Book disarms him.)
+BURNHAM: Thanks for the assist.
+BOOK: My pleasure.
+BURNHAM: Yeah.
+BOOK: Want me to er...?
+BURNHAM: Nah. I got it.
+(And knocks out Kurr.)
+BOOK: Ouch.
+OWOSEKUN: Whoo! I see where the Right Hook comes from.
+BOOK: Changeling. Could use an assist myself.
+(The Changeling tries to escape, turns into a tribble to scurry between legs, then back to humanoid just in time to step into Tarka's trap.)
+HAZ: What in the katterpod and Calaman sherry is going on here?
+BURNHAM: We've got your latinum.
+BOOK: We got your cheater.
+HAZ: Looks like we got a draw.
+
+[Haz's office]
+
+BURNHAM: You should have more than enough for the isolynium.
+BOOK: Doesn't matter. He already agreed.
+BURNHAM: Latinum talks, Haz.
+BOOK: We saved you more than I could've possibly owed you.
+BURNHAM: And you should hear this loud and clear. And you always liked me more...
+BURNHAM: That Changeling would've ripped you off for months.
+HAZ: Enough! While you two were strutting around like Klingons in a disco, I reached out to some of my regulars and found two who'd be happy to take the isolynium off your hands so you can get back to your relationship whatnot. There are many ways we can solve this conundrum, but I thought, in honour of how I met you, we should settle it in the traditional courier fashion with a game of Leonian Poker.
+BOOK: We had a deal, Haz.
+HAZ: My raft, my rules. You want the isolynium or not?
+BURNHAM: I'm in.
+BOOK: Then so am I.
+HAZ: Delightful. Usual rules apply. Your latinum buys you in. I keep all of that, of course. The winner gets the isolynium. The rest get nothing. Drop out? Still nothing. Act like an Armus? Swim the Porathian Ocean with weighted boots. Any questions?
+BURNHAM: Yes. For a er... a gamble this big, shouldn't we each get a chance to verify the quality of goods?
+HAZ: Fair enough. You first.
+(The Orion woman.)
+BURNHAM: You know who those two are, right?
+BOOK: Emerald Chain holdouts hoping to be the next Osyraa. Yeah, I know.
+BURNHAM: Yeah, so, we don't agree on a lot of things right now, but we both know they cannot get the isolynium.
+BOOK: I don't plan on losing it to them. Or to you, for that matter.
+BURNHAM: You're great at Leonian Poker, and you're a hell of a lot better than me, but you're no sure thing. No one is.
+BOOK: So?
+BURNHAM: So, you remember Schaefer Colony?
+BOOK: Mmm-hmm.
+BURNHAM: Odds can be modified if we work together.
+HAZ: Next!
+
+[Side room]
+
+HAZ: I got your pretty star pictures.
+BURNHAM: I knew you'd come through.
+HAZ: Want a Tetryonic Dosimeter to measure potency?
+BURNHAM: No, thank you. Isolynium has the same metallic luster as pyrite, and its crystals are equant, meaning they have roughly equal dimensions. When cut with impurities, opacity and shape are affected, so... Learn a lot of useful things as a courier. This is the real deal.
+HAZ: I don't know what's happening between you two, and I've never really been much for love, but for what it's worth, I hope it still works out.
+
+[Haz's office]
+
+HAZ: Now for the fifth stretch. Last bet on the hand. And as the saying goes, to the Souvlo goes the spud.
+BURNHAM: Wow! Spices things up a bit. Check. How are you folks doing? Things going well in the intimidation industry?
+MAT'TRUB: Bet. 10,000.
+BURNHAM: You know, I've played this guy before. He's good, but he has a tell. Rubs his ear on a good hand.
+BOOK: Call.
+BURNHAM: Oh, what to do? What to do? What to do? You know, I... I played a game once at Schaefer Colony. There... there was this guy who bet it all on a new wardrobe, thinking it was his night, only to go home in the emperor's new clothes on a flush draw. Not that anybody was complaining. Well, looks like I'm all talk.
+HAZ: Let's see it.
+(Book takes the pot.)
+BOOK: Great action in those Schaefer Colony games.
+(The game continues.)
+BOOK: I'll raise.
+BURNHAM: Just a little one. Little baby bet, yeah?
+BOOK: I'm stunned, too. Who would've thought, with a four and a six...?
+BURNHAM: It's the best night of my life. I don't...
+(Mat'trub storms out penniless.)
+OWOSEKUN: They make a pretty good team. I'd be sweating a little if I were you.
+TARKA: And you are?
+OWOSEKUN: Lieutenant Commander Owosekun.
+TARKA: Tell me, Lieutenant Commander Owosekun, what's your opinion of what Book and I are doing? I assume you toe the company line?
+OWOSEKUN: I actually understand why you saw this as a way to go.
+TARKA: Hmm.
+OWOSEKUN: Still a gigantic risk. Hoping it doesn't blow back on all of us. And to do this against the advice and will of so many takes a hell of a big ego, no?
+TARKA: I'm not surprised you think that.
+OWOSEKUN: What is it, then? You're the Federation's genius darling. Why throw it all away? Makes no damn sense.
+TARKA: I couldn't care less what the Federation thinks of me. It's not about them.
+OWOSEKUN: So who is it about, then? Someone who's gone? Died? So this is, what, revenge? You're getting back at someone? Or keeping a promise, maybe, to that someone who died.
+TARKA: Okay, you're boring me. Go stand somewhere else.
+OWOSEKUN: I know what it is to lose someone. You can choose to make something good come out of it.
+TARKA: There are varying degrees of loss, Lieutenant Commander Owosekun. And if you could feel the weight of mine, if only for a fleeting moment, you'd reconsider how much choice one has with regards to what comes out of it.
+(Zakari hits the table in anger.)
+HAZ: I don't appreciate bad behaviour at my table. Goodbye. Now for the Battle of Bygone Love.
+BURNHAM: You know if you win this, and you take that isolynium, every bridge you have ever built will be incinerated instantly.
+BOOK: The bridge between us... will that be gone, too?
+BURNHAM: You'd leave me no choice. Starfleet will come after you with everything they've got. I'll be one of the tools they use. Doesn't have to be like that. We can end this. Let's end this.
+BOOK: All right. Let's end it.
+HAZ: The bet's to you, Michael.
+BURNHAM: All in. Straight.
+HAZ: Flush. Congratulations, Glow-Worm.
+BOOK: I'm sorry.
+
+[Booker's ship]
+
+TARKA: Sacrifice is always heavy. And though doing it for the right reasons should help, it never does. In time, I do believe Burnham and others will understand.
+BOOK: Maybe. The only thing that would be worse is that sacrifice done for nothing.
+TARKA: Hmm.
+BOOK: So let's do what we came here to do. End the DMA... for good.
+
+[Rillak's office]
+
+RILLAK: As I understood it, you were gathering data for first contact and doing nothing else.
+BURNHAM: I was there to acquire a rare set of stellar surveys. Thought it would shed some light on what's located at the Ten-C's coordinates. They're being analysed now. Did I hope to run into Book in the process? Yes, that is also true.
+RILLAK: I can't help but be impressed by your ability to navigate a loophole, Captain. Wouldn't be surprised if you had some inspiration, either. I am troubled, however, that you were not able to make your loophole count. You should have found a way to drag Booker and Tarka back here.
+VANCE: With respect, Madam President, she was outside Federation territory, without a weapon, without a badge, without authority.
+RILLAK: Be that as it may, she literally bet it all, and lost.
+BURNHAM: Not quite. Book is incredible at Leonian Poker, so going into the game, I already knew that I would lose. So, I made the best play that I could with the hand that I was dealt.
+BURNHAM [memory]: When cut with impurities, opacity and shape are affected, so...
+BURNHAM: I planted a tracker. Same kind Starfleet put in dilithium shipments back when deliveries were being stolen. And as you may remember, Madam President, the signal can be detected from multiple sectors away.
+RILLAK: Not many people have the ability to surprise me, Captain Burnham.
+BURNHAM: I won't deny what Book means to me. But I also won't compromise my commitment to the safety of the Federation and everyone in it.
+VANCE: They're not moving.
+BURNHAM: Tarka's assembling the weapon.
+VANCE: We'll only have one shot at surprising them. It has to count. We'll begin mission-planning immediately.
+SARU [OC]: Apologies for the interruption, Admiral, but Commander Stamets has something very important to show you. It cannot wait.
+
+[Engineering]
+
+STAMETS: This is what we found at the species' coordinates. Their technological capabilities are beyond our wildest assumptions.
+RILLAK: How do you conclude that from this? It looks like a... blob.
+SARU: Natural astrophysical objects emit a broad spectrum of black body radiation. This does not. Therefore, it can only be artificial.
+STAMETS: And, whatever it is, it's 228 million kilometres in radius.
+VANCE: That's enough to contain a host star with two or three orbiting bodies.
+BURNHAM: Any signals being emitted from inside of this thing?
+STAMETS: None that we can register. The structure... a hyperfield of some kind... seems to function as some sort of Faraday cage. We have no way of knowing what's inside.
+BURNHAM: Must be astronomical, the amount of energy required to maintain that.
+VANCE: Where would all that energy come from?
+BURNHAM: Zora, analyse the areas of space left behind after the DMA changed location.
+VANCE: What are you thinking?
+BURNHAM: The remaining gases and elements should all fall within known statistical parameters, but if something specific is missing, like boronite...
+STAMETS: Boronite. Of course!
+RILLAK: Mister Saru, if you don't mind?
+SARU: Boronite is an element that forms naturally, albeit in infinitesimal quantities. In sufficient amounts, however, it can be synthesized into some of the most powerful substances in existence.
+RILLAK: Would there be enough energy for this hyperfield of theirs?
+BURNHAM: And then some.
+ZORA: Your hypothesis was correct, Captain. There is no trace of boronite at any of the DMA's prior known locations.
+VANCE: The DMA removed it.
+BURNHAM: They mined it. That's the purpose of the DMA. That's why it seems to move so randomly. It's not a weapon, it's a dredge.
+VANCE: If the DMA is their mining equipment, I can only imagine what their weapons are like.
+RILLAK: And if their power supply is threatened, it will almost certainly be seen as a hostile act. Booker and Tarka must be stopped. Whatever the cost.
+BURNHAM: I know.
+

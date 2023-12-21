@@ -1,0 +1,434 @@
+
+
+[Discovery]
+
+BURNHAM [OC ]: Captain's log, stardate 865783.7. We have less than 29 hours before United Earth and Ni'Var start getting hit by debris from the DMA. 29 hours, billions of lives. Until I figure out how to get us in front of the Ten-C, there is nothing we can do to stop this. They live inside of a hyperfield, and right now I have no idea how to get in, what we'll find once we do, how to communicate with them, what they even look like. As a xenoanthropologist, I've never had less to work with. And as a captain, I have never been more afraid. Our only hope is the dead planet we're orbiting right now. It was a gas giant until a series of massive asteroids hit and burned the gas away. Its star is surrounded by Dyson rings made from the same rare material as the DMA controller, and my gut tells me there has to be a connection. That this planet must have been the Ten-C's home at some point, and the ruins down there can tell us how they lived, what's important to them. Cultural context, a way to begin communicating. If I'm wrong, we'll have no way to make up the time we spend down there, and the DMA will be that much closer to our homes.
+
+[Corridor]
+
+ADIRA: Hey, er, fly good.
+DETMER: You got it.
+BURNHAM [OC]: But if I'm right, and something we find can help us connect with the Ten-C, then maybe we have a shot at stopping this before it's too late. I have to be right. I have to.
+
+[Booker's ship]
+
+BOOK: Scan it again. There has to be a way in.
+TARKA: A new scan won't tell us anything the last dozen hasn't.
+BOOK: Any chance the DMA could be powered from somewhere else?
+TARKA: No. We get in, we find the power source, we shut it down. Everybody wins. We just need to get in.
+BOOK: If I know Michael, she'll find a way into the hyperfield before we do.
+TARKA: Kick me while I'm down, why don't you?
+BOOK: Maybe if we stay cloaked and keep close to Discovery, we can slip in behind them.
+BOOK: There's an animal on Kwejian... was an animal. The Kowolian nightsprey.
+TARKA: Mmm-hmm.
+BOOK: To survive, it nested on the back of a jajtspat.
+TARKA: So we attach like a parasite. Yeah, that's a good idea.
+BOOK: No. Not like a parasite. The nightsprey takes nothing, brings no harm. The jajtspat can't even tell it's there.
+TARKA: It's a tonal difference, I get it, but still, it's probably safe to assume the jajtspat didn't have a sentient supercomputer monitoring all of its perimeters.
+BOOK: You don't seem worried.
+TARKA: Oh, there's nothing I love more than a problem to solve. Okay. I can create a patch. It'll numb the sensors on a section of Discovery's hull, just big enough to attach your ship without Zora realising it.
+BOOK: Like a blind spot.
+TARKA: Well, with Zora's new sentience, she'll pick up on it eventually, but with any luck, we'll have nightspreyed ourselves into the hyperfield before that happens. There's just one catch.
+BOOK: I don't like the sound of that.
+TARKA: Well, you're not gonna like this, either. Patch has to be installed manually.
+BOOK: You want to go on board?
+TARKA: No, in fact that's the last thing I want to do, but the access point I need is in Engineering.
+BOOK: I'm going with you.
+TARKA: I can move faster on my own.
+BOOK: You don't know the ship half as well as I do.
+TARKA: And what if you see Michael?
+BOOK: One wrong move, and it's over for both of us. We're doing this together, okay? End of story.
+
+[Shuttlebay]
+
+RILLAK: Captain. When we agreed to survey the planet, I didn't expect Discovery would be losing her captain and her first officer.
+BURNHAM: Nilsson has the conn. You are in excellent hands.
+RILLAK: I'm sure we are. And while a xenoanthropologist is understandably the bestchoice to lead this mission, is Captain Saru's presence truly necessary?
+BURNHAM: Mister Saru can speak over a hundred languages and his sensory capabilities dwarf ours. He might see something that I can't. And every minute that we spend on that planet, the DMA is that much closer to killing billions. I have to make that time count.
+RILLAK: Understood.
+BURNHAM: What about the others? Do they understand?
+RILLAK: As you said, a lot at stake here.
+BURNHAM: Madam President, General, Doctor. I appreciate you seeing us off.
+T'RINA: Captain, I cannot express a greater need for urgency than you must already feel. Please, all of you, travel safely. May you find answers, in whatever form they take, and quickly.
+HIRAI: In other words, make the trip count. Don't screw it up.
+NDOYE: Captain Burnham, I must voice my dismay at this decision. We left delegates behind because time is of the essence. On behalf of the citizens of United Earth, whose lives are in danger in this very moment, I ask that you reconsider, so that we might better commit the precious time that they have left to actually attempting to communicate with the Ten-C. We have much to convey, and no idea how long it will take to do so.
+BURNHAM: I hear you, General. I do. Both Earth and Ni'Var are home to me. Whatever we might find down on that planet, it could cut our communication time in half.
+NDOYE: Might. Could. This is quite the gamble for so much uncertainty.
+BURNHAM: I am certain that first contact will not go well if we show up to the Ten-C knowing nothing about them. I will find something down there. I promise. We ready?
+CULBER: Aye, Captain.
+DETMER: Aye, Captain.
+RILLAK: Captain Burnham. Good luck.
+
+[Shuttlecraft]
+
+DETMER: Disco Zero Nine to Discovery, we're about to enter the ionosphere. Losing comms from there.
+CHRISTOPHER [OC]: Understood, Commander. Good luck. Hope you find what you're looking for.
+COMPUTER: Protective shielding deployed.
+CULBER: It's good to know that the laws of physics still apply outside of our galaxy.
+DETMER: Hang on. Ride'll smooth out in a minute.
+SARU: Scans show numerous impact craters, presumably caused by the asteroids. Based on the rate of atmospheric dissipation, these would have occurred approximately 1,000 years ago, around the time the hyperfield itself was constructed.
+CULBER: Well, that makes sense. Given how advanced they are, the Ten-C would've had some idea of what was coming and evacuated beforehand.
+BURNHAM: Take a look at these ruins. The way the buildings have collapsed.
+SARU: I cannot think of any materials that could withstand the extreme pressures at the core of a gas giant. It seems rather impossible for biologicalentities, as well.
+BURNHAM: The Ten-C must've lived in the gas layers.
+DETMER: But how? They must be unlike any species we've ever encountered.
+BURNHAM: Well, there has to be something down there to help us communicate with them.
+CULBER: Oh, one structure looks like it's still intact.
+SARU: Perhaps it was reinforced in some way?
+CULBER: But why?
+BURNHAM: We're about to find out.
+
+[Planet surface]
+
+(The shuttle cloaks. Crew are in EVA suits.)
+BURNHAM: Any life signs?
+SARU: None whatsoever.
+BURNHAM: One less thing to worry about.
+SARU: Oh, well, apologies. I... I should have clarified. I do not read any life signs, including ours.
+DETMER: So we might not be alone.
+BURNHAM: Make sure they're set to stun.
+(They move forward slowly. Saru suddenly sees things and panics.)
+SARU: We're under attack! Take cover! Oh.
+CULBER: Mister Saru. It's okay. Breathe.
+SARU: Yes.
+CULBER: Are you all right?
+SARU: I... I am fine. Just er... disoriented.
+DETMER: Are you sure?
+SARU: I said I am fine, Commander. It must have been vertigo. A... a glint of light coming off of that.
+BURNHAM: What is that?
+CULBER: If I'm not mistaken, we're looking at the cusp of an extremely large bone.
+
+[Booker's ship]
+
+TARKA: Scans show their shuttle went all the way down to the surface. Discovery's not going anywhere while part of their crew's gone, but who knows how much time that buys us. These'll camouflage our biosigns from Zora's sensors. Listen, if you're not all-in on this, you need to level with me right now, because if you lose focus and we're still on board Discovery when that shuttle gets back...
+BOOK: These people... they've become family to me.
+TARKA: Your conscience, versus the billions of lives that are at stake. You can't have everything. I know it's complicated, especially with Michael, but the lives we're trying to save include hers, and everyone else over there, whether or not they realise it.
+(Booker kneels, looking at a holo of Discovery.)
+TARKA: Is that a Kwejian thing?
+BOOK: No. I just like having a torso. (Tarka kneels too.) On my mark. Three, two...
+
+[Jefferies tube]
+
+TARKA: Ah!
+BOOK: Shh.
+TARKA: Hey. A little more clarity next time.
+BOOK: Seriously? Engineering's this way.
+
+[Planet surface]
+
+(At the mega-bones.)
+BURNHAM: Let's stay alert. Doctor Culber, what are your scans telling you?
+CULBER: Well, it looks like the bone structure is of unusually low density. Before it was fossilised, it would've been flexible, almost like cartilage. Their physiology was perfectly adapted for floating in gas layers.
+DETMER: What do you think all the blue dust is?
+CULBER: It's not soil. It's some kind of complex hydrocarbon compound. No idea what, though. It's... it's not in Federation databases.
+DETMER: Check this out. A mass grave?
+CULBER: The way they're all gathered, it's... like they were bracing themselves.
+BURNHAM: Scans date these bones to the same time as the fragment strikes.
+CULBER: So they didn't all escape.
+DETMER: Even with all their tech.
+BURNHAM: A full-planet evacuation was impossible. It would be for anyone. We need to get into that building, figure out who they are and how to talk to them. Let's go.
+(Saru is still anxious.)
+BURNHAM: Saru?
+SARU: Hmm?
+BURNHAM: What's going on for you?
+SARU: I apologise, Captain. I seem to be feeling things I have not felt for quite some time.
+BURNHAM: What are you feeling?
+SARU: The coming of death.
+
+[Lounge]
+
+(Doing a holo-crossword.)
+RILLAK: Ah, a puzzle. Altonian?
+HIRAI: Ancient Earth. Doctor Kovich introduced me to it.
+RILLAK: Oh.
+HIRAI: I need an act which a person is bound to complete.
+RILLAK: Mission. Exactly what I'd like to discuss, in fact.
+HIRAI: Mission is seven letters. This is ten. Fifth letter, G.
+RILLAK: We need to talk about your bedside manner. The bluntness with which you spoke to the captain today was not entirely appropriate, and you saw how it affected General Ndoye. I am doing everything in my power to contain the delegates' stress and panic. I need you to help me.
+HIRAI: Whether they worry about tomorrow or not, it'll arrive all the same. I'm not sure how we can help with their lack of perspective on that.
+RILLAK: While I admire your commitment to the long view, my concern is for those who are struggling right now. They need to feel supported in order to do their best work. So, moving forward, I would like you to exercise a bit more tact, starting upon our return to first contact planning in ten minutes.
+(She fills in his missing word - obligation.)
+
+[Jefferies tube]
+
+BOOK: Okay, we're at the mess hall. If it's empty, we could drop down and take a shortcut.
+(It's not empty.)
+TARKA: It was worth a shot. Come on.
+BOOK: Wait.
+
+[Mess hall]
+
+NDOYE: If I were home, at least I could be helping with evacuations or mounting a defence.
+T'RINA: We still have time, General. Captain Burnham's mission...
+NDOYE: Is a waste of that time. The DMA could destroy both of our worlds within days. How can you be so calm?
+T'RINA: Ni'Var's emergency protocols are well defined. I trust my vice president is doing everything according to our plans.
+NDOYE: The math doesn't lie. There are too many. Most will not be saved.
+T'RINA: We are here to prevent such catastrophe. This is where we can best serve our people.
+NDOYE: If we act. We could be meeting with the Ten-C even now, demanding they turn off their bloody device.
+T'RINA: We cannot communicate if we know nothing about them.
+NDOYE: Opportunities multiply as they are seized. We should have gone directly into the hyperfield.
+
+[Jefferies tube]
+
+TARKA: That was tense.
+BOOK: Let's go.
+
+[Building]
+
+(Like the bones, it is huge.)
+BURNHAM: I thought his extreme fear response was lost after Vahar'ai.
+CULBER: So did I, but his cortisol and adrenaline levels are dangerously elevated.
+BURNHAM: See if you can stabilize him. I'll continue with Detmer.
+CULBER: Yes, Captain. Mister Saru? Come on. Let's get you checked out.
+DETMER: What do you think this was?
+BURNHAM: Meeting space? Worship area? Maybe an arena? Community structures are common in a large variety of cultures. Maybe we'll find something that'll tell us. We're looking for technology, artefacts, anything that can provide cultural context.
+DETMER: Got it.
+CULBER: Easy there.
+SARU: Something is wrong here. Something is causing me to feel this.
+CULBER: I don't think so. Our EV suits protect us from any external elements. Here, let me...
+(Culber sees things.)
+SARU: Do you understand now?
+CULBER: I do.
+
+[Corridor]
+
+BOOK: Deck's empty. We're okay. Okay, we're right below Engineering.
+TARKA: Three biosigns. We have to create a diversion to pull them away long enough for me to install the patch. Once your ship is invisible to Zora... What? You're looking at me like you have something to say.
+BOOK: I have an idea for a slight change of plans.
+TARKA: How slight?
+BOOK: I want to ask General Ndoye to help us.
+TARKA: Well, that sounds like a great idea. They put us in the brig, and I'd prefer not spend any more years under someone else's thumb.
+BOOK: I know it's a risk, but if she could give us intel about Discovery's plans, we could get right in front of any issues, adapt. She voted in support of our plans at the assembly, and you heard what she just said. She needs this as much as we do. Her planet's running out of time. I think that she'll see the best way to stop the DMA and save lives is to take control of this.
+TARKA: The shuttle could be back any minute.
+BOOK: I'll talk fast.
+TARKA: I put in the patch, you track down Ndoye.
+BOOK: See you back on my ship.
+TARKA: Hey, Book? Be convincing.
+(Book creates a message from T'Rina to Ndoye to meet on deck 13.)
+
+[Building]
+
+DETMER: Room's empty, Captain. No cultural relics. Nothing on the walls.
+SARU: I...
+DETMER: Do you want me to take Mister Saru back to the shuttle? I've never seen him like this.
+BURNHAM: No. Let's see if Culber can help him. We don't have any data yet. I have to make this mission count.
+DETMER: It's not all on you, Captain. We're all here to help.
+(Burnham gets the visions.)
+DETMER: Captain?
+BURNHAM: No. Stand back. Ah! Stay back!
+CULBER: Captain? Your biometrics are elevating rapidly.
+BURNHAM: Something's wrong.
+CULBER: Hallucinations? What's happening to Saru is happening to me, and now you. Shadows, lights.
+BURNHAM: Screaming.
+SARU: Our fear responses are being triggered to an exceptional degree.
+CULBER: Except Commander Detmer. Her biosigns haven't changed at all.
+DETMER: Yet.
+BURNHAM: How is it that we're experiencing the same visions?
+CULBER: Something must be affecting our minds and causing these physiological responses.
+BURNHAM: There's no evidence of psionic energy or infrasound. Our suits filter out environmental factors.
+SARU: No fluctuations in magnetic or electrical fields, either.
+DETMER: So whatever's doing this is doing it some other way.
+BURNHAM: Five minutes. We will retrace our steps and figure out what's going on. Detmer, you stay back and keep safe, okay? This mission comes first. If we're not able to fix this, we're gonna need you to go back to the shuttle and contact Discovery. Alone.
+
+[Engineering]
+
+RENO: Triple-brewed raktajino. Hot as hell, hold the nutmeg. You want one?
+ADIRA: Nnn...
+RENO: Suit yourself. Those puppies saved me on the Hiawatha. When you have to power through, nothing beats the bitter elixir of Klingon warriors.
+ADIRA: Ow! That's my head.
+RENO: There must be something pretty darn interesting in there to upstage Klingon warriors.
+ADIRA: I'm sorry. I'm just thinking about Commander Detmer.
+RENO: Oh, I see. When Gray's away...
+ADIRA: Okay, no, not like that. I... I just er... sometimes wish that I could be a little bit more like her. Confident and, er... you know, able to go on a mission without worrying about all the silly ways that I could screw it up.
+RENO: I think it's pretty safe to assume that everyone, no matter what calm veneer they present, is kind of a mess.
+ADIRA: I've just never seen her flinch. You know, she's always really got it together.
+RENO: Ask her how she was after we flew out of a wormhole and crashed. No one's always okay, kid. It takes a hell of a lot of strength to admit when you're not. Which, I guess makes Detmer, in fact, the shit. If you admire her so much, why don't you get to know her? Have you ever had a conversation?
+ADIRA: Not, like, just us in the same... I wouldn't really know how to... how to start that.
+RENO: Pro tip. Don't start with, I want to be you. It's kind of creepy. You'll figure it out.
+
+[Building]
+
+CULBER: Well, Saru was touching my arm right before it happened.
+SARU: But neither of us were touching Captain Burnham when she became affected. And... and I was outside when the symptoms hit, and you and the captain were inside.
+CULBER: Could our suits be malfunctioning?
+BURNHAM: Detmer, are your settings any different than ours?
+DETMER: No. They're all the same. There's no reason I should be fine.
+CULBER: This doesn't make any sense.
+BURNHAM: Is there any chance... it could be the dust?
+SARU: There... there was a patch of ground, unstable. I recall stepping through it just before the hallucinations began. It was filled with dust.
+CULBER: Yes, and I... I knelt in it when I was treating you.
+BURNHAM: And I touched it when I was examining the trichome.
+DETMER: And I haven't come into direct contact with it.
+BURNHAM: Okay. The hydrocarbons that you analysed earlier... they weren't found in any of the Federation databases, so maybe our suits wouldn't know how to block them.
+DETMER: An unknown substance could get through if its structure was unusual enough. Here, let me recalibrate the programmable-matter filtering system. There.
+(The visions stop.)
+BURNHAM: So glad you were paying attention in those EV trainings.
+CULBER: Mister Saru, your respiration is still somewhat elevated.
+SARU: Oh, I'm all right, Doctor. It is just... I had forgot the sensation of fear. It brings back... memories. It is nothing. It'll... pass. But I must say, Commander Detmer, you remained remarkably calm as we struggled with the unknown.
+DETMER: PTSD therapy came in handy, plus the way I grew up. I'm sort of the queen of putting things in boxes.
+BURNHAM: Take a look at this. Think I got something. Through the archway. Look at that.
+SARU: It appears the Ten-C left something behind after all.
+BURNHAM: Let's go find out what.
+
+[Engineering]
+
+RENO: Shield upgrade means increasing nominal system output. You get that, right?
+CREW: Of course, Commander. Yes, Commander.
+LINUS: Commander Reno, I require some assistance.
+RENO: I live to serve. What do you need?
+LINUS: The deck six tech-hub replicator is malfunctioning.
+RENO: What? I was just there.
+LINUS: I'm receiving similar reports from decks two and three. And just now on deck five, it started making steamed bananas.
+RENO: Okay, every word of that is bad news. Get moving. If we lose replicators out here, we starve to death. No pressure.
+(Engineering empties. Tarka enters.)
+
+[Deck 13]
+
+NDOYE: President T'Rina? You wished to speak further. Hello? President T'Rina?
+(Book approaches from behind. Ndoye grabs him and gets a knife to his throat.)
+NDOYE: That message was from you?
+BOOK: I need you to listen.
+NDOYE: How the hell are you even here?
+BOOK: My ship is nearby, cloaked, and this is blocking Zora's sensors for the moment, but we don't have much time.
+NDOYE: Give me one reason why I shouldn't call security right now.
+BOOK: Because I'm here to help, but to do that, I need your help. Two minutes, that's all I ask.
+NDOYE: United Earth is now in the path of a more powerful DMA, thanks to you.
+BOOK: If we had succeeded, you and your home would be safe right now. Everyone would be. That was my goal then, it's my goal now.
+NDOYE: You have one minute left.
+BOOK: I've lost my home. You're about to lose yours. I know what it's like to feel there's nothing you can do, when all you want to do is take action. We can, General. We can end the DMA for good.
+NDOYE: If you have a plan, I'll need every detail.
+BOOK: Right now, one of Discovery's shuttles is down on that planet. They're looking for something to help with first contact, right?
+NDOYE: That was the intent.
+BOOK: Is it Michael down there? She'll get what they need. Once she does, my ship will enter into the hyperfield attached to Discovery. Tarka will find the DMA's power source and disable it. That'll stop the DMA. Earth will be safe.
+NDOYE: If you believe so firmly in Captain Burnham's abilities, why not simply trust that first contact will succeed?
+BOOK: I have faith in Michael, not the Ten-C. I can't let the lives of billions of people hang on a hope that they'll be sympathetic. Can you?
+NDOYE: How do I fit into all of this?
+BOOK: Stay in contact. That's it. Tell us what she's planning so we can do what we need to do without putting Discovery or anyone on it at risk.
+NDOYE: What you're asking already involves significant risk, so I must insist that it be a backup plan only. You need to give diplomacy time to work. If the Ten-C capitulate before United Earth is in the red zone, you and Mister Tarka must stand down.
+BOOK: You have my word on that, General. Do I have yours?
+
+[Building]
+
+DETMER: It can't be coincidence that you all had the same hallucinations.
+BURNHAM: It's not. Somehow the hydrocarbons let us see and hear what they did, what it was like when their planet was destroyed.
+CULBER: How is that even possible?
+BURNHAM: I don't know... yet.
+SARU: I may have something.
+BURNHAM: Mister Saru?
+SARU: This hydrocarbon is markedly different than the variety we initially encountered. I fail to see why that should be the case.
+CULBER: Captain, over here. These pillars contain traces of what I presume is their DNA. It matches the bones outside, but based on the differences in methylation profiles, the DNA inside of here would have belonged to infants.
+BURNHAM: This must be a cocoon of some kind. This room was a nursery.
+DETMER: That must be why the structure was reinforced - to protect their young.
+SARU: Which means these beings prioritise children. They value life.
+CULBER: Cultural context.
+BURNHAM: I wonder. Monitor my biosigns.
+CULBER: What... what are you doing?
+BURNHAM: I'm gonna let it in. It feels like love.
+(They all turn off the filters and touch the dust.)
+CULBER: It's peaceful.
+SARU: It feels... safe.
+BURNHAM: I remember feeling this with my parents.
+SARU: Commander, are you all right?
+DETMER: Yeah, I've just never felt... My dad. He wasn't well. There was a disconnect between him and reality. After my mom died, it was just the two of us, so...
+BURNHAM: Oh, Detmer.
+SARU: I, too, am a stranger to some of these feelings. I do not believe I knew an easy breath on Kaminar. I was ashamed when I felt afraid again today. But I was not alone. Neither are you.
+BURNHAM: We're feeling love and safety here in the nursery, but outside, where so many of them died, we experienced panic and fear, like they must have. I mean, Kelpien and human biology are significantly different, but these hydrocarbons are affecting us almost identically.
+DETMER: Maybe some emotions are universal.
+SARU: If true, that would connect us all in quite a profound way. But I do not yet see how we might make use of this for first contact.
+BURNHAM: Neither do I, but there is something here. Let's reset our EV suit filters, finish scans and get some samples. We can talk while we work. We've got to get back to Discovery.
+
+[Engineering]
+
+TARKA: Installing the patch now. Hull sensors will go numb in five. What's your status with Ndoye?
+BOOK [OC]: We're good. I'll fill you in when we're back on board.
+LINUS [OC]: There must be some reason for the malfunction.
+TARKA: Got to go.
+RENO: It almost feels deliberate. What kind of idiot would pull a practical joke in the middle of an existential threat?
+LINUS [OC]: I don't know.
+RENO: Well then, get off comms and get me an answer.
+LINUS [OC]: Aye, Commander.
+RENO: Who's here? If someone's screwing around, today is not the day. (to Tarka) Please tell me I just spoiled a surprise party.
+
+[Building]
+
+BURNHAM: Okay, we know the hydrocarbons convey different emotions. But how? And why?
+CULBER: Well, a number of chemicals correspond to emotional states. Norepinephrine, serotonin, dopamine.
+SARU: And there are also numerous species whose means of expression are entirely chemical. For instance, the Plim of Asp 27 communicate by changing the scent of their breath.
+DETMER: Chemicals in the air. But you have to be with someone. Is there a chemical for not with someone? Like, when I was a kid, I didn't need to be in the same room as my dad to know that he was in a dark place. I could just... feel it.
+BURNHAM: A lot of Earth species... bees, wolves... use pheromones.
+CULBER: Which are often hydrocarbon chains. Maybe these hydrocarbons are the pheromones of the Ten-C. A way for them to communicate with one another.
+BURNHAM: Hmm. What if... this is our Rosetta stone?
+SARU: Are you are referring to the ancient Earth artefact?
+BURNHAM: It provided context that was crucial to deciphering Egyptian hieroglyphs. No one could understand them before that.
+CULBER: And you think these hydrocarbons can do that for us? Help us find a way to communicate with the Ten-C?
+BURNHAM: Their emotions tell a story, give us context. Well, we need more pieces to the puzzle, but yeah, I think that's exactly what they can do. Nice work, all of you. This is what we came for. Let's get this back to the team.
+
+[Shuttlecraft]
+
+DETMER: Disco Zero Nine to Discovery, we're back in comms range and on our way home.
+CHRISTOPHER [OC]: Glad to hear it, Commander. See you all soon.
+SETMER: Captain? Back in the nursery, I... I just want to apologise for letting my personal issues compromise the...
+BURNHAM: If you finish that sentence, I will demote you to ensign. It's okay to not be in control for five minutes.
+SARU: For as much as we would like to bury certain emotions, perhaps it is freeing to acknowledge that we would not be who we are had we not experienced all that we did.
+BURNHAM: Maybe that's why the Ten-C created the hyperfield. To protect themselves, so they would never again have to experience that kind of fear and pain.
+DETMER: The thing I can't reconcile is, they understand what it's like to have their home destroyed, and now they're doing the same to us.
+CULBER: If they can feel, they can connect. If we can make them aware of what the DMA is doing, we have every reason to believe that they'll stop it.
+SARU: I regret to say, Doctor, it is equally possible that they already know and simply do not care.
+
+[Ready room]
+
+STAMETS: We sent DOTs down to the planet's surface to scan for more of the hydrocarbons. They recovered 16 unique compounds, including the two that you interacted with today. We've begun testing. Initial results indicate that each corresponds with a different emotional state.
+HIRAI: Fascinating. Of course, the Rosetta stone required two languages to understand the third. However, this is still an excellent starting point for communication. Good job. Well done.
+RILLAK: Nice work, Captain, and Mister Saru.
+BURNHAM: I'll have my crew set course for the hyperfield immediately.
+(Rillak and Hirai leave.)
+T'RINA: Mister Saru, if you could use a moment of respite after the challenges of the day, you are welcome to join me for a stroll on the holodeck.
+SARU: I would enjoy that immensely.
+(They leave.)
+BURNHAM: DMA hits in 25 hours. Take whoever you need to assist with testing the chemicals.
+STAMETS: This data, Captain, changes everything. For the first time in a long time, I feel hope. Like we can really do this. We can really find a way to communicate with them. Thank you.
+BURNHAM: It was all of us. And it will continue to be, moving forward. So, thank you.
+(Behind the wall - )
+BOOK: General Ndoye?
+NDOYE [OC]: What is it?
+BOOK: It was good to see her. Thank you for letting me know she was back.
+NDOYE [OC]: You're welcome.
+
+[Lounge]
+
+(Oh look, a Lurian sitting at the bar. Hi, Morn?)
+ADIRA: Hi. I heard about the hydrocarbons. (boom) Game changer.
+DETMER: Yeah, I'm glad.
+ADIRA: So, how... how are you doing?
+DETMER: It was... a tough day. Good, but tough.
+ADIRA: If you want to be alone, that... that's totally cool. I just er... thought maybe if you... if you wanted company, I was just gonna hang around here for a little bit.
+DETMER: Company sounds good.
+ADIRA: Okay. Er... all right.
+DETMER: Oh, by the way, er... I did fly good today, so thank you for that.
+ADIRA: Yes. We maybe just don't even ever have to mention that like, ever again.
+DETMER: Or we could mention it every day for the rest of your life.
+ADIRA: Okay. Good.
+
+[Ready room]
+
+CULBER: You asked to see me?
+BURNHAM: Please sit.
+CULBER: Is this mavi? It tastes like home.
+BURNHAM: I'm glad the replicator got it right. I saw you lingering in the nursery, when we were leaving.
+CULBER: It was nice... to feel those few moments of peace... I just wished I could stay in that a little longer. You know, a while ago er... Doctor Kovich told me to take some time for myself, and I've tried... but er... it seems I've got deeper work to do. I'm not okay.
+BURNHAM: How could you be, with everything you're facing? I mean, with everything we're facing, I don't think anyone is okay.
+CULBER: I keep thinking about how we felt what the Ten-C felt today. Their fear, their love.
+BURNHAM: And they destroyed Kwejian and Radvek Five.
+CULBER: Sometimes empathy can be uncomfortable.
+BURNHAM: And it's the only way to connect, to find common ground for communication.
+CULBER: What if Saru was right? What if they know what they've done, and they don't care? I mean, how do we connect with a species like that?
+BURNHAM: We'll find a way.
+
+[Booker's ship]
+
+TARKA: The patch worked like a charm. We're attached to the hull, and Zora's sensors don't have a clue.
+BOOK: Well done. Got some news about the mission to their planet.
+RENO: Ahem.
+BOOK: They're hoping to strike...
+RENO: Nothing like coming home to an unexpected hostage, am I right?
+

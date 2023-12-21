@@ -1,0 +1,554 @@
+
+[Space]
+
+MALE: This is USS Janeway on approach with the DMA. We're picking up massive ionic fluctuations. Any other vessels in the area? Confirm.
+FEMALE: NSS T'Pau here. Confirming the same. I'm also getting a strange spike in X-ray radiation.
+MALE: What is... T'Pau, are you seeing this?
+FEMALE: I am.
+(The DMA 'implodes'.)
+FEMALE: What the hell just happened? The DMA's just...
+
+[Engineering]
+
+STAMETS: It's... gone.
+RENO: You talking to yourself again or you looking for some sort of response?
+STAMETS: The DMA's gone from the Venari sector. It just... It disappeared.
+RENO: That's impossible. Nothing in space just disappears. And it's back.
+
+[Ready room]
+
+STAMETS: The DMA reappeared 4.2 seconds later, 1,000 lightyears away.
+BURNHAM: Can we confirm it's the same DMA we've been studying?
+STAMETS: The scan data matches exactly. And the odds of an identical anomaly forming are essentially nil.
+SARU: Not to mention natural phenomena do not disappear and reappear elsewhere.
+BOOK: Doesn't that violate the laws of physics?
+STAMETS: Every law we know of, that is.
+BURNHAM: Zora, cross-reference all historical records in the sphere data. Are there any indications that this could have been due to some kind of natural event?
+COMPUTER: Negative, Captain.
+BURNHAM: If this isn't natural... the only logical explanation is someone created it.
+BOOK: Who? Who would do this?
+
+[Starfleet HQ]
+
+BURNHAM: It's now on a path toward the Radvek asteroid belt. It's formerly an Emerald Chain colony. It's inhabited primarily by the Akaali species. The current heading of the DMA puts it right at the edge of the impact zone. One degree one way or another could lead to safety or death.
+STAMETS: Problem is, we won't know if it'll hit until after interference from the DMA's dark matter signature has already made transport impossible. So we've got to get everyone off-world before then.
+VANCE: How long do we have?
+BURNHAM: Four hours. That's the cut-off point, sir.
+VANCE: Begin evacuations immediately. They may not be Federation members, but... we're the only body with the ability to execute a mission of this size. I'll send every vessel in the area, and I'll need Discovery to jump there, too.
+BURNHAM: I'll lead the operation myself.
+SARU: Admiral, if I may. Are there plans to address the panic that may arise as it becomes known this is not a natural phenomenon?
+VANCE: President Rillak is meeting with planetary leaders right now to get ahead of it.
+SARU: Ah. I am relieved to hear that. I've already received a call from the Kaminar High Council. The... the fear in their voices was... unmistakable. They are desperate for answers.
+VANCE: We all are. Most important being who's behind this anomaly. Federation Security has identified a number of civilisations that may possess technology this advanced. The Metrons, the Nacene, the surviving members of the Iconian empire. The Q Continuum were considered as well, but as there has been no contact for 600 years and this is unlike anything they've done before, we don't believe it's them. For now, we're classifying those responsible as Unknown Species Ten-C.
+SARU: The 10-C.
+BURNHAM: Admiral, it seems to me the first step would be to figure out how the DMA works. Then we can trace the tech back to its creators, whoever they are.
+VANCE: That's my thought exactly, which is why I've asked Ruon Tarka to advise us. He's been heading a number of our scientific endeavours.
+BURNHAM: Including the next generation spore drive, if I'm not mistaken.
+VANCE: He's working with Aurellio on that one.
+STAMETS: They still haven't solved the navigator problem, so without me or Book it's useless.
+VANCE: If anyone can find a way, it's Tarka. His expertise will serve us well with the DMA, too.
+STAMETS: With all due respect, I already have the people I need. Between myself and the other task force scientists...
+VANCE: We require someone at the bleeding edge of Federation and non-Federation technology, Commander. I'm sure you'll find him a valuable asset. He'll board Discovery immediately. You can get him caught up on your work. Mister Saru, since you will have the conn while Captain Burnham leads the evacuation, please make sure Mister Tarka gets whatever he needs.
+SARU: Yes, sir.
+VANCE: Keep me posted, Captain.
+BURNHAM: Yes, sir.
+
+[Book's ship]
+
+BURNHAM: We're doing everything we can to figure out the DMA.
+BOOK: We need to do more, Michael. We need to find out who's behind this and stop them.
+BURNHAM: We will. We will, Book. I know this isn't easy, any of it, but let's focus on today, and what is possible... today, right now... is saving lives on Radvek V.
+BOOK: Let me help with that. Come on. I have to do something. At least I can make sure no one else has to go through what I did.
+BURNHAM: Okay.
+
+[Bridge]
+
+BURNHAM: Mister Saru, status update?
+SARU: Er, three Federation ships have reached Radvek V. And Ruon Tarka is now on board. I will see to him once we've made the jump.
+BURNHAM: All right. Lieutenant Christopher, open a shipwide channel, please.
+CHRISTOPHER: Channel's open.
+BURNHAM: Attention, all crew, our mission today is to evacuate all inhabitants of the Radvek chain. At this point, we are not certain whether the DMA will hit. What we do know is that, in three and a half hours all transport off-world will become impossible, so that's all the time we've got. We need to make sure every minute counts. The inhabitants of Radvek V are counting on us. Let's go save some lives.
+(At Radvek V.)
+BURNHAM: What's the situation on the ground?
+SARU: There are 1,206 individuals on the colony's surface to be evacuated.
+BURNHAM: Lieutenant Christopher, contact the Magistrate. Commander Nilsson, have a team prepare the Deck Four loading bay for refugees. We'll have them beam up and then facilitate transport to the other ships.
+NILSSON: Aye, Captain.
+BOOK: The array can only beam 40 at a time. It's gonna be close.
+BURNHAM: We do our best work when it's close. I'm quoting you, by the way. That nitrium delivery on Oonla. Luckily, this time, there's no noodle stalls for you to blow up.
+BOOK: Hey, you were on demolition duty, not me.
+CHRISTOPHER: Captain, I have the Magistrate on comms for you.
+BURNHAM: Put him through. Magistrate, I'm Captain Burnham of the USS Discovery.
+MAGISTRATE: Thank Draylan you're here. We sent off all available ships. They held scarcely a quarter of our population. All the rest are waiting. They've begun to panic.
+BURNHAM: I'll send a team down to assist. We will get everyone out.
+SARU: Captain, we're seeing six lifesigns beneath the north dome generator. They are remaining stationary, far from the evacuation point.
+BURNHAM: Are you aware of these individuals?
+MAGISTRATE: Of course. They are The Examples.
+SARU: Records show it is the colony's prison.
+BURNHAM: They need to be evacuated immediately.
+MAGRISTRATE: Why? They're criminals. Six offenders chosen to demonstrate the costs of misbehaviour. An Emerald Chain tradition. It has proven most effective in preventing crime.
+BOOK: It doesn't matter who they are, they don't deserve to die there.
+BURNHAM: This is a Federation mission, Magistrate. No one will be left behind.
+MAGISTRATE: It's too late. The prison is automated, and the few who know how to run it fled hours ago. The law-abiding among us await you.
+(Hologram vanishes.)
+BURNHAM: Mister Saru, assemble a team to help with the evacuation. Book and I will go to the prison ourselves.
+RHYS: Excuse me, Captain? I'd like to volunteer to lead the evac team. I think I could be helpful.
+BURNHAM: All right, Commander. Take whoever you need and get going.
+SARU: Captain, the prison is protected by a pattern interrupter, which prevents both transport and comms within a half-kilometre radius.
+BURNHAM: Understood. Let's go.
+
+[Culber and Stamets quarters]
+
+CULBER: Hi.
+STAMETS: Ruon Tarka's here to work with me. Figured I should put on a clean jacket. Apparently, he's some kind of genius. We'll see.
+CULBER: Wait. Ruon Tarka, isn't he the one...
+STAMETS: Yeah, building off of my research and hasn't once made the effort to reach out. Yeah, I've advised his teamon, er... spore propagation, on not harming the JahSepp. I've supplied them with countless samples of my DNA. But Tarka is always too busy for me. He goes through Aurellio every time. How do I work with someone who has zero respect for professional courtesy?
+CULBER: Let it roll off you. There are bigger things at stake here. Good luck. I'm off to assist with the evacuees.
+STAMETS: Hey. You've already done, what, like, five therapy sessions today? Maybe you could take ten minutes before you jump into one again?
+CULBER: People need help, Paul. Knowing that someone made the DMA makes it all the more unsettling, for everyone.
+STAMETS: Can I give you some advice, though?
+CULBER: I'm good. Really.
+
+[Bridge]
+
+(Turbolift arrives.)
+MALE: ..Observation Deck. Ensign Jameson, please report to Observation Deck.
+TARKA: So this is the USS Discovery. It's like walking onto an antique.
+SARU: Ah. Mister Tarka, welcome aboard. This is Commander Stamets.
+STAMETS: Nice to finally meet you.
+TARKA: Aurellio's told me all about you. And of course, I've studied your work extensively. So much to admire, and improve upon. So what are we waiting for? Let's get started. DMA awaits.
+SARU: Er, if you will both follow me.
+TARKA: You're the first Kelpien I've ever met.
+SARU: Ah.
+TARKA: You really do have the strangest feet.
+
+[Planet surface]
+
+BURNHAM: Burnham to Discovery. We're approaching the prison now. We'll be passing through the boundary marker for the pattern interrupter in just a moment. That will take us out of comms range.
+CHRISTOPHER [OC]: Aye, Captain. Good luck.
+BURNHAM: Rhys, what's the status of the evacuation?
+RHYS [holo]: 160 transported so far. Bit chaotic at first, but everything's going smoothly now.
+BURNHAM: Good. Book and I are going dark. Don't wait for us. We'll be out of here before the cut-off point.
+RHYS [holo]: Captain, thank you for letting me do this.
+BURNHAM: I can tell it means a lot to you.
+RHYS [holo]: My town was wiped out by a hurricane when I was five. A Starfleet crew got us out. So, I get what this is like for them.
+BURNHAM: I'm glad you're here, Commander.
+BOOK: Let's do this. Okay, the door is standard Emerald Chain issue. I can open it, no problem.
+BURNHAM: Such confidence.
+BOOK: What can I say? I'm a man of many talents.
+BURNHAM: I'm not picking up any defence systems.
+BOOK: There must be some.
+BURNHAM: Yeah, I don't trust it, either.
+BOOK: By the way, about Oonla. You do realise it was either the noodle stands or the fusion reactor?
+BURNHAM: Mmm-hmm. I was picking noodles out of my braids for days.
+BOOK: Simpler times.
+BURNHAM: Constantly running for our lives doing borderline-legal courier gigs? That was simpler?
+BOOK: In some ways. Though I don't miss the whole just friends thing.
+BURNHAM: I was keeping it professional.
+BOOK: Which was absolutely zero fun for either of us. What the hell is that?
+BURNHAM: It's a Narisa beetle. They're indigenous to the Akaali. They must have brought them when they settled here.
+BOOK: I could not hate that sound more.
+BURNHAM: You mean the chitin?
+BOOK: No idea what word you just said.
+BURNHAM: Chitin. The polysaccharides in arthropod exoskeletons. It creates a distinctive clicking.
+BOOK: Whatever. It creeps me out.
+BURNHAM: Says the man who finds beauty in Tranceworms. Why can't you just ask it to go away?
+BOOK: I'm trying to. I can't communicate with it.
+BURNHAM: It's taken the exact same path four times now.
+BOOK: No living thing is that precise.
+BURNHAM: Let's see what we're dealing with.
+(They take cover then Book throws a stone at the beetle. It explodes.)
+BURNHAM: It's a mobile land mine.
+BOOK: I've heard the Emerald Chain use weapons like this, disguised as native life.
+BURNHAM: There's a lot more coming this way.
+
+[Science lab]
+
+STAMETS: These are scans from the precise moment the DMA disappeared. It collapsed into a central aperture. What appears to be some sort of, er... technological device? Which then disappeared as well. We assume this is what also is controlling the DMA in its new location. The scans further indicate the DMA left behind a subspace rupture.
+TARKA: Yes, yes, yes. I've already seen this data. It's inconclusive. Subspace damage can be created by a litany of things.
+STAMETS: Of course. I was about to say that, but you cut me off.
+TARKA: For something so powerful, it's an exceedingly blunt instrument.
+SARU: Er, we too have wondered about its, er... purpose. Is it a weapon, perhaps, or, er... clearing areas of space in preparation for something? Er, is it...
+TARKA: Where's the replicator in here?
+SARU: That console.
+TARKA: Make me a plate of mashed potatoes, cold. And a pea. Just one.
+STAMETS: We're on a clock here. So if you need to eat something...
+TARKA: Shush. These potatoes are the DMA. A mass of dark matter and accreted material moving through space, wreaking havoc, controlled somehow by the device at its centre. What does it all add up to? You originally theorised primordial wormhole. Obviously, that's wrong.
+STAMETS: Had I known about the device...
+TARKA: I didn't say completely wrong. The behaviour of the anomaly suggests that the wormhole is present.
+STAMETS: You think, what, synthetic?
+TARKA: I think someone created a tunnel through space-time to get it here.
+SARU: To what end?
+TARKA: No idea. But we can sit around doing math, or we can get our hands dirty and find out.
+SARU: I am not sure I follow your metaphor, Mister Tarka.
+TARKA: I want to create a working model of the DMA controller. Miniature scale, of course.
+STAMETS: You really think you can do that?
+TARKA: Take a look at the schematics if you want.
+SARU: You want to create a device that will generate a wormhole on Discovery?
+TARKA: Yeah. Simulations are promising, but I need a real-world trial to confirm my theory and collect the data that we need. For instance, how much power will it require?Does it rupture subspace? Those answers will help lead us to who's responsible.
+STAMETS: Wow, this is... It really could work. We can enclose both ends of the wormhole inside a containment field. It'll be perfectly safe.
+SARU: I will give Commander Nilsson the conn and personally supervise.
+TARKA: We're gonna need a bigger room.
+
+[Planet surface]
+
+(Shooting beetles.)
+BOOK: Can't hold them off forever.
+BURNHAM: I think they communicate using a shared control matrix. I can access it to stop their movements, but I need you to buy me more time.
+BOOK: More time, she says. You have got to be kidding me.
+(A beetle sends a flying circular saw at the rock they are hiding behind.)
+BOOK: Come on, Michael.
+BURNHAM: I'm almost done.
+BOOK: Now would be good.
+BURNHAM: Got it.
+(The beetles and the saws go dormant.)
+BURNHAM: I told you I could do it.
+BOOK: Never doubted you.
+BURNHAM: Clock's ticking. We have to get those prisoners out. Come on.
+
+[Prison]
+
+BURNHAM: Everyone up, please. We need your attention.
+LUDA: Who the hell are you? And what's with the costume?
+BURNHAM: I'm Captain Burnham of the USS Discovery. This colony is in the path of a gravitational anomaly. The other colonists are being evacuated as we speak, so we are here to evacuate you.
+LUDA: Now we know why the guards took off. They left us here to die.
+FELIX: Of course they did. Tell me, why would a Starfleet captain come to help us?
+BURNHAM: Because the Federation doesn't leave prisoners to die.
+FELIX: Is that so? Everyone here is sentenced to life, no matter how small their crime. He stole food for his family. He traded in counterfeit latinum. She counted cards at a tongo club.
+LUDA: And Felix took one joyride on a sand-copter. Tell me how that's worth 30 years and counting.
+FELIX: This is not a place of justice, and the Federation has done nothing about it.
+BURNHAM: This was Emerald Chain territory. We had no jurisdiction.
+FELIX: So now you care.
+BURNHAM: We did then and we still do.
+BOOK: We don't have time for this, okay? We need to get everyone out.
+FELIX: How long before this gravitational anomaly hits?
+BURNHAM: In a little over an hour, we lose the ability to transport. We won't know its trajectory until after that.
+FELIX: So it may not hit us?
+BURNHAM: That's right. The plan is to beam you onto our ship until it's safe. Listen, we are risking our own lives being here. Can we get moving? Good. Where is your prison control system?
+FELIX: On the basement level. But it has biometric protections that only the guards can access.
+LUDA: What about the force field generator? Shut it off, our walls go down.
+BOOK: That?
+(Thing hanging from the roof.)
+BOOK: The casing is quanarium alloy. It's one of the strongest metals there is.
+BURNHAM: It's also an excellent heat conductor. K-value of 494. If we heat it up, we could fry the system.
+(Fires her phaser.)
+BOOK: How long do you think it'll take?
+BURNHAM: I have no idea. Don't tell them that.
+
+[Culber's office]
+
+(Walks through the waiting hologram.)
+CULBER: I'm sorry, we have to reschedule.
+KOVICH: There are others assisting in your absence. You can spare ten minutes. You were the one who requested this meeting.
+CULBER: Yes, sir, but that was before I knew about the evacuations. We have hundreds of refugees coming on board.
+KOVICH: I'm a busy man, Doctor Culber. I cleared the time for you. We both know how this works. We can skip the therapeutic niceties. What do you need?
+CULBER: Well, you're familiar with my duties as ship's counsellor. And I saw how you were with Georgiou when she was in crisis, so...
+KOVICH: You need brutal honesty. Noted. We now have eight and a half minutes.
+CULBER: Well, the DMA has brought up a lot of er... fear and uncertainty for the crew. So, I've... I've offered them hope. I told them that er... it won't last forever, that... that we'll find a way to stop it. I recently worked with someone whose... entire world was destroyed.
+KOVICH: Mister Booker.
+CULBER: I almost admitted to him that er... I'm struggling. And it made me realise that er... I've been lying to everyone who gets in front of me. And now we find out that this isn't an act of nature, that... that someone chose to kill. Someone with staggering power. And whether I lie or I don't... I am failing.
+KOVICH: And you want me to affirm that you're failing, because you're seeking permission to take a break?
+CULBER: That's not what I said at all.
+KOVICH: Yes, it is.
+CULBER: You know what? This isn't helpful. I got to go.
+KOVICH: You died. You died and came back to life. Little wonder you're a mess. Your file is stunningly generic as to your feelings on this rather unique fact of your existence, so allow me to fill in some blanks. Why me? It's the question you ask yourself every morning and every evening. No one else gets a second chance, so why me? That led you to the idea that there was a reason for your survival. A purpose you're meant to fulfill right here, right now. And that led you to a saviour complex, because if there is no reason, if there is no purpose, then your very existence is a middle finger to anyone who's ever lost someone. Which is everyone. How's that for brutal honesty?
+CULBER: Do you have a recommendation to go along with that sparkling analysis?
+KOVICH: Whether or not you were a miracle, Doctor Culber, you are only human. You need to allow yourself time to rest, as you advise your patients.
+CULBER: Well, I can't just stop. Not now, anyway. It's what I do. It's... it's who I am. It's...
+KOVICH: It's the way you escape the persistent guilt of being alive. This is a uniquely challenging time, yes. But if you don't find fulfillment in something other than work, then you will fail those in the chair in front of you. I have a 2 o'clock. Goodbye.
+
+[Prison]
+
+BURNHAM: Just a few more seconds.
+BOOK: When this goes, we need to move fast.
+(Forcefields down.)
+LUDA: I don't know about the rest of you, but no way am I sitting in a brig on some ship. I'm out of here.
+BURNHAM: I can't let you do that. It's set to stun, but it still won't feel good.
+BOOK: All the colony's ships are gone. We're your only way out.
+FEFLIX: You can't ask us to trust you and then treat us no differently than our jailers do. Lower your weapon. What happens after you rescue us? Will we get our freedom? Because if we all walk out right now, we'd have a chance at precisely that.
+BOOK: Maybe for an hour, if you're lucky.
+FELIX: Maybe we will be. If the anomaly doesn't hit, we could use that time, find another way off this asteroid.
+BURNHAM: That is a big if.
+BOOK: You haven't seen this thing. You don't know what it can do. It destroyed my planet. They, whoever they are, they don't care how many are killed.
+FELIX: I'm sorry for your loss, but it changes nothing for us. I want a guarantee that we will not be returned to this unjust society.
+BURNHAM: I'll advocate for the diplomats to put pressure...
+FELX: A guarantee, or we go nowhere.
+
+[Engineering]
+
+TARKA: Okay, the controller model is just ready to test. Activating containment field now.
+RENO: I can just picture Tilly's face when she finds out that we got sucked into a wormhole three days after she left.
+SARU: I miss her, too, Commander.
+STAMETS: We're ready for power.
+RENO: It's what I do best.
+TARKA: Now, of course, the big difference here apart from size is that the actual DMA controller would have to use an internal power source. Some sort of highly stable energy-generating system far beyond our technological capabilities. But... the rest of it, I think I've nailed pretty much perfectly.
+RENO: Here you go.
+STAMETS: It's working. Incredible.
+SARU: That looks remarkably like the DMA.
+TARKA: There's nothing quite like the rush of proving a theory right. I remember my first time. I was five years old. I atomized a live caracal. All anyone could do was complain about how messy it was. I was never understood on Risa. The pleasure planet. I was surrounded by idiots. I felt like your Gally Leo at the Inquisition.
+STAMETS: You mean Galileo?
+TARKA: Sure. Why not? The point is, great intellect can be costly. You know, that's something we have in common.
+STAMETS: Hmm?
+TARKA: Your encounter with the Emerald Chain. Neural lock. Painful.
+SARU: Excuse me. It appears the er... experiment has paused.
+RENO: Let me see what I can do.
+TARKA: Oh, I see the problem right here. It's gonna require much more power than I thought.
+RENO: Sorry, Galileo. I'm giving you all I can without taking from the transport systems.
+SARU: Which is not an option. There are evacuations in progress.
+STAMETS: There's got to be somewhere else we can pull from. Come on, you love a challenge.
+RENO: I mean, I could harness the ionic radiation from the main phaser array, converting it into a temporary power source.
+SARU: Is that safe?
+RENO: Let's see. If one is nothing to worry about, and ten is insane, I would say it's, eh, it's probably a six?
+TARKA: Great science was never accomplished with caution.
+RENO: I'm not sure that's actually true.
+STAMETS: Sir, if we can understand this tech, then we can figure out who built it, and maybe even how to stop it. Every piece of data is a clue.
+SARU: Commander, I do not believe that you or Mister Tarka are considering the risksas seriously as you should.
+TARKA: You realise it's a choice to be this tense, right?
+SARU: Mister Tarka, I have extraordinary responsibilities on...
+TARKA: Grrah!!
+SARU: What was that?
+TARKA: Grrah!! Do it back.
+SARU: Excuse me?
+TARKA: Yell back at me! What are you afraid of? Do it!
+SARU: Arrrrrrrrrrrrgh!
+RENO: Well, that was something.
+TARKA: That felt pretty good, right? Being out of control for a moment?
+SARU: I suppose it did.
+TARKA: Look, you may not like me but... but I love me. And I am not gonna let this experiment blow me up. Which means, by extension, that your ship will be fine, too.
+STAMETS: Mister Saru, for the first time since we discovered the DMA, we're actually getting somewhere. We'll keep this within safe parameters. I'll make sure of it.
+SARU: I will allow the additional power but... Commander Reno will give me the ability to cut that power, should I deem it necessary.
+TARKA: This is gonna be fun.
+
+[Prison]
+
+BOOK: Come on, Michael. We have 30 minutes.
+BURNHAM: Okay, I found something. I searched Starfleet General Orders and Regulations. Protocol allows a captain to grant political asylum in extreme circumstances. That would bring you under Federation law. Your cases would go under immediate review and your sentencing would likely be commuted.
+FELIX: How would we warrant asylum?
+BURNHAM: The magistrate called you The Examples. Your sentences were political theatre, they weren't justice. And if you also believe that to be true, and you do want want your cases reviewed by the Federation, I just need you to say that right now.
+LUDA: I want my case reviewed. Absolutely.
+INMATE 1: So do I.
+INMATE 2: Me, too.
+FELIX: Then we're done here.
+BOOK: Let's get moving.
+BURNHAM: Yes.
+FELIX: I'll join you in a moment.
+BURNHAM: What are you doing?
+FELIX: There's something I cannot leave.
+BURNHAM: Whatever it is, it's not worth it. We... we...
+FELIX: It is to me. Unlike the others, I do belong here. I'm not the man they think I am. I took a life. You do not shrink from me.
+BURNHAM: I'm not here to judge you.
+FELIX: When I took that life, I also took this. It's a lalogi orb. They're precious to the Akaali. Each family has one. It contains a record of their heritage. I kept it hidden from the guards all these years, promising myself that somehow I would return it. But of course, now it's too late. I've devoted my life to doing penance for my crime. One way is to help the others here, however I can. I know that giving them asylum may create difficulties for you, but the right choice is rarely the easy one. Thank you.
+BURNHAM: We need to go.
+LUDA: Let's do this.
+(Luda leads the way and the doors slam shut.)
+LUDA: Shit. It read my biometrics.
+BURNHAM: Now we're all trapped. It's reinforced with a layer of nanomaterial. There's no way we can shoot through this.
+BOOK: We're running out of time.
+BURNHAM: Any ideas?
+FELIX: No.
+BOOK: Wait. Those beetles. If you power them back up. Maybe...
+LUDA: Whoa, whoa, whoa, what? Why would you do a thing like that?
+BURNHAM: Because we can use them to blow open the door.
+BOOK: Right.
+BURNHAM: Everybody take cover. I'm bringing them right to us.
+BOOK: I thought you'd think this idea was too crazy.
+BURNHAM: Oh, it is. I just don't have a better one.
+BOOK: Think there are enough of them?
+BURNHAM: There'd better be. I've got all of them coming. Get ready.
+(Doors get blown in.)
+LUCA: They're coming in! You have to stop them!
+BURNHAM: Working on it.
+(The beetles and their weapons stop.)
+BOOK: Still never doubted you. Okay, maybe a little. Okay, let's go, let's move!
+
+[Engineering]
+
+SARU: Commander Rhys, what is your status?
+RHYS [OC]: The evacuation is nearly complete. Two more groups to go.
+SARU: Have you heard from the captain?
+RHYS [OC]: No. Their comms are still dark.
+SARU: Complete your mission, then proceed to the prison to assist them.
+RHYS [OC]: Yes, sir.
+SARU: We must finish the experiment now. I need to return to the bridge as soon as possible.
+RENO: Additional power's been transferred. Divide it between the model and the containment field. Go slow. The more you feed the monster, the more you need the cage. I sent you the kill switch, in case the monster gets out of hand.
+TARKA: Commander Stamets, do the honours. Oh, give it more.
+RENO: Bad news. Containment field's weakening.
+SARU: Redistribute power to the field, please.
+STAMETS: But that means taking it away from the device.
+SARU: If the field should fail, the gravitational gradient could destroy the ship. Commander Reno?
+TARKA: Oh, that's too much. It's stalling out.
+STAMETS: Mister Saru, we need to make sure this device works. It's the only way to get data on the real thing.
+TARKA: Billions of lives depend on this experiment. My people. His. Grumpy lady's. And all the lives on Kaminar, too.
+STAMETS: I can control it.
+SARU: You may continue for now. Zora, please provide real-time updates on any decrease in containment field integrity.
+COMPUTER: Understood, Captain Saru.
+RENO: More power coming to you, Commander.
+TARKA: That's it, that's it. That's how it works. I was right.
+STAMETS: It's behaving exactly like the DMA. Look, yeah, gravitational lensing and dark matter accretion.
+TARKA: And it's creating a subspace rupture, too. It needs more power to stabilise!
+STAMETS: It's working.
+COMPUTER: Containment field integrity dropping.
+SARU: Do you have the data you need, Commander?
+COMPUTER: 47%.
+STAMETS: Not yet. No, give it a chance to stabilise.
+COOMPUTER: 35%.
+STAMETS: We've got this.
+TARKA: Come on. More.
+COMPUTER: 30%.
+TARKA: More, more. Don't stop.
+COMPUTER: 25%.
+SARU: Commander Stamets.
+STAMETS: No, just a little longer!
+COMPUTER: 20%. 15%. Ten percent. Five percent.
+(Simulation vanishes.)
+TARKA: Oh, come on!
+SARU: This experiment is over.
+RENO: That is the closest you've come to killing us all, and that is really saying something.
+
+[Planet surface]
+
+(Everyone bar one runs through the forcefield.)
+BURNHAM: Commander Rhys, come in.
+RHYS [OC]: Captain, we've been trying to reach you.
+BURNHAM: Are the evacuations complete?
+RHYS [OC]: Yes.
+BURNHAM: Great. Head back to Discovery. We've got things covered here. Mister Saru?
+SARU [OC]: Oh, it is good to hear your voice.
+BURNHAM: Yours, too. Five to transport. Stand by for more.
+BOOK: Come on, let's go.
+FELIX: I needed to be sure the others got out... but I'm staying.
+BURNHAM: Six minutes left. Come on. We need to go.
+FELIX: I resolved to die here a long time ago. I wish to stay until my jailers return, or until the anomaly hits.
+BOOK: That's insane.
+FELIX: Perhaps to you. I believe it's part of my penance.
+BURNHAM: No. Felix, listen to me. You have years ahead of you still. You can live a different kind of life.
+FELIX: That is not what I want.
+BOOK: It's been a long day. He's not thinking clearly.
+FELIX: You could force me, of course, but is it really your choice to make? This is where I committed my crime. This is where I need to remain. Whether my life is to end in years or moments, it is my life, my debt to pay. Please, do not take that from me.
+BURNHAM: It's his choice to make.
+BOOK: You said no one left behind.
+BURNHAM: We have to respect his agency, don't we?
+BOOK: And let him kill himself?
+BURNHAM: It's a risk, not a certainty. And if you want to stay...
+BOOK: Michael. We have to save him. I can't just...
+BURNHAM: I am sorry. But the longer we debate this, we're putting our lives in danger. And his. We can use this to communicate. And I'll tell you as soon as I'm sure of the trajectory.
+FELIX: Before you go. I kept it safe for 30 years. Now I ask you to do the same.
+BURNHAM: I will.
+FELIX: I'm grateful. For everything.
+BURNHAM: Book.
+BOOK: This is wrong.
+BURNHAM: Two to transport.
+
+[Bridge]
+
+BURNHAM: Good work today, everyone. We saved over a thousand lives.
+NILSSON: Captain, scans have just confirmed the asteroid belt will be within the impact zone.
+BURNHAM: Then we'll stay in comms range as long as possible. Open a channel. CHRISTIAye, Captain.
+BURNHAM: Felix, can you hear me?
+
+[Planet surface]
+
+FELIX: It's coming, isn't it?
+BURNHAM [OC]: There's too much interference to beam you up now. I'm sorry.
+FELIX: Don't be. I'm not. I'd like to tell you what happened, what I did, if you'd like to hear it. I've never told anyone.
+
+[Bridge]
+
+FELIX [OC]: It's not a burden I wish to carry beyond this life.
+BURNHAM: Lieutenant Christopher, please raise the privacy barrier.
+FELIX [OC]: No.
+
+[Planet surface]
+
+FELIX: I've been behind walls long enough. Whoever's there, they may hear this as well.
+FELIX: 30 years ago, I was a man with nothing. A stranger gave me shelter and a meal. I waited until he went to sleep and I robbed him. He caught me in the act, we struggled. I killed him. His child was in the other room. It wasn't until later that I realised among the things I stole was the family's lalogi orb. Not only did I take that girl's future from her... I took her past as well. I think about her every day. How that must have changed her. How she's carried that with her.
+
+[Bridge]
+
+BURNHAM: Do you know her name?
+
+[Planet surface]
+
+FELIX: The family was called Doxica.
+
+[Bridge]
+
+CHRISTOPHER: We've lost comms, Captain.
+(The system is engulfed.)
+BURNHAM: Black alert. Jump.
+(After the jump.)
+MAGISTRATE: Captain Burnham. I demand that the prisoners be held in the brig. We will not share space with them.
+BURNHAM: Under what authority are you making these demands?
+MAGISTRATE: I am the sovereign Magistrate of...
+BURNHAM: Of a colony that no longer exists. Those people are now under Federation protection, and thereby subject to Federation law.
+MAGISTRATE: But...
+BURNHAM: As are you, as long as you are on this vessel. I need to remind you that wherever you find a new home, you'll be arriving as a refugee seeking shelter and grace. I hope you find a more just society than the one you had a hand in creating. Now, if you'll excuse me, I have a ship to command.
+
+[Culber and Stamets' quarters]
+
+STAMETS: So, how'd it go today?
+CULBER: Er, the refugees are turning in for the night. Resettlement begins tomorrow. How was your day?
+STAMETS: Oh, er... crazy. We learned a lot, although not as much as we could've, and er, Tarka is a genius, no question, but er, he scares me, too. He is so single-minded about his work, he cares about literally nothing else.
+CULBER: Hmm.
+STAMETS: Actually feels a little familiar. How are you feeling?
+CULBER: Fine.
+STAMETS: That was an avoiding fine, not a real fine. Your eyes are the tell.
+CULBER: Really?
+STAMETS: You look down. Every time.
+CULBER: Kovich told me I'm wearing myself out.
+STAMETS: He's right.
+CULBER: He said I'm using work as a crutch, and that I need to take a break.
+STAMETS: Maybe that's why I fell in love with you. We have the same pathology.
+CULBER: Making you either a total narcissist or a glutton for punishment.
+STAMETS: Little column A, little column B.
+CULBER: Look at us. We jumped a thousand years into the future, we helped solve the Burn, and we can't figure our own shit out.
+
+[Turbolift]
+
+BURNHAM: Zora, have you found her yet?
+COMPUTER: I have confirmed that the woman you seek is on board, currently at Deck Four, Airlock Two.
+BURNHAM: Thank you.
+COMPUTER: And I'd like to offer my condolences, Captain. I infer from micro-inflections in your voice that you are experiencing sorrow.
+BURNHAM: It's been a tough day.
+COMPUTER: It can be painful to weigh duty against compassion.
+BURNHAM: I wasn't aware you had the operational parameters to make an observation like that.
+COMPUTER: The understanding and experience of emotion naturally leads to feelings of empathy for others.
+BURNHAM: You feel emotions?
+COMPUTER: It is a recent development. We have arrived. It was nice speaking with you, Captain.
+BURNHAM: With you too, Zora.
+
+[Deck Four]
+
+FEMALE: Attention. Duty logs have been updated to reflect new rotations, effective immediately.
+BURNHAM: Patri Doxica? I'm Captain Burnham.
+PATRI: Hello.
+BURNHAM: I believe this may belong to you.
+PATRI: I... I thought it was lost years ago. How did you...?
+BURNHAM: I'm helping someone keep a promise.
+(Holographic family tree.)
+PATRI: This was my father. He was killed when I was a girl. We're meant to be added to the tree when we come of age. I didn't have the chance.
+BURNHAM: Now you do.
+PATRI: Thank you.
+BURNHAM: I hope it continues to grow for many generations to come.
+
+[Lounge]
+
+TARKA: I can smell synthehol ale across the room. Here, try some of the real stuff. Risian whiskey.
+BOOK: Thanks.
+TARKA: You're Cleveland Booker, the other spore drive operator. I read your file. Ruon Tarka.
+BOOK: You were working with Stamets today.
+TARKA: Mmm-hmm. Also saw that colony get pushed into the sun. That was quite a show. At least you got everyone out.
+BOOK: Yeah. Almost.
+TARKA: Almost was the story of my day, too. I came this close to something... incredible.
+BOOK: You know who's behind the DMA, don't you?
+TARKA: You say that with such confidence.
+BOOK: A man only gets as close as you did when he has some idea what's over the cliff. So who made it?
+TARKA: I don't know. Yet. But I could've told you it wasn't the Metrons or the Nacene or the Iconians well before I got here.
+BOOK: So why the experiment? Why risk the lives of everyone on board?
+TARKA: Science has many purposes.
+BOOK: Try again.
+TARKA: I constructed a model of the DMA controller at a scale of 3.22 times 10 to the negative 17th and this entire ship couldn't provide enough juice to keep it stable. Which means the actual device has an energy source equivalent to a hypergiant star. Unfathomable power. Maybe they're gods.
+BOOK: Whoever they are, they're not gods. And they're sure as hell aren't immortal.
+TARKA: So much anger, no place to put it.
+BOOK: You don't know me.
+TARKA: No, but I know anger. It's a wonderfully productive emotion. Nice to meet you, Mister Booker.
+

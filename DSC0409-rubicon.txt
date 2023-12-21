@@ -1,0 +1,575 @@
+
+
+[Booker's ship]
+
+(Hiding in a smashed planet almost held together by its own gravity.)
+BOOK: Not as much isolynium in here as I thought. Will it be enough?
+TARKA: Federation banned it for good reason. A little goes a long way.
+BOOK: Is it enough to destroy the DMA?
+TARKA: And then some. Careful. Careful... And we have ourselves a weapon.
+BOOK: How long till it's ready?
+TARKA: Five or six hours. I need to calibrate to destroy the DMA controller but protect the internal power source. As long as I can generate a null-space bubble within the isolytic detonation field, the power source should be fine.
+BOOK: Just... speed it up.
+TARKA: She'll understand, once this is over. They all will. We're not gonna lose anyone else to that thing.
+
+[Burnham's quarters]
+
+(Door chime.)
+BURNHAM: Come.
+SARU: Captain?
+BURNHAM: Finally got a response from Book. It's encrypted, so it can't be traced. I thought you should see it.
+BOOK [holo]: Michael. Hey. I went through all the data you sent. Makes sense the DMA could be some kind of mining device and all that's happened is collateral damage. But even if this is true, it doesn't change how many lives have been lost, how many more will be lost if we don't do something right now. The DMA could move again at any time. We just can't afford to wait. I love you, Michael. I wish there was a way to find a middle ground on this, but... I just don't see it. I'm sorry. Goodbye.
+SARU: Well...
+BURNHAM: I really thought it would make a difference if he knew it wasn't an attack. Now, if we don't stop them, that could be what comes next.
+SARU: It would seem he has left us with no choice.
+
+[Federation HQ]
+
+VANCE: To say that this wasn't easy would be an insult to understatement. The optics, the complexities.
+BURNHAM: Sir, am I able to lead this mission or not?
+VANCE: Are you sure that that's what you want?
+BURNHAM: It is.
+VANCE: Well, President Rillak had quite a lot to say about this, but she does understand that Discovery is the only ship capable of reaching Mister Booker on time, and no one knows him better than you. I also reminded her that you have never let me down.
+BURNHAM: Thank you, sir.
+VANCE: Don't thank me yet. The president remains concerned that if things don't go smoothly, you might be too emotionally compromised to make the hard call. I have the same concern, so I'm going to send another officer with you. Someone who will be empowered to step in if needed, and issue the necessary orders with the full backing of my authority.
+BURNHAM: With respect, Admiral, that... that is Captain Saru's job.
+VANCE: He, too, is close to Book, is he not? I understand this is awkward, Captain.
+BURNHAM: May I ask who the officer is?
+VANCE: A friendly face, which I hope will make it easier on everyone. Commander, will you please join us?
+NHAN: Captain.
+BURNHAM: Commander Nhan. It's good to see you.
+NHAN: You, too.
+BURNHAM: Er... sir, I... I have to say, if the concern is my connection to Book, Nhan and I go way back.
+VANCE: I'm aware. But she's also a Barzan. And there's a reason so many of her world serve in the security forces.
+NHAN: Duty above all.
+VANCE: I'll give you two a minute.
+NHAN: I, er... I'd only met Book in passing, but he sounds like a good man. I'm sorry it's come to this.
+BURNHAM: Thank you for that, Nhan. So, when did you join Federation Security? I thought you were still living on Barzan.
+NHAN: I was, but after completing the seed-vault mission, I ended up not staying too long.
+BURNHAM: Hmm.
+NHAN: Upgraded my breathers, though.
+BURNHAM: Real eyes, real you.
+NHAN: Mmm-hmm.
+BURNHAM: Were you able to find your family line and connect with them?
+NHAN: Er... yeah. Didn't work out. And Security asked me to lead a cleanup task force against the Emerald Chain. Covert ops. I couldn't tell anyone.
+BURNHAM: I read the reports. Bloody skirmishes in the outer sectors.
+NHAN: This isn't the way I wanted to come back, but I figured, better me than someone you don't know.
+BURNHAM: I'm glad it's you.
+
+[Saru's quarters]
+
+(He initiates a holo-communication.)
+T'RINA: Mister Saru.
+SARU: I hope I'm not disturbing you.
+T'RINA: Not at all. It is always a pleasure to hear from you.
+SARU: Well, I wonder if I may ask a favour. On Ni'Var, I joined you in a thresh-tor kashek meditation. I found it greatly helpful in settling my mind. I could use such help now.
+T'RINA: Of course.
+(They sit.)
+T'RINA: Your hands. Breathe deeply. You are having difficulty focusing.
+SARU: I am distracted, yes. The mission to stop Mister Booker will be a most unfortunate undertaking.
+T'RINA: Indeed it will, but I sense that is not all.
+SARU: You are insightful, as ever. My ward, Su'Kal. He is deeply worried about the Anomaly. I do not know how to comfort him. Ah, of course, at such a dire time, these personal feelings are of little import.
+T'RINA: Such feelings are always of import. May I suggest, when formal meditation proves challenging, I find the peaceful routines of daily life and the joyful connection therein can help reestablish inner balance. A walk, perhaps, or a... a shared meal between friends. I would be pleased to join you, if you'd like.
+SARU: I w... I will, er... consider that. Thank you, Madam President.
+T'RINA: Of course. Good luck, Mister Saru.
+
+[Bridge]
+
+SARU: The captain is on her way. Let us prepare for departure.
+RHYS: I can't believe we're actually doing this.
+NILSSON: Book hasn't exactly given us much of an option.
+RHYS: He thinks he's doing the right thing. A lot of people agree.
+SARU: Whatever one's opinions, we all have our orders.
+RHYS: Hey, look who's back.
+OWOSEKUN: You're Federation Security now?
+NHAN: Damn.
+NILSSON: You look great.
+DETMER: It's so good to see you.
+SARU: This is a wonderful surprise, Commander.
+NHAN: Thank you, sir. I've really missed all of you. And feel free to ignore me. I'm just observing. Seeing how the pros do it.
+BURNHAM: No, they should know. Commander Nhan is here because of my personal connection to this mission. We need to stop Book and Tarka, and she's going to help make sure the job is done right. I would have made the same choice if I were in the admiral's shoes. This isn't an easy mission, not for any of us, but it is critical that we succeed. Commander Owosekun, on screen. The tracker in Book's ship tells us that they're here, hiding in this uninhabited rogue planet. We believe they're finishing construction on the isolytic weapon. We'll have the element of surprise. We need to use it well. If they manage to jump into the DMA before we detain them, pursuit will become much more dangerous. Black alert. Activate cloak. Let's fly.
+(Invisible twirl.)
+BURNHAM: Status report.
+DETMER: Book's ship is inside a cavity 4,000 metres in.
+RHYS: No sensors or security around the outside perimeter.
+BURNHAM: Okay. Let's get into position. Take us as close as you can, Commander.
+DETMER: Aye, Captain. Coming in. Stopping in three, two... one. We're ready.
+RHYS: Bringing Book's ship on screen, Captain.
+BURNHAM: Mister Saru, Commander Nhan, in my ready room. Have Doctor Culber join.
+
+[Ready room]
+
+BURNHAM: Book's ship has a built-in security disruption field, so we can't beam directly on board, but a cloaked shuttle can slip in close to this maintenance hatch. That'll be our entry point.
+NHAN: Respectfully, I'm not sure you should be leading this mission.
+BURNHAM: I wasn't planning to. Mister Saru will be taking point. Doctor Culber will be joining with Commander Rhys, and Commander Bryce will pilot.
+NHAN: What about Bryce's work for Doctor Kovich? We still need to make first contact.
+BURNHAM: I'll have Zora keep looking for communication frequencies that can pass through the Galactic Barrier, then Commander Bryce will have plenty to analyse when he gets back from the mission. Mister Saru, please take her through it.
+SARU: Of course, Captain. We will use a multi-phasic signal discriminator to override external proximity sensors and gain entrance before Mister Booker and Tarka are notified of our arrival. Once we make our way to the bridge, Doctor Culber will help deescalate the situation so we may take the ship.
+CULBER: Book is acting out of anger and grief. He's doing what he thinks is right, but he's not unreasonable. Tarka's the wild card here.
+SARU: We will have our phasers with us, but set to stun. Only to be used if necessity requires.
+BURNHAM: I know you'll make the right call. Be safe.
+
+[Shuttle]
+
+BRYCE: 3,000 metres and closing.
+RHYS: Book will be locked up for life.
+BRYCE: He stole classified tech. He's about to use an isolytic weapon.
+RHYS: Because the Federation isn't acting fast enough. You don't know what it's like to lose everything.
+BRYCE: What do you want us to do, launch an attack?
+RHYS: I'm not saying we should attack, but...
+BRYCE: Stop comparing pain, man. You have no idea.
+SARU: Gentlemen, you are here to execute your orders, however you may feel about them or one another in this moment.
+CULBER: Listen, this is tough for everyone. And we all have different views on what Book's done. But we're here to fix this, and that's what we're gonna do. Together. Okay?
+SARU: Thank you, Doctor Culber. Prepare the shuttle for docking, Commander Rhys. Commander Bryce, take us in.
+BOTH: Aye, Mister Saru.
+COMPUTER: Protective shielding deployed.
+
+[Bridge]
+
+BRYCE [OC]: We're now at full stop two metres from the maintenance hatch. Engaging airlock field.
+BURNHAM: Commander Owosekun, isolate the shuttle's cloaking signature.
+OWOSEKUN: Aye, Captain. The shuttle's soft dock is complete, Captain. No response from Booker's proximity sensors. They don't seem to know we're here.
+BURNHAM: Proceed, Mister Saru.
+SARU [OC]: Commander Rhys, prepare the signal discriminator.
+NHAN: Are you good?
+(Alarm sounds.)
+OWOSEKUN: Captain, something's not right.
+
+[Shuttle]
+
+BURNHAM: Disco Two, report! Saru?
+SARU: Something is on the shuttle, Captain.
+RHYS: Like, all over the shuttle.
+(The shuttle is being encased. The cloak fails.)
+
+[Booker's ship]
+
+BOOK: I've never heard an alarm like this on my ship.
+TARKA: It's our new defence system. It's just a little something I threw together on our way to Porathia.
+BOOK: Without telling me?
+TARKA: We were buying banned weapons tech from an underworld market. It's an intrusion warning.
+BOOK: It's one of Discovery's shuttles. Michael must've slipped a tracker on the isolynium.
+
+[Bridge]
+
+NHAN: Did you know his ship can do that?
+BURNHAM: No. Commander Owosekun, can you beam them back?
+OWOSEKUN: I can't. Too much interference from the disruption field.
+CHRISTOPER: I'm losing comms, Captain.
+BURNHAM: Saru, you need to abort!
+
+[Shuttle]
+
+SARU: Understood, Captain. Commander Bryce, get us back to Discovery.
+BRYCE: I'm trying, sir.
+
+[Booker's ship]
+
+BOOK: You need to stop it! They'll be killed!
+TARKA: I designed the system to be autonomous. They'll be dead before I can even reprogramme the first layer.
+BOOK: Come on! We've got to do something!
+
+[Shuttle]
+
+BRUCE: We're stuck! I... I can't disengage!
+COMPUTER: Structural integrity compromised.
+
+[Booker's ship]
+
+TARKA: Fire an EMP charge through the hull.
+BOOK: It might slow it down enough for the shuttle to break free. Got it.
+
+[Bridge]
+
+BURNHAM: Owosekun, how much time do they have left?
+OWOSEKUN: Hull integrity down to ten percent.
+CULBER [OC]: Oxygen levels are dropping, Captain.
+
+[Booker's ship]
+
+BOOK: Discovery shuttle...
+
+[Bridge]
+
+BOOK [OC]: ..ready thrusters to blast yourselves free.
+BURNHAM: Book?
+NILSSON: Captain, there's a massive electromagnetic surge coming from Book's ship.
+BURNHAM: Saru, maximum thrusters, now!
+
+[Shuttle]
+
+SARU: Go, Mister Bryce.
+COMPUTER: Hull breach imminent.
+BURNHAM [OC]: Saru!
+SARU: We are trying, Captain.
+
+[Booker's ship]
+
+BOOK: Come on. Get out of there.
+
+[Bridge]
+
+BURNHAM: Can you get a lock now?
+OWOSEKUN: I'm working on it, Captain.
+DETMER: The shuttle's breaking apart.
+BURNHAM: Owosekun?
+OWOSEKUN: Almost got them.
+(Four figures slide across the bridge deck, gasping.)
+BURNHAM: Is everyone all right?
+SARU: We are, indeed. Thank you all for your assistance.
+BURNHAM: Okay, let's get back to stations. Commander Bryce, let me know what you find with Doctor Kovich.
+BRYCE: Aye, Captain.
+OWOSEKUN: Captain, we just lost the tracker signal.
+BURNHAM: That's probably because they found it. Hail him.
+BOOK [OC]: Did everyone make it off in time?
+BURNHAM: Yes. Book, listen...
+BOOK [OC]: I'm sorry, Michael. I have a job to do.
+OWOSEKUN: They jumped, Captain. He's gone.
+BURNHAM: Damn it.
+NHAN: They're going to the DMA.
+BURNHAM: Then so are we. We cannot allow them to destroy that controller. We cannot let our first contact with Species Ten-C be an act of aggression. Not if we want peace. We have no idea where the controller is. We don't know what exactly we'll find when we jump in, so let's be prepared for anything. Black alert.
+(Twirl;)
+BURNHAM: Shields up. And let's find that controller before they do.
+NHAN: If we beat them to it, what then? How do you plan on stopping them from using their weapon?
+BURNHAM: Figuring that out is next on my list.
+LINUS: Captain, dark matter interference is greater than expected.
+OWOSEKUN: Cloaking will be spotty, at best. It's impacting shield stability. Scanning range is limited, as well.
+DETMER: It's like finding a needle in a haystack, as my grandma used to say.
+SARU: Mister Booker will be facing similar challenges.
+NHAN: Yes, but he has a head start.
+BURNHAM: Detmer, plot a grid search pattern.
+DETMER: Aye, Captain.
+BURNHAM: Owosekun, scan for the subspace rift around the DMA controller. Given its size, it should be easier to find than the device itself.
+OWOSEKUN: Aye, Captain.
+NHAN: Captain, Mister Saru, I need to request that we speak privately.
+BURNHAM: Commander Nilsson, you have the conn.
+
+[Ready room]
+
+NHAN: My orders were to let you carry out this tactical operation without intervening. If it failed, I was to give you this briefing. There's a vulnerability that'll allow us to disable Book's ship before they can fire their weapon.
+BURNHAM: I know Book's ship. It's airtight.
+NHAN: Not with the prototype spore drive, it isn't. If we fire a photon torpedo at the impulse manifold, the detonation will cause a chain reaction, hit a weak spot in the drive and destroy the whole thing.
+BURNHAM: With all the interference here, we wouldn't be able to beam them out.
+NHAN: Which is why it's a last resort.
+SARU: If the explosion sets off the isolytic weapon, it could destroy Discovery in the process.
+NHAN: Not if we can jump away first.
+BURNHAM: If?
+NHAN: Billions of lives will be saved either way. Look, I'm sorry about Book, and I know the options aren't pleasant...
+BURNHAM: It isn't just about Book or Discovery. The Federation needs that spore drive.
+NHAN: We have to at least consider this.
+BURNHAM: There's too much at stake. If there's any other way...
+NHAN: And if you wait too long to realise there isn't?
+BURNHAM: That won't happen. And I will not let you...
+NHAN: I'm authorised to relieve you of command and issue the order...
+BURNHAM: I will not let you take over my ship while I safely weigh...
+SARU: Please. Please. If I may. Doctor Culber offered some sage advice earlier, that in times of division, we identify that upon which we can agree. A shared goal, perhaps, that can lead to compromise.
+BURNHAM: You're right. We need to find middle ground between us, and with Book. A shared goal. Engineering.
+
+[Engineering]
+
+BURNHAM [OC]: Stamets.
+STAMETS: I'm working fast as I can to increase the scanning range.
+
+[Ready room / Engineering]
+
+BURNHAM: Put Reno on it. I need you for something else. Check my logic here. If you needed something, you wouldn't stop until you got it, right? Or at least until you had no choice but to move on and look somewhere else for it.
+STAMETS: I... have no idea what you're talking about.
+BURNHAM: Boronite. That's what the DMA is mining, and they wouldn't leave an area until the boronite in that area was exhausted. So if we scan for the remaining boronite in this subsector...
+STAMETS: We can calculate the rate of consumption and predict how much longer before the DMA jumps again.
+BURNHAM: Exactly.
+STAMETS: Ah, but the er... margin of error. I don't have a large enough sample size.
+BURNHAM: Work with Zora to build a model based on what we've got. If we can get a timetable, we might be able to use it to get Book to stand down.
+STAMETS: On it.
+NHAN: We should call the admiral.
+BURNHAM: Let's do it together.
+
+[Booker's ship]
+
+TARKA: Any sign of the controller?
+BOOK: Not yet. And with all the interference, our cloak keeps going in and out.
+TARKA: Listen. About the shuttle...
+BOOK: They almost died.
+TARKA: I'm sorry. This mission is ten years in the making for me. I need this to work. And I understand very well what all this means to you. With Discovery in the way, there will come a point when you have to decide what's more important. Your feelings for them, or stopping the DMA.
+BOOK: Don't go behind my back again. Finish the weapon.
+TARKA: It is finished. I asked you five minutes ago where to load it, and you were too distracted to hear me.
+BOOK: Torpedo Tube Six. I'll continue scanning for the controller.
+
+[Bridge]
+
+OWOSEKUN: The sensors are picking up an energy spike.
+BURNHAM: Is it the controller?
+OWOSEKUN: I... I can't tell.
+DETMER: It's an object of some kind. Booker's ship dead ahead!
+BURNHAM: Ten degrees hard to port!
+DETMER: Aye, Captain.
+
+[Booker's ship]
+
+BOOK: I knew you were out here somewhere.
+
+[Bridge]
+
+NHAN: We have a shot. We could take it.
+BURNHAM: Or we could burn out Book's scanners, make it impossible for them to find the controller. Rhys, launch a full spread of sensor-blinding bursts at Book's ship as we pass, maximum energy yield.
+RHYS: Aye, Captain.
+
+[Booker's ship]
+
+TARKA: Where did they come from?
+BOOK: She's trying to blind our scanners.
+TARKA: Well done, them. Scanner function's down to 40%.
+BOOK: Can you fix it?
+TARKA: Yes, but not if they hit us again.
+BOOK: They won't. See that hydrogen cloud ahead? We're gonna give them a taste of their own medicine.
+
+[Bridge]
+
+RHYS: Book just fired something in the direction of that hydrogen cloud.
+BURNHAM: A magnesium charge. He's going to ignite it in 20 seconds.
+NHAN: How do you know that?
+BURNHAM: We had a run-in with pirates in Breen space, back in the day. He pulled the same move. Detmer, take us toward it.
+SARU: Captain, with compromised shields, the heat blast will burn outour thermal regulators.
+BURNHAM: We will avoid the blast if we dive in low, and that'll blind Book long enough for us to get out of here. Detmer, on my mark, full power astern. Adjust course 18 mark four.
+DETMER: Aye, Captain.
+BURNHAM: Here comes the blast. Now! Take us into that dark matter dust cloud 20 degrees off our starboard beam. Once we're in, resume the grid search.
+OWOSEKUN: Aye, Captain.
+NHAN: That was an act of aggression.
+BURNHAM: He knew whatever damage would be temporary. We're not out of options yet.
+
+[Booker's ship]
+
+TARKA: Where'd they go?
+BOOK: The Breen gambit. She's got a good memory.
+TARKA: What does that mean? And why the hell are you laughing? There's nothing funny about this. We don't know where they went.
+BOOK: I'm guessing somewhere in that dark matter cloud.
+TARKA: This isn't a game, Book. You're costing us time.
+BOOK: No, I'm saving our asses. The only thing we've got going is that I know Michael's tactics, and I know her crew.
+TARKA: Yeah, maybe you know them too well. Maybe that's the problem.
+BOOK: Just fix the damn scanner so we can find the controller before they do.
+
+[Bridge]
+
+OWOSEKUN: Captain, I'm getting strong sensor contact. High concentration of galactic barrier particles. It's the subspace rift.
+BURNHAM: Great work, Owosekun. Detmer, set a course. Stamets, where are we with that boronite timetable?
+
+[Engineering]
+
+STAMETS: We're working as fast as we can. We're crunching gigaquads of raw data.
+BURNHAM [OC]: Can you crunch faster?
+STAMETS: Is there an acceptable answer other than yes?
+BURNHAM: No.
+STAMETS: Then yes.
+
+[Bridge]
+
+(A hole in the cloud with a point of light in it.)
+DETMER: That's it, Captain. The DMA controller.
+BURNHAM: Give us a closer look.
+NILSSON: The Ten-C don't care, do they? Churn space, take boronite. Rinse and repeat.
+BURNHAM: We will stop them, and we'll do it the right way.
+NHAN: Won't be long before Book's here to try his way.
+BURNHAM: And we'll be ready. Commander Detmer, bring us in as close as possible. I want to put ourselves between Book's ship and that controller. And we are going to hold as long as we possibly can. Stamets, I need that timetable.
+STAMETS [OC]: Working on it with Zora. Just need a little bit longer.
+NHAN: We can't keep playing cat and mouse forever. Once they get here, we'll need to make a decisive move, or they will.
+BURNHAM: We just need to stall long enough for Stamets to get the data I need to talk Book down.
+NHAN: Getting new data didn't change his mind before.Why would it now?
+BURNHAM: Because he's reasonable, and he's logical, and he really doesn't want to see anyone hurt. I know he'll give us more time. I know he will. I just need to know how much.
+NHAN: And what if you're wrong?
+BURNHAM: Then we can find another way.
+NHAN: We already have another way. We need to be ready. Commander Rhys.
+RHYS: This tactical programme... it would destroy Book's ship.
+BURNHAM: We're not there yet. That's a last resort.
+NHAN: We hope to avoid this option for everyone's sake, but my orders are to prevent them from firing on that controller at any cost.
+OWOSEKUN: Sensors are picking up Booker's ship. He's coming in fast.
+BURNHAM: Okay, he'll have to decloak to get a target lock. Maintain our cloaking as best as you can. Drop it on my mark.
+OWOSEKUN: Aye, Captain.
+BURNHAM: Stamets, let Zora take over. I need you to jump.
+
+[Booker's ship]
+
+TARKA: It's genius, the controller. This is going to work. What we're doing is really going to work.
+BOOK: Is the weapon loaded?
+TARKA: On your mark.
+COMPUTER: Warning. Proximity alert.
+BOOK: Damn it. They found us. And they're blocking our shot.
+TARKA: Can you beam it in?
+BOOK: I'll have to lower the disruption field. They'd be able to beam us out.
+TARKA: Well, go around them. Jump!
+
+[Bridge]
+
+(Discovery matches the jump.)
+BURNHAM: Stamets, get ready to jump again. Detmer, stay between him and that controller. Do not let them get a clean shot.
+DETMER: Aye, Captain.
+
+[Booker's ship]
+
+TARKA: You had a shot at the controller. You should have taken it.
+BOOK: We have one weapon. We can't afford to miss. I'm gonna warn them off, target their shields.
+
+[Bridge]
+
+OWOSEKUN: Shields down to 50%, Captain.
+NHAN: Captain...
+BURNHAM: He's not trying to hurt us, just warn us off.
+NHAN: We can argue semantics all we want, but I think we can both agree that Book is shooting at us.
+BURNHAM: Rhys, return fire.
+RHYS: Aye, Captain.
+
+[Booker's ship]
+
+TARKA: So, how long are you planning on letting them hit us?
+BOOK: She's doing the same thing we are, warning us off.
+TARKA: Look, I know you love her, I know you care for her crew, but this needs to stop.
+BOOK: You want to go to some home in another universe. I lost my entire home here. Don't you dare tell me how to do this. I'm firing another round of warning shots, then we jump again. Get ready.
+TARKA: Damn it! Enough!
+BOOK: No!
+
+[Bridge]
+
+NHAN: That was a full spread of quantum torpedoes.
+OWOSEKUN: Shields down to 20%.
+NHAN: Give the order or I will, Captain.
+BURNHAM: There is no way Book was responsible for that attack.
+NHAN: It doesn't matter. I lost half my team on my last mission waiting too long to make a call I knew needed to be made. I will not let that happen again. You said it yourself, the stakes are too high. It's time.
+SARU: I fear she may be right.
+STAMETS [OC]: Captain, we've finished our calculations. It should take 154 hours - about a full week - before the DMA gets all the boronite in this area and jumps again.
+BURNHAM: Great work. Lieutenant Christopher, hail Book's ship.
+CHRISTOPHER: No response, Captain.
+BURNHAM: Keep trying. Commander Rhys? I want you to obey the order if Commander Nhan gives it. Mister Saru, you have the conn. Commander Nhan, with me.
+
+[Ready room]
+
+BURNHAM: With your team, how many lives did you save?
+NHAN: I don't understand.
+BURNHAM: How many?
+NHAN: 115.
+BURNHAM: Not too long ago, I made a choice that saved lives, too. In the process, I lost others. As leaders, we see success or failure, right or wrong. But it's never that binary. Nothing is. There is a middle ground here, and I know that I can get Book to see it. I just have to make him look.
+NHAN: What can you do, put on an EV suitand pound on his viewscreen?
+BURNHAM: I was thinking more fly a shuttle in front of his viewscreen.
+NHAN: If they try to launch their weapon, we will fire. You won't survive.
+BURNHAM: I believe in Book. But if I'm wrong, if anything happens, I know you'll save my team. Your team.
+NHAN: Good luck, Michael.
+
+[Bridge]
+
+SARU: We are standing by, Captain. Commander Rhys is locked on target.
+BURNHAM [OC]: Understood.
+
+[Booker's ship]
+
+BOOK: Touch the console again, and I'll take your hands off.
+TARKA: We came here to put a stop to the DMA.
+BOOK: Shuttle, identify yourself.
+BURNHAM [OC]: Book, it's me.
+BOOK: Michael.
+
+[Bridge]
+
+NHAN: Commander Rhys, stand by.
+RHYS: Aye, Commander.
+
+[Booker's ship / Shuttle]
+
+BURNHAM: You haven't been answering our hails.
+BOOK: Been a little busy. Impressive manoeuvring, by the way.
+BURNHAM: You too. Book, we can't go on like this. If we keep digging in on our own sides, we'll keep battling each other and not the real threat. I know you get that. You said you wished there was a middle ground?
+BOOK: I do.
+BURNHAM: I'm sending you new data. Now, given the rate the DMA is mining boronite, we expect it to remainin this uninhabited area of space for another week. No lives will be in danger during that time. And what I'm about to propose is a plan President Rillak and Admiral Vance both approved. You stand down for the week, you come aboard Discovery, we hold you there...
+BOOK: Hold us?
+BURNHAM: Not in the brig. Just there for safety's sake, and it's just one week. And the Federation uses that time to make first contact and work to convince whoever created this thing to withdraw it. And if that fails, they'll back your plan to destroy the controller.
+COMPUTER: Privacy settings activated.
+TARKA: We can't take this deal.
+BOOK: You lost voting rights when you fired those torpedoes.
+TARKA: We both have so much at stake here. You can't just decide to...
+BOOK: It's a viable compromise.
+TARKA: Or it's a lie! She would say anything to get you to back off.
+BOOK: I trust Michael completely. And it's the right choice.
+TARKA: I need that power source. I need to go home. Book... don't do this, please.
+(Privacy off.)
+BOOK: We'll stand down for a week.
+BURNHAM: Thank you. Discovery, I'm on my way back.
+
+[Bridge]
+
+BURNHAM [OC]: Cancel black alert. Book and Tarka are standing down. Prepare for them in shuttle bay.
+
+[Booker's ship]
+
+TARKA: Are you familiar with the concept "expected utility"? It's a core tenet of game theory. A mathematical method to help determine the optimal move in a situation where risk is high and the outcome is unclear. Such analysis can lead to unexpected solutions. Of course, one needs to be clear-headed to make the right move.
+BOOK: What are you doing?
+TARKA: I'm being clear-headed.
+BOOK: No!
+
+[Bridge]
+
+OWOSEKUN: Captain, they lowered the disruption field. I'm reading a transporter signature.
+NILSSON: And a massive tachyon surge inside the DMA controller.
+BOOK [OC]: Michael, Tarka beamed the weapon into the controller. It'll go off any second! You have to move!
+BURNHAM: Can we do anything? Can we stop it?
+SARU: I do not believe so, Captain.
+
+[Booker's ship]
+
+TARKA: The detonation will stretch half a parsec. We need to go.
+BOOK: Not until I know they're safe.
+TARKA: The null-space bubble will protect the internal power source, not us.
+BOOK: We're waiting until they jump.
+
+[Bridge]
+
+NHAN: You tried. Let's go.
+BURNHAM: Damn it. Black alert! Jump! Now!
+(Discovery twirls, then Booker's ship goes too. KaBOOM!)
+
+[Booker's ship]
+
+TARKA: I understand it was a risk, but it needed to be done. And it worked. Everyone's safe. The DMA's gone. No more worlds will be destroyed. You can go back, I can go home once we get the power source. I just need to find it. No. No, it's here, tt has to be. It's not here!
+BOOK: Tarka.
+TARKA: It's powered from the other side of the wormhole. Outside the galaxy.
+
+[Burnham's quarters]
+
+(Docked at Federation HQ.)
+BURNHAM: Come.
+NHAN: Any word from Book?
+BURNHAM: I keep hailing. He won't answer.
+NHAN: What happens now?
+BURNHAM: We have no idea how the Ten-C will respond, so the admiral's implementing emergency protocols in case of retaliation. We're fast-tracking the first contact mission. Commander Bryce is still looking for ways to communicate through the Galactic Barrier. The rest of us leave tomorrow. Did you say your goodbyes?
+NHAN: They made me promise I won't be a stranger.
+BURNHAM: I'm going to hold you to that, too. Please. Thank you for supporting me... reaching out to him one last time.
+NHAN: What you said earlier... how nothing's ever black and white. I actually did find my family. Most live in this one village, so I went to a park there. There were kids playing and parents hovering, same as my parents did. I tried to talk to them, but there was so much I couldn't say. That I'm from the past, for starters. So I figured if I couldn't be fully honest with them...
+BURNHAM: Like with us? Hmm. You couldn't tell us you were back in uniform, so...
+NHAN: All or nothing? That's me. Anyhow, I think it's time for me to get okay with some middle ground.
+BURNHAM: Hmm.
+NHAN: I'd love to come back to Discovery one of these days, if that's okay?
+BURNHAM: Oh, you always have a home here.
+NHAN: Good luck out there.
+BURNHAM: You too.
+
+[Sickbay]
+
+CULBER: Mister Saru. Long day. How are you holding up?
+SARU: Ah, as well as could be expected, all things considered. I wanted to commend you for your calm during today's mission. I only wish we'd found success.
+CULBER: Yeah.
+SARU: I er... considering what we're dealing with... feel silly bringing this up, but I'm in need of advice on how best to respond to... an overture from President T'Rina.
+CULBER: An overture?
+SARU: She asked me to join her for dinner. Socially.
+CULBER: Oh.
+SARU: Of course I cannot, given the mission at hand, but I'm unsure how best to convey that, even if it were possible, I would... decline. We... she and I... hail from vastly different cultures. I already feel pulled between my commitments to Kaminar and Starfleet and...
+CULBER: Do you have feelings for her?
+SARU: I think... perhaps I do?
+CULBER: With respect, sir, in my professional opinion, you're being an idiot. Connection is always a risk,but compared to everything else we're dealing with right now, I'd say it's one that you can handle.
+SARU: Mmm. Mmm.
+CHRISTOPHER [OC]: Mister Saru, you're requested on the bridge immediately.
+SARU: Thank you, Doctor, for that unexpected candor.
+
+[Bridge]
+
+SARU: Is everything all right, Captain?
+BURNHAM: The USS Mitchell is monitoring the area where the DMA was located. They just sent this.
+SARU: A new DMA has appeared?
+BURNHAM: In the exact same place.
+SARU: Then, it would seem, like it or not...
+BURNHAM: We just made first contact.
+

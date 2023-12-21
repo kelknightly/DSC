@@ -1,0 +1,539 @@
+
+[Book's ship]
+
+(Reliving the final seconds of Kweijan over and over.)
+BURNHAM: Book... Book... Book. Book. I'm here. Whatever you need.
+BRYCE [OC]: Captain, your guest is waiting for you in the ready room.
+BURNHAM: I need some time, Bryce.
+BOOK: You should go.
+BURNHAM: No, I...
+BOOK: I need you to go.
+BURNHAM: Okay. I'll check on you later.
+
+[Ready room]
+
+BURNHAM: Saru. You're here.
+SARU: Captain.
+BURNHAM: Oh... Thank you for coming so quickly.
+SARU: It is an unspeakable tragedy. Are there any survivors at all?
+BURNHAM: Right now, we only know of Book. But the Federation's trying to locate any Kwejian that may have been off-world.
+SARU: How is he?
+BURNHAM: He hasn't left his ship in two days. Keeps obsessing over every detail, trying to find... I don't know... evidence as to what may have caused it. And I've been trying to get him to talk... or cry... anything. He is in so much pain. I don't know how to reach him.
+SARU: Well, if loss has taught us anything, it is that each of us must sit with pain in our own way. And you? How are you doing?
+BURNHAM: I've been conducting post-mission analyses to figure out what I could have done differently. Lieutenant Aloka, Ensign Neville, Commander Nalas. Those losses are on me.
+SARU: It sounds like you may also be... obsessing.
+BURNHAM: Yeah. Maybe so. That's beautiful. (Saru's insignia) It's the Kelpien symbol for community, isn't it?
+SARU: Ah. Community and service. It signifies my status as a council member in my village.
+BURNHAM: Must have been hard for you to leave.
+SARU: I have made arrangements to stay in touch with Su'Kal and continue serving as a council member in absentia. Starfleet is where I am needed now.
+BURNHAM: Yes, I heard word that you were offered the command of the USS Sojourner. Congratulations.
+SARU: I told Admiral Vance I would gladly return to the chair one day. This is not that time. Our mentor, Philippa Georgiou, knew the value of another set of trusted eyes, especially in times of crisis. I asked you to be those eyes for me when I became captain. Now it would be my honour, and indeed my privilege... to do the same for you as your Number One, if you will have me.
+BURNHAM: I will take that, old friend.
+
+[Starfleet HQ]
+
+STAMETS: Five light-years across. That's the size of the gravitational anomaly that hit Kwejian and the space station.
+RILLACK: Five light-years? That's massive.
+TILLY: We couldn't believe it at first either, ma'am, but we've been analysing this data for the past 48 hours and the math doesn't lie.
+VANCE: What exactly is this anomaly?
+STAMETS: We're not certain. We know it's there, we know it's moving, but we can't quite get a handle on what it is. Our current theory is that it's a roving binary black hole.
+TILLY: We believe the two black holes are merging, creating gravitational waves in the process. Huge ones.
+VANCE: Why was Kwejian destroyed and the station wasn't?
+STAMETS: Gravitational wave's impact depends on where the object is relative to the source. The closer the object, the greater the damage.
+RILLACK: How did no one see it coming?
+TILLY: Unless matter is actively falling into a black hole, they're largely undetectable.
+STAMETS: We've been running simulations to test our theory. They seem to mirror fairly accurately what happened to Kwejian.
+(Book enters.)
+BOOK: Go on. Continue.
+STAMETS: A planet couldn't possibly withstand that kind of impact.
+RILLACK: Are there records of anything like this happening before?
+TILLY: We haven't found anything close in any of the available databases.
+VANCE: Where's it headed next?
+STAMETS: Current data is limited, but our mathematical models have it entering the Riscot system soon.
+RILLACK: Let's begin evacuations right away.
+BURNHAM: And we should warn the areas immediately surrounding it. An anomaly this size could fling debris far beyond five light-years.
+MALE CAPTAIN: Where's it going after that? Where'd it even come from?
+FEMALE CAPTAIN: Do you have any indication that it will stop?
+BURNHAM: To get answers, we need more data. We have to get out there, scan this thing up close.
+T'RINA: Once you have the data, I offer the services of the Ni'Var Science Institute. We may not be Federation members, but a crisis such as this requires all to contribute.
+RILLACK: Thank you, President T'Rina.
+T'RINA: It would also be prudent to prepare ourselves for civil unrest. This news may reawaken post-Burn fears.
+SARU: We are at a fragile time. Openness and a unified strategy will be critical.
+RILLAK: Which is precisely why you're all here. Federation, non-Federation... This anomaly threatens us all equally. We must all work together.
+VANCE: Discovery will leave for the anomaly immediately.
+
+[Corridor]
+
+CREWWOMAN [OC]: All crew, report to stations, please. All crew, report to stations.
+SARU: Yes, Lieutenant?
+TILLY: Sorry. Sorry, just, er... I was... Urgh, sorry. I'm just... keep making it more and more weird. I'm just gonna say it. You... did you get taller?
+SARU: Not that I'm aware of.
+TILLY: Oh. Oh, okay. I d... I don't know if Kelpiens grow later in life, or but... You just... you do, you seem taller.
+SARU: Do I?
+TILLY: Yeah. I don't know, maybe you just, like, have a little more swagger going on or something. That's a compliment.
+SARU: Then I thank you.
+TILLY: I'm really glad you're back.
+SARU: I missed you, too. And I am very sorry for what you went through on the space station.
+TILLY: Thank you.
+CREWWOMAN [OC]: Security briefing on Deck Seven in five minutes.
+TILLY: When I think about... Nalas and, er... Kwejian, all those people... Hell, life is just a blink, huh? It's... it is one heartbeat in the entire lifespan of the universe. Just don't really think I understood that before.
+SARU: How we choose to spend our moments in the short time that we have... matters.
+(They enter the turbolift. Saru pats Tilly on the back.)
+
+[Bridge]
+
+OWOSEKUN: Welcome back, Captain.
+SARU: Thank you. But please call me Saru.
+BURNHAM: How about Mister Saru?
+SARU: Well, that would be... acceptable.
+BURNHAM: Commander Bryce, open a ship-wide channel.
+BRYCE: Aye, Captain. Ready.
+BURNHAM: Discovery. Today we seek to understand a threat like none our galaxy has faced before. We know the cost of its destructive power all too well. We lost colleagues, friends... and Kwejian. Countless lives... histories... futures. We won't let their deaths be in vain. And we are going to make damn sure nothing like this happens again. Not on our watch. Not on our watch. Black alert.
+RHYS: Aye, Captain.
+BURNHAM: Commander Detmer, jump us in but keep a safe distance.
+DETMER: Aye, Captain. (twirl) We've reached the coordinates, Captain.
+BURNHAM: Yellow alert. On screen. Commander Owosekun, apply a polarising spectrographic filter.
+OWOSEKUN: Aye, Captain.
+(The phenomenon appears.)
+BURNHAM: Tilly, get Commander Stamets up here. Detmer, how are we doing?
+DETMER: Safely in the green zone, Captain. Matching the anomaly's speed to maintain relative distance.
+BURNHAM: Any strain on the ship?
+OWOSEKUN: Subspace gravitational waves are present, but not the patterns we expected. It's very odd.
+BURNHAM: That's not the only thing. Binary black hole means we should be seeing two of them.
+STAMETS: Curiouser and curiouser.
+BURNHAM: Scientific observation, please?
+STAMETS: Apologies, Captain. It's just not what I was expecting to see, either.
+TILLY: There's an accretion cloud made of both gas and dust, and large amounts of dark matter surrounding a gravity well, so a black hole makes sense, but...
+STAMETS: But the gravitational Doppler shift from our scans is way off.
+BURNHAM: Meaning?
+STAMETS: Meaning, I have no idea what we're looking at. It's... bizarre. And that is a scientific observation.
+BURNHAM: What else are our scans telling us?
+TILLY: Not much. Scans can't penetrate the outer edge of the accretion cloud.
+SARU: Can we boost power to the scanners?
+TILLY: I already tried. The scans aren't viable unless we get closer.
+BURNHAM: How close?
+TILLY: Past the outer edge of dust and into the accretion cloud?
+DETMER: That's in the yellow zone, Captain. Discovery would be at serious risk.
+BURNHAM: We have to know what we're dealing with. Mister Saru?
+SARU: We could send DOTs with sensors attached, but the gravitational distortions would make it very difficult to communicate with them.
+NILSSON: They're also way too small. Not enough mass to penetrate the dust.
+BOOK: My ship can do it. Enough mass to get in, not so much that I'll be in trouble. Plus, my ship can change shape to compensate for the torque. As long as I'm not inside too long...
+TILLY: The science holds.
+BURNHAM: Commander Detmer, get ready. Commander Stamets, I want you with her to conduct the scans.
+BOOK: Captain. Can we talk?
+
+[Ready room]
+
+BOOK: Detmer doesn't know the first thingabout how to morph my ship.
+BURNHAM: Whoever goes in there has to be clear-headed.
+BOOK: And I'm not?
+BURNHAM: How could you be, after everything that's happened?
+BOOK: That's for me to judge.
+BURNHAM: And me. As captain of this ship...
+BOOK: Pretend for one second you're in my place. Come on, Michael, you'd fight like hell to go on this mission.
+BURNHAM: And Hugh would say no.
+BOOK: Michael...
+BURNHAM: And he would be right.
+BOOK: That thing destroyed my home.
+BURNHAM: I know. And I know you want to do something.
+BOOK: I'm the best pilot for this mission and you know it.
+BURNHAM: Listen, I know you want to do something, but it's not as simple as that. BOOK I don't need your permission. I'm not Starfleet. Technically, I'm not even under your command.
+BURNHAM: If you go out there and you're not ready, you endanger everyone on this ship. Come on, Book. I know you don't want to put more lives at risk.
+BOOK: Getting this data, and doing it right the first time, is our best chance to save lives. We can warn other worlds, give them time to evacuate. I'm going, Michael. I'm flying straight at that thing. If you want to stop me, you can throw me in the brig or you can shoot me out of the sky. But I'm going.
+
+[Sickbay]
+
+GRAY: It's everything I'd imagined. I can't believe I get to start my life again. I could become a host again. Finish my training to be a Guardian. I could...
+ADIRA: Anything. I mean, you can do anything. Yeah. But... with everything that's happened...
+CULBER: Is there something not right with the body?
+ADIRA: He's feeling guilty about being happy right now. You know?
+CULBER: Life goes on, Gray. It has to. For all of us. But the artisan did a beautiful job with the body. She used the Soong Method, named after the 24th century cyberneticist who developed it.
+GRAY: This is 800-year-old technology? Maybe I should get a synth body when I die, too. We could live forever.
+CULBER: Well, not likely. But the process was attempted a number of times after Doctor Soong first used it on a... a Starfleet admiral... Picard was his name... but the success rate was so low that eventually people just stopped trying.
+ADIRA: What... Should we be worried?
+CULBER: Well, the fact that Gray's consciousness has already survived transfer to a new host once seems to be a good sign. But we should ask Guardian Xi once the synthetic body's ready.
+GRAY: When I incorporate, will the body age and die? Like I would have before?
+ADIRA: Er... he's asking if this body will get old. You know, like, grey hair, the long, scraggly nose hairs, the pot belly and all.
+GRAY: So not what I said.
+CULBER: It will age in the same way, for better or for worse.
+GRAY: Can we get rid of the mole?
+ADIRA: I thought you stopped hating that.
+GRAY: I just asked because... transitioning, it's like I had bigger things to think about, but if I get another chance to remake my body, then... why not get rid of all the things that aren't totally me, you know?
+ADIRA: He wants to lose the mole.
+CULBER: Oh. Well, that's why we're here, to make last-minute adjustments.
+
+[Ready room]
+
+BURNHAM: Come.
+SARU: Oh. You added a holo.
+BURNHAM: Helps to get away sometimes.
+SARU: Is this Ni'Var?
+BURNHAM: Cliffs of Surak. That's Lake Yuron. It looks the same as it did when I was a child, when this was Vulcan. I used to run away. I used to run away here, when I was getting used to my parents being gone.
+SARU: Er... you wished to speak with me about Mister Booker?
+BURNHAM: Take me home, Zora.
+ZORA: Yes, Captain.
+(Scenic hologram vanishes.)
+SARU: The computer's now Zora?
+BURNHAM: Picked the name herself.
+SARU: Oh.
+BURNHAM: Please. Book plans to fly to the anomaly with or without my permission.
+SARU: Well, that would certainly be deleterious to your relationship.
+BURNHAM: The captain in me knows that he's the right choice for the mission. He knows it, too. But... I've seen him... not sleeping, not eating...
+SARU: Mister Booker's expertise with his ship does make him supremely well suited for this particular task. More so than Commander Detmer, despite her considerable skills.
+BURNHAM: His planet was destroyed.
+SARU: Well, billions more lives will be at risk until we understand the anomaly well enough to predict its path.
+BURNHAM: So you think I should let him go.
+SARU: As do you, I believe. Yeah, but your personal feelings complicate your decision.
+BURNHAM: What if he takes unnecessary risks?
+SARU: I wonder then if added safety measures would be helpful to all involved. I have some ideas, if that would be helpful.
+BURNHAM: Have I mentioned I am glad you're back?
+SARU: I believe you have.
+
+[Engineering]
+
+STAMETS: You want to send the only two people who can operate the spore drive, together, into the accretion cloud of an unknown astrophysical entity? You might as well blow me out an airlock.
+BURNHAM: Oh?
+STAMETS: Too soon? Probably too soon. But still, it's madness.
+BURNHAM: Yes, which is why you'll be going as a holo.
+STAMETS: Oh. Well, in that case...
+BURNHAM: Your body will be right here on Discovery the entire time.
+STAMETS: The anomaly creates enormous distortions. We might not be able to maintain a holo signal.
+BURNHAM: Right, which is why we'll be using a tether to help Book's ship maintain proximity to Discovery, and if we have to, we will use it to pull him out. (to Culber) And I want you on the bridge, listening in on comms. Let me know if you have any reason for concern.
+CULBER: Yes, Captain.
+(Burnham leaves.)
+CULBER: Blow me out an airlock?
+STAMETS: It was humour.
+CULBER: Neural link. You'll feel everything on Book's ship as if you were really there. If, for whatever reason, you remove this transmitter, you'll be right back here... What's wrong?
+STAMETS: I wouldn't know what to say to Book on a good day.
+CULBER: Well, when you lost me, what did you want people to say to you?
+STAMETS: It's not nearly the same thing.
+CULBER: Grief is grief. And everyone moves through it differently. Let Book guide you.
+STAMETS: Are you sure? Things have been seriously awkward with him since he jumped Discovery to the dilithium planet.
+CULBER: Just trust your instincts.
+STAMETS: You should know better than to say that to me.
+CULBER: You're better than you think you are.
+
+[Book's ship]
+
+STAMETS: Book. Hi. Er... sorry, I'm... still getting used to this, er... new tech.
+BOOK: We're leaving soon. Get ready.
+STAMETS: It's so smooth. I... I thought I'd be able to tell the difference, but...
+BOOK: Wait for us to crash, then we'll see.
+STAMETS: Right. So, um, I've been meaning to ask you. When... when you're using the spore drive interface, do you ever feel... cramps in your hands, or er... tingles in your arms? No? Okay. Hey, girl.
+(Grudge growls.)
+BOOK: I wouldn't do that. Holos freak her out. She can't smell you. Come on, darling. Let's get you secured.
+STAMETS: Look, er... I get it. We're not friends. But I know you've been through a lot, so er... if there's anything I can do to help out or...
+BOOK: Maybe stop talking. That'd be a good start.
+STAMETS: Excuse me?
+BOOK: I don't need a tether and I sure as hell don't need a minder.
+STAMETS: I'm here for the data. You wouldn't know what to look for.
+BOOK: Fine. I fly. You scan.
+
+[Bridge]
+
+BURNHAM: Owosekun, how's it looking out there?
+OWOSEKUN: Gravitational fluctuations remain within safe parameters.
+BURNHAM: All right, Book, we're good to go. Detmer, bring us as close as we can safely get. He'll take his ship in from there.
+DETMER: Aye, Captain.
+BURNHAM: Rhys?
+RHYS: Tether's holding, Captain.
+BURNHAM: Keep an eye out for micro-strains. Any sign it's failing and we're pulling him out.
+RHYS: Aye, Captain.
+BOOK [OC]: Approaching the dust layer.
+BURNHAM: You good, Book?
+BOOK [OC]: Yup.
+
+[Book's ship]
+
+BOOK: Going deeper in. You said dust layer. Some pretty large chunks in here.
+STAMETS: Well, it did just pass through a planetary system. I'm sorry. Can your shields handle this?
+BOOK: Holding steady so far.
+(Book sees birds amongs the debris and hears a child laughing. Memories.)
+STAMETS: Hey. Are you okay?
+BOOK: Don't ask me that again.
+
+[Bridge]
+
+BOOK [OC]: We're through the outer layer. Stamets has started scanning.
+(Alarm sounds.)
+BURNHAM: Tilly?
+TILLY: Captain, we're about to be hit by a subspace gravitational wave...
+(All float up into midair.)
+BURNHAM: Status report!
+OWOSEKUN: I can't reach my station.
+BURNHAM: Zora!
+ZORA: Artificial gravity generators are unable to compensate for extreme...
+BURNHAM: How long will they last?
+ZORA: It will pass in... Now.
+(All drop back to the deck. Big display of sparks from all directions.)
+BURNHAM: Is everybody okay?
+TILLY: That wasn't supposed to happen.
+BURNHAM: Red alert. Let's find out why it did. Where did it come from? Did we get pulled into the yellow zone?
+DETMER: No. We're still at a safe distance.
+BURNHAM: How's the tether?
+RHYS: Holding steady, Captain.
+BURNHAM: Damage report?
+OWOSEKUN: Port nacelle needs repairing. Power failure in Engineering, hull integrity at 55% percent.
+SARU: Discovery will not survive much more of that.
+CULBER: (to Tilly) Your chin.
+BURNHAM: Get Adira up here. I want you two to figure out what just happened, and if it's going to happen again.
+TILLY: Aye, Captain.
+CULBER: I need to finish.
+BURNHAM: Go. Make it fast.
+
+[Book's ship]
+
+BURNHAM [OC]: Stamets. What's the status on those scans?
+STAMETS: Whoa. It's going slow, but I'm getting a ton of data. Can't you make it go steadier?
+BOOK: You're kidding, right? I'm workin' magic over here.
+STAMETS: Well, then, magically keep it steady. Damn it. I lost navigation.
+
+[Bridge]
+
+BURNHAM: We're pulling you out.
+
+[Book's ship / Bridge]
+
+BOOK: No. We need this data. We need answers.
+BURNHAM: No, Book...
+STAMETS: I could really use the time.
+BURNHAM: How much time, exactly?
+STAMETS: Er... let's call it... ten minutes.
+
+[Bridge]
+
+BURNHAM: We will do our best. I need to know if one of those fluctuations will happen again, Tilly.
+TILLY: On it. Oh!
+CULBER: (to Adira) You have a cracked rib.
+TILLY: Gravitational fluctuations have exceeded all the anticipated parameters. Something has changed. We-we need to figure out what.
+ADIRA: I've been working on a new predictive algorithm, but the data's so limited that I...
+TILLY: Well, did you include Nalas's gravimetric data from the station in your calculations?
+ADIRA: Of course. I've done this before. You don't have to check my work.
+TILLY: Hey! You don't get to do that, okay? We've all done this before. We still double and triple check our work. Now, make sure that you've included the irregular gravitational strain on the ship. Please. Thank you. Sorry. I'm, like, Stamets-ing right now.
+CULBER: We're all under a lot of pressure. And what happened on that station was... And you know Adira's just trying to impress you, right? They really look up to you.
+ADIRA: Okay, er... I... I've adjusted the numbers to account for the gravimetric variant and... we have a problem.
+TILLY: Captain! Er... good news. We know when the next disturbance is gonna hit. Bad news... it's in two seconds.
+BURNHAM: Everybody brace!
+(Up in the air they go, then down again.)
+BURNHAM: Damage report.
+OWOSEKUN: Injuries on multiple decks. Structural and power failures on decks 14 through 16.
+NILSSON: Another one of those and the artificial gravity generators will give out completely.
+BRYCE: If the hull doesn't open before it.
+CULBER: You okay?
+ADIRA: Yeah.
+BURNHAM: Tilly, how much longer do we have?
+TILLY: Four minutes. Then a minute and a half. Then 40 seconds.
+BURNHAM: Why so irregular?
+TILLY: We don't know yet.
+BURNHAM: Get back to it.
+TILLY: Aye, Captain.
+BURNHAM: We have to pull Book out.
+SARU: Or we can release the tether and allow them to continue their work.
+BURNHAM: He doesn't have navigation.
+SARU: And without that data, Captain, we have nothing.
+BURNHAM: Discovery has to pull back. Where are you with scans?
+
+[Book's ship / Bridge]
+
+STAMETS: I need, er... five more minutes.
+BURNHAM: Make it three.
+STAMETS: I... I'd be lucky to get it in five.
+BURNHAM: What if we come back?
+BOOK: It'll take a week to fix this ship.
+BURNHAM: Stamets, can you do your analysis with what you have?
+
+[Book's ship]
+
+STAMETS: I... I won't know until I can get into the data. And in the meantime, this... thing will just be roaming around and... who knows how much more damage it can do?
+(Book is seeing the child again.)
+STAMETS: Book? Hey. Book, what the hell is going on with you? They're talking about pulling us out.
+BOOK: Yeah, that's not happening. We're not leaving without the data. You have to release the tether.
+
+[Bridge]
+
+BURNHAM: Does it sound like he's thinking clearly?
+CULBER: In these circumstances, it's impossible to distinguish between stress and emotional instability.
+BOOK [OC]: Michael. We can do this.
+BURNHAM: Rhys, let him go.
+RHYS: Aye, Captain.
+BURNHAM: Detmer, pull us back.
+DETMER: Aye, Captain.
+BURNHAM: Book's flying blind. Without the tether, we have to find another way to get him out before his ship fails completely. Start thinking.
+ALL: Aye, Captain.
+
+[Book's ship]
+
+STAMETS: Er... three more minutes for the scan.
+BOOK: You said that three minutes ago.
+STAMETS: Oh, wow! Watch it! What is that? Is that the... the boson energy transfer unit?
+BOOK: That's the one.
+COMPUTER: Warning. Power failure. Engines at 70%.
+BOOK: Discovery, we're losing engines. Grab a phase discriminator.
+STAMETS: Where?
+BOOK: Over there.
+STAMETS: You say that like it should be obvious.
+BOOK: Just pretend like your life depends on it, you know? Like mine does.
+STAMETS: You know, I was told to follow your lead, that you would let me know what you needed.
+BOOK: What are you talking about?
+COMPUTER: Engines at 60%.
+STAMETS: I'm... I'm talking about me trying to be sensitive, and you being you.
+(Working on the energy transfer unit that popped up out of the main console.)
+BOOK: You do realise you've spoken to me more today than you have in the past, what, five months?
+STAMETS: That's not true.
+BOOK: Ever since you found out I could run the spore drive. Your ego got bruised and then you blamed me.
+STAMETS: Nothing to do with it.
+BOOK: What is it, then?
+STAMETS: You remind me of how helpless I was. When I look at you, all I can see is how close I got to losing everything again. You were the one who saved my family. I wasn't able to do anything and... I hate that feeling.
+COMPUTER: Engines at 30%. Data scan complete.
+BOOK: Go. Pull off the neurotransmitter and get back to Discovery. Start analysing.
+STAMETS: I can't.
+BOOK: What?
+STAMETS: The... the distortions that keep interfering with my holo? I haven't been able to send any of the data back. It lives here, on this ship and nowhere else.
+
+[Bridge]
+
+TILLY: Captain, we've got something.
+ADIRA: Okay. Er... this is what the subspace gravitational waves look like where Book is. Whatever's making them hit us harder, they're hitting him harder, too.
+TILLY: Yikes, right? But we think, in theory, Book could catch one of these waves and sort of... ride it out.
+SARU: Mister Booker's engines are losing power. How could he even attempt such a thing?
+BRYCE: Newtonian mechanics. Basic application of fluid dynamics. I used to kite-surf the biggest breaks on Manark IV. It's the same basic idea. If Book accelerated into the distortion here, the buoyancy will take care of the rest.
+DETMER: But without navigational sensors, he won't be able to gauge the right angle. He can't just feel it.
+BURNHAM: Maybe there's a way he can. Tilly, can you turn this holo rendering into programmable matter?
+TILLY: Oh, you bet. Er... why would I do that?
+
+[Book's ship / Bridge]
+
+BOOK: You want me to do what?
+BURNHAM: Like kite-surfing. If you hit it at just the right angle, it will carry your ship out.
+BOOK: I'm flying blind.
+BURNHAM: I'll tell you when. You just have to follow my mark exactly.
+
+[Book's ship]
+
+STAMETS: Got it.
+COMPUTER: Engines at 20%.
+BOOK: You think that repair will hold?
+STAMETS: It's barely stitched together. It could blow any time.
+BOOK: Glad I asked.
+
+[Bridge / Book's ship]
+
+BURNHAM: On my mark. Get ready... Now!
+BOOK: You sure?
+BURNHAM: Go! What happened? Book?
+
+[Book's ship]
+
+BOOK: I missed it. Damn.
+STAMETS: Listen. Another will come. It'll be tight, but... but there is enough power to the engine to give it one more shot. You get to try again. That's something. We'll... we'll try this again.
+BOOK: It's over.
+STAMETS: It's not.
+BOOK: Pull off the transmitter.
+STAMETS: No.
+BOOK: You're not even here. No one's here.
+STAMETS: I'm here. We're all here.
+BURNHAM [OC]: Another distortion will come in less than two minutes. Are you ready?
+(Book sees the child from his memories.)
+BURNHAM [OC]: Book? Are you there? Book. Book, we don't have a lot of time.
+STAMETS: Captain, I think he may need a little more help with this one.
+
+[Bridge]
+
+SARU: Perhaps now is an appropriate time for you to set aside the captain in favour of the partner?
+BURNHAM: Bryce, open a private channel, please. Hey, Book. It's just us now.
+
+[Book's ship]
+
+BURNHAM [OC]: You and me. And I need you to listen to me. You couldn't have saved them. There is nothing you could've done. You couldn't have known.
+BOOK: The birds. The way they took to the sky. I should have sensed it.
+
+[Bridge / Book's ship]
+
+BURNHAM: No. This isn't your fault.
+BOOK: I should've taken them with me. Kyheem... Leto... I failed, Michael. I failed them.
+BURNHAM: I know it feels that way. But you didn't. You didn't fail them. And I won't fail you, now or ever. I am with you. The entire crew is with you. We're gonna do everything in our power to make sure you make it back safely, but I need you to trust me right now. Please. Just close your eyes. Listen to my voice. Stay with us. Stay with me. I'll tell you when to go, and when I do, I need you to gun it with whatever you have left. Another distortion wave is coming. Just ride it out. Get ready. Open your eyes. Now!
+
+[Bridge]
+
+BURNHAM: Any sign?
+OWOSEKUN: Not yet.
+BOOK [OC]: I'm free. I'm clear. Transmitting scan data now.
+BURNHAM: It's time to come home.
+SARU: And well done, Commander Bryce. May we all cultivate such life-saving hobbies.
+BRYCE: Thank you, Mister Saru.
+TILLY: Nice work, you.
+ADIRA: Oh.
+TILLY: Really good work.
+ADIRA: Thanks.
+
+[Book's ship]
+
+BOOK: Cut it close there, for sure.
+STAMETS: Well, this data should be a gold mine.
+BOOK: Oh, don't look at me. That was all you. I just drove this thing.
+STAMETS: Thank you for saving my family. I'm going to figure this thing out, for you. Whatever it takes. I promise.
+BOOK: You know... I do get arm tingles in the spore drive. Yeah. Weirdest thing.
+STAMETS: I'm going to take this off now.
+
+[Engineering]
+
+CULBER: Welcome back.
+
+[Corridor]
+
+CREWMAN [OC]: Lieutenant Callahan, please report to Engineering.
+TILLY: Oh. Hey. Hi, sorry. I just wanted to thank you, er... for your advice er... with Adira.
+CULBER: It can be hard for them to let others see past how bright they are.
+TILLY: Yeah. You have a very er... light touch with people. I really admire that.
+CULBER: You do, too. Usually.
+TILLY: Yeah. I think er... you were right about me feeling pressure. Not about the station, but... I mean, don't get me wrong, that was just... unbelievably shitty, but er...
+CULBER: But this is something... bigger?
+TILLY: Yeah, like... things just don't f... feel the same way that they used to. Like... I don't know, something's off, or I'm off. I don't know. I was kind of hoping that we could talk about it sometime. Like, talk-talk? Like er... professionally?
+CULBER: Of course. And whatever it is, we'll figure it out together. Hmm?
+TILLY: Thanks. Okay. That wasn't so hard. Just... a little awkward. Not... But not hard.
+CULBER: You did good.
+TILLY: Thank you. I'm gonna go dig into that data.
+CULBER: All right.
+TILLY: All right.
+CULBER: Go save the world.
+TILLY: Oh, I will.
+
+[Adira's quarters]
+
+GRAY: You were kind of a...
+ADIRA: Oh, my God.
+GRAY: ..big deal today, you know that? Your algorithms are mathematical works of art.
+ADIRA: Thank you. I guess I er... made waves. Okay, no.
+(both laugh)
+GRAY: What is it?
+ADIRA: You... you got to see your body today. Which is huge and I'm so happy that you get to incorporate soon.
+GRAY: I hear a but...?
+ADIRA: No.
+GRAY: It's okay. You can tell me.
+ADIRA: Nalas. Everything that, er... happened. You know, the suddenness of it, and just the whole awful thing, reminded me of what happened to you. It's just been on my mind. I... I didn't want to bring it up on such a joyful day, so I'm really sorry. I don't even know how to begin to talk about this.
+GRAY: You just did.
+ADIRA: You're really good at this, you know? The... the being there for people. You always have been, so...
+GRAY: Everyone's got to have their thing.
+ADIRA: Yeah. And you're gonna make a great Guardian someday.
+
+[Book's ship]
+
+BURNHAM: Hey.
+BOOK: Hey.
+BURNHAM: Hell of a day. Brilliant flying.
+BOOK: You were right. I wasn't ready.
+BURNHAM: But you did it. And you trusted me. Thank you for that.
+BOOK: I keep seeing him. Leto. I don't know if he knew... if I ever let him know how much I loved him. You know, for so many years, I told myself I didn't need family. I didn't need Kwejian. But then I found my brother again... the nephew I didn't even know I had. And when I looked at Leto I saw a new beginning for all of us. We could give him a future where there was a home, and family, and love. And nothing he couldn't do.
+BURNHAM: I'm sorry.
+BOOK: They're gone, Michael.
+
+[Bridge]
+
+TILLY: Mister Saru?
+SARU: Lieutenant. Has the data from Mister Booker's ship shed new light on the nature of this threat?
+TILLY: Not yet. We still have an Everest-sized mountain of data to analyse. Oh. Er... Earth mountain. It's very big. Doesn't matter. Point being, I did find something. The reason the distortions got worse, even though Discovery held its position? So this is the anomaly when we arrived. And this is it after we left.
+SARU: It changed direction? What could have caused that?
+TILLY: That's the thing. There is nothing in my understanding of astrophysics that can explain it.
+SARU: But... we gathered this data in order to predict its path. Are you saying we cannot do that?
+TILLY: No, sir, we can't. It could go anywhere, at any time, and we may not have any kind of warning at all.
+(Pull back to what looks vaguely like a sketch of a mega-gigantic eye.)
