@@ -15,22 +15,38 @@ Research inspired by the work of Jarrah Hodge who has evaluated classic Trek in 
 Notably, Star Trek Discovery episode 1 season 1, 'The Vulcan Hello', which aired in September 2017, passes the Bechdel test with the very first character interction we see. 
 
 > BURNHAM: We come in peace. That's why we're here. Isn't that the whole idea of Starfleet?
-GEORGIOU: Hey, I taught you that.
-BURNHAM: You don't trust me, Captain?
-GEORGIOU: I trust you with my life, Commander Burnham, but it doesn't change the fact that you're lost. Very lost.
-BURNHAM: Technically, we would be lost.
-GEORGIOU: How long until that storm comes crashing down on us?
-BURNHAM: I estimate one hour, 17 minutes, 22 seconds. Which is why I've made sure we're not lost. The map says the well is this way, Captain.
-(They walk on.)
-BURNHAM: This drought's going to last 89 years. The Crepusculans are facing extinction as a species. See those egg sacs? Those are their offspring.
-GEORGIOU: They've survived here for over a thousand years, Michael.
-BURNHAM: Right, and if we don't do something now, they won't live another thousand hours. The ambient radiation from a nearby drilling accident dried out their water table. If we can get in and out without making contact, we can steer clear of General Order One. And there is the well.
-GEORGIOU: I stand corrected.
-BURNHAM: Ye of little faith.
-GEORGIOU: Oh, never had a doubt. (powers up phaser rifle) Tell me what I need to break through this bedrock.
-BURNHAM: Point 7 second field burst at level setting 13.5.
-(Three shots are sent down the well. Rumble, then water erupts out.)
-GEORGIOU: Georgiou to Shenzhou. Two to transport.
+>
+> GEORGIOU: Hey, I taught you that.
+>
+> BURNHAM: You don't trust me, Captain?
+>
+> GEORGIOU: I trust you with my life, Commander Burnham, but it doesn't change the fact that you're lost. Very lost.
+>
+> BURNHAM: Technically, we would be lost.
+>
+> GEORGIOU: How long until that storm comes crashing down on us?
+>
+> BURNHAM: I estimate one hour, 17 minutes, 22 seconds. Which is why I've made sure we're not lost. The map says the well is this way, Captain.
+>
+> (They walk on.)
+>
+> BURNHAM: This drought's going to last 89 years. The Crepusculans are facing extinction as a species. See those egg sacs? Those are their offspring.
+>
+> GEORGIOU: They've survived here for over a thousand years, Michael.
+>
+> BURNHAM: Right, and if we don't do something now, they won't live another thousand hours. The ambient radiation from a nearby drilling accident dried out their water table. If we can get in and out without making contact, we can steer clear of General Order One. And there is the well.
+>
+> GEORGIOU: I stand corrected.
+>
+> BURNHAM: Ye of little faith.
+>
+> GEORGIOU: Oh, never had a doubt. (powers up phaser rifle) Tell me what I need to break through this bedrock.
+>
+> BURNHAM: Point 7 second field burst at level setting 13.5.
+>
+> (Three shots are sent down the well. Rumble, then water erupts out.)
+>
+> GEORGIOU: Georgiou to Shenzhou. Two to transport.
 
 This piece of sample dialogue proved very useful when iterating through the process of designing the script because I was able to use it to refine my analytical process and avoid false negatives. 
 
