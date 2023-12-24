@@ -1,0 +1,577 @@
+
+
+[Federation HQ]
+
+TILLY: Each deck of Federation Headquarters is able to function independently, essentially as its own life lifeboat, so don't waste any space. As soon as your deck is filled to capacity, report to your CO, who will detach and warp to Evacuation Base Gamma. We need to get as many people to safety as quickly as possible.
+TANNOY: Lieutenant Simms, please report to shuttle bay.
+TILLY: People are scared. They're losing everything. They're gonna be looking to the Federation for guidance, for safety, for hope. We get to give that to them.
+OPS OFFICER [OC]: Attention all personnel, please stand by. We'll be dropping out of warp in one minute.
+TILLY: All available officers are on evac duty. Our job is to help them succeed. As of now, you are no longer cadets. I know you may not feel ready, but I assure you, you are. We can do this. Dismissed. Gorev, Harral, you're with me.
+(HQ and other spaceships arrive at Earth.)
+FEMALE [OC]: Deck 29's at capacity. Requesting permission to undock.
+VANCE: Permission granted. See you at the rendezvous point.
+MALE [OC]: ..running out of time.
+AIDE: Admiral Vance. Ni'Var has 17 ships heading to the evacuation base. Do you want me to bring them here after they unload?
+VANCE: No. They should stick to the plan. Ni'Var only has 86 warp-capable ships as it is.
+AIDE: Yes, sir.
+TILLY: How long do we have here, sir, to help Earth?
+VANCE: Four hours until the DMA starts to hit.
+TILLY: Well, the Mitchell is at Titan. Even with the entire colony on board, they won't hit capacity.
+VANCE: It's a good idea. When the Mitchell's done, get them back here to pick up as many additional refugees as they can.
+OFFICER: Yes, sir.
+HARRAL: Excuse me, sir. I'm sorry, Admiral, I was just wondering. How many can we save? Realistically?
+VANCE: If first contact fails, all off Titan. Maybe 450,000 off of Earth. Same with Ni'Var. Best case.
+GOREV: That's it?
+TILLY: Please hurry, Michael.
+
+[Discovery]
+
+BURNHAM: Where is Stamets on getting us out of this orb?
+NILSSON: He's testing some theories. Nothing concrete yet.
+BURNHAM: What about the Ten-C, any response?
+CHRISTOPER: Negative. Doctor Hirai is still asking them to release us.
+BURNHAM: Owosekun, what's the status on Tarka?
+OWOSEKUN: Scans show he's gaining speed, heading for the DMA power source. It's encased within a silicon-ellanium alloy. Same as the DMA controller itself.
+NILSSON: That alloy's incredibly effective at containing energy, but it won't withstand external forces. So whatever Tarka's planning...
+BURNHAM: He's going to hit it with the gravimetric beam.
+RILLAK: If the Ten-C think they're under attack, they won't come back and talk to us. Not in time.
+RHYS: Ten-Cs just launched another orb, Captain. Looks like they're trying to capture Book's ship.
+BURNHAM: Keep me posted. Lieutenant Christopher, tell Commander Stamets to test faster. I want us out of the orb, whatever it takes. And have the diplomatic personnel gather in the mess hall.
+CHRISTOPHER: Yes, Captain.
+BURNHAM: Madam President, if you'd join me?
+RILLAK: May I ask what you have in mind?
+BURNHAM: I'm going to confine them all to quarters. I think you should be there when I tell them.
+
+[Booker's ship]
+
+TARKA: The orbs will capture us again if we don't keep changing our astrodynamics. Where is your presto chango button?
+BOOK: I'm not helping you with another damn thing.
+TARKA: I don't understand. I'm doing exactly what we said we'd do. Nothing's changed.
+BOOK: Everything's changed. The cost of this. It has to be the last resort.
+TARKA: You heard Ndoye, right? The first contact team is gone. They're in an orb. They could be dead for all we know.
+BOOK: No. They're talking to the Ten-C. It could work. You once told me anger can be productive. It can also blind you.
+TARKA: I've been trying for ten years! I'm going home. I'm finding Oros. End of story. There it is.
+BOOK: There's got to be a way out of this.
+RENO: If I had some hot and sour soup. Wouldn't help us, I'm just hungry. The upside is, when we hit the hyperfield, we'll be vaporised immediately.
+BOOK: Where's the upside in that?
+RENO: We'll die fast. I hate pain.
+(Big thump, a cat collar falls at Book's feet.)
+BOOK: Or maybe we'll survive after all.
+
+[Corridor]
+
+BURNHAM: I'm sorry, Madam President, but plasma doesn't vent itself. This entire mission is compromised.
+RILLAK: There has to be a less public way to handle this. It'll erode their trust in one another.
+BURNHAM: I can't let whoever did this keep walking around my ship.
+BURNHAM: I'll fill you in once everyone is here, but I'm gonna need to lock you all down.
+NDOYE: That won't be necessary. I'm the one who aided their escape.
+RILLAK: What? Why would you...?
+NDOYE: United Earth is running out of time, and you were all gone. We had no idea where the orb went, when you'd be back, or if you were even still alive. They can stop the DMA right now.
+BURNHAM: No, no. Billions of people might still die.
+NDOYE: No. Mister Booker assured me that...
+BURNHAM: Was that before or after Tarka took him hostage?
+RILLAK: Communication with the Ten-C was working, General. We think they would have withdrawn the DMA in time.
+BURNHAM: Officer Zena. Please confine General Ndoye to her quarters.
+NDOYE: Captain. Madam President. I remain ready and willing to serve.
+SARU [over comm]: Captain, we have received an answer from the Ten-C.
+
+[Ready room]
+
+BURNHAM: What did they say?
+SARU: Well, it is rather bewildering. We have been asking them to release us from the orb. They replied that we are already free of it.
+BURNHAM: Are we sure the message was clear, Zora?
+ZORA: For that particular exchange, I estimate our accuracy to be in the 96th percentile.
+RILLAK: Could they be confused about who sent it?
+HIRAI: More likely they presume we're working with Booker and Tarka. We did arrive here together.
+BURNHAM: Zora, can you communicate that Tarka is acting on his own?
+ZORA: The nuances of that could take quite a long time.
+T'RINA: If... I can connect with them telepathically, I may be able to convey our desire to protect them.
+SARU: Madam President, linking with an unknown species is dangerous in ways we cannot begin to anticipate.
+RILLAK: We have less than four hours. Do we really have a choice?
+T'RINA: I have made contact.
+SARU: Madam President.
+BURNHAM: Break the link.
+SARU: T'Rina.
+BURNHAM: Break the link. We have to break it. Break the link. Madam President? Madam President! Are you okay? What happened?
+T'RINA: They... they are confused, terrified. They cannot stop Booker's ship, and they no longer trust us. We... we must find another way to reach them, or I fear that our worlds are already doomed.
+
+[Sickbay]
+
+POLLARD: Heart rate and blood pressure are still elevated, but her neural activity's returning to normal.
+BURNHAM: Madam President, is there anything else you can tell us about them?
+T'RINA: The experience was... unusual. Our connection, I... I was not feeling one of the Ten-C but all of them.
+RILLAK: They're linked? Like the Borg?
+T'RINA: No. No, quite different. There was a sense of harmony with one another. It's difficult to describe, but I believe they may not have any awareness of individual existence as we know it.
+RILLAK: We're running out of time to help them understand.
+STAMETS [OC]: Captain, I've got a way out of the orb, but it won't be pretty.
+BURNHAM: We're on our way. Keep us posted.
+SARU: I apologise that I must go. Before I do, if I may, what you said about avoiding closeness with others? This possibility it is the reason I, too, have avoided a certain type of closeness since leaving Kaminar. But I have come to believe that the limits I place upon myself do not protect me so much as dull the brightness of my days. Ah. In any event... Hmm.
+
+[Booker's ship]
+
+TARKA: We made it. I just need the power source, and you two can go back to Discovery. It'll be over in 15 minutes.
+RENO: Unless another orb chases us into the hyperfield and we all die.
+TARKA: The Ten-C wouldn't risk getting this close to the plasma streams. Book, you hear that? We're nearly there.
+BOOK: I heard you.
+TARKA: Look, I know we don't see eye to eye on this, but this doesn't just have to be about my home. Kwejian will be there, too. You could come with me. You'll get your family back. Kyheem and Leto.
+RENO: No he won't, because they're gone. Anyone in your universe can look the same, laugh the same, want their sandwiches cut diagonally with exactly two pickles on the side. But Kyheem isn't there. Neither is Leto, or my wife, or anyone else we've lost.
+TARKA: I never said it was them exactly, but... it is them. Buddy. Think of it.
+BOOK: Reno's right. They're gone. So let me out of here before you do something we're all going to regret.
+TARKA: This will all be over soon.
+BOOK: It sure as hell will.
+
+[Engineering]
+
+STAMETS: Good news is, I can get us out, and we should survive.
+RILLAK: Should?
+STAMETS: Best I can do these days.
+ADIRA: Yeah, er, we've been analyzing the amount energy required for Booker's ship to escape the orb. Now, considering Discovery's much larger size, let's just say that it would take a lot more for us to do the same. And, as of right now, there is only one process that can discharge that amount of energy without also killing us immediately.
+BURNHAM: The spore drive.
+STAMETS: Normally when we jump, the energy that's discharged is converted into momentum that propels the ship along the pathways of the mycelial network. But if we were to remain stationary, all that stored-up energy would have to find somewhere else to go.
+RILLAK: You're saying it would release into the orb and break us out.
+STAMETS: Yes, but it would burn out the spore drive in the process, which we won't be able to repair without spacedock.
+BURNHAM: Meaning we'd have to warp home.
+RILLAK: It would take decades.
+STAMETS: That's the bad news.
+BURNHAM: Do it.
+
+[Booker's ship]
+
+RENO: Are you gonna tell me what the hell that is?
+BOOK: It's a cat collar. Grudge hates holos. Used to scare holo couriers, so I had to install a disruptor, one that'll work rather nicely on a forcefield generated by holo emitters. Ready?
+RENO: Is this where I get to say I was born ready? A cat door.
+BOOK: You can thank me later.
+
+[Bridge]
+
+BURNHAM: Commander Stamets, are you set?
+STAMETS [OC]: Spore drive's active. Ready to jump on your mark.
+BURNHAM: Doctor Hirai, any word back from the Ten-C?
+HIRAI [OC]: I repeated the message that we're trying to help. Not much more we can do if they won't answer.
+BURNHAM: Okay. Black alert. Let's get the hell out of here.
+
+[Engineering]
+
+BURNHAM [OC}: Commander Stamets!
+STAMETS: Spore drive's holding, but power throughput's nearing capacity.
+
+[Bridge]
+
+CHRISTOPHER: We've got minor hull breaches on multiple decks. No injuries reported.
+BURNHAM: What about the orb?
+LINUS: No changes yet.
+
+[Engineering]
+
+ADIRA: Captain, our entire EPS grid is about to overload.
+
+[Bridge]
+
+BURNHAM: Do not stop it. This is our only shot.
+(Consoles exploding, then the spore drive chamber.)
+DETMER: We're out of the orb. Impulse engines are back up and running. Warp drive is gonna take a while.
+RHYS: So will weapons systems.
+NILSSON: Spore drive's down, as expected.
+BURNHAM: Any other orbs on the way?
+OWOSEKUN: None. Seems they're letting us go.
+RILLAK: Maybe we can turn this around after all.
+DETMER: Exiting the gas giant now, Captain.
+BURNHAM: Get us back to Book's ship as fast as you can. The Ten-C won't talk to us until we stop Tarka.
+DETMER: Aye, Captain.
+
+[Booke's ship]
+
+BOOK: Tarka.
+(Punches his lights out.)
+RENO: Here's to holo disruptors. Think I might actually start to like that cat of yours. I can't get into the system. It's on autopilot. Ten minutes until I get to the power source and the hyperfield goes boom.
+BOOK: There's no way we're gonna be able to override the system in time. Damn it. We're locked out of comms, too.
+RENO: So much for calling in the cavalry.
+BOOK: Hey. Take my badge. Beam back to Discovery, tell them what's happening. I'm gonna stay with him and find a way to stop this. Tell Michael I love her. And whatever she has to do, it's okay.
+
+[Bridge]
+
+DETMER: Book's ship back in range, Captain.
+BURNHAM: Can you get us any closer?
+DETMER: Not with those plasma bursts.
+OWOSEKUN: Captain, someone's beaming aboard. I've got a lock. It's Commander Reno.
+BURNHAM: Bring her to the bridge. Commander, are you okay?
+RENO: Better than Boy Genius. He'll be through to the power source in the next ten, just FYI.
+BURNHAM: Rhys?
+RHYS: Still getting weapons on line.
+RENO: I'll see if I can help with that. The man loves you. He said do whatever it takes.
+BURNHAM: Okay. We need options.
+RILLAK: Can we transport them back here?
+OWOSEKUN: Booker's ship is protected by a pattern interrupter. I can't get a lock unless they choose to leave.
+RHYS: What about a tractor beam? Pull them away from the casement?
+NILSSON: Only if they stop their gravimetric beam first. Otherwise, we could destroy the hyperfield ourselves.
+RILLAK: Captain, if I may? General Ndoye has a singular mind for military tactics. She did offer to help.
+
+[Federation HQ]
+
+VANCE: What am I looking at, Lieutenant?
+TILLY: We have incoming. Near-Earth debris pushed by gravitational waves at 2,100 kilometres per second. That's the DMA.
+VANCE: Tell Earth to raise their shields. Attention all personnel, prepare for incoming. Transport shuttles, continue evacuations. All others, defensive formation Omega. We'll hold the line as long as we can.
+(A ship phasers a piece of debris to oblivion before it hits a shuttle.)
+VANCE: Who was that?
+TILLY: It's the USS Mitchell, sir. They made it.
+VANCE: Remind me to give their captain a commendation if we ever make it out of this alive. Is the president off-world?
+TILLY: No, sir. She's helping with the evacuation. She said she won't leave until the last possible moment.
+VANCE: Make sure the evac captain gets her in a shuttle before pulling out.
+GOREV: Admiral, Deck Five is at full capacity.
+VANCE: Tell them to get out while they still can.
+GOREV: Yes, sir.
+VANCE: We're running out of time.
+
+[Bridge]
+
+NDOYE: I presume you've considered the obvious. Tractor beam and the like.
+BURNHAM: We have.
+NDOYE: What about a targeted hit? We could send a shuttle on autopilot.
+NILSSON: Gravimetric flux will disrupt navigation. Somebody would have to be on the controls to stay on target.
+OWOSEKUN: I don't think I could beam them out in time.
+RHYS: It's a suicide mission. And there's no way Book and Tarka would survive.
+BURNHAM: If we don't stop Tarka, the Ten-C will never stop the DMA. Earth and Ni'Var may already be getting hit. We'll need a great pilot.
+DETMER: I'm ready, Captain.
+NDOYE: Let me do it.
+BURNHAM: General?
+NDOYE: I have years of experience as a combat pilot. United Earth is my home. Its citizens are my family. I've spent the last 20 years fighting to protect both. That is where my decision to help Booker and Tarka came from. Whether or not you would have made the same choice, you must understand it.
+BURNHAM: Owosekun, prepare to beam the general to shuttle bay.
+NDOYE: (removes comm-badge) If I don't make it back, please tell the president I gave my all for Earth.
+BURNHAM: I will.
+
+[Federation HQ]
+
+VANCE: Status report.
+TILLY: Bridge propulsion systems just went down, Admiral. We're stuck.
+OFFICER: Pathfinder and Tikhov both report shields below ten percent.
+OFFICER 2: Sir! The Credence is leaving now. The Nog's still not at capacity, but they're taking hits and won't last much longer.
+FEMALE [OC]: This is USS Yelchin. Evacuation orders are complete. See you on the other side.
+VANCE: This is Admiral Charles Vance. All remaining vessels, cease evacuation efforts. Depart Earth and her moon immediately. I'll provide covering fire for you for as long as I possibly can.
+MALE [OC]: USS Greco, confirming all navigational...
+VANCE: Thank you all for your bravery. Abandon ship.
+CREW: Aye, aye, Captain.
+VANCE: Report to the Mitchell immediately.
+TILLY: You both did a great job today.
+GOREV: I just wish we could've done more.
+TILLY: Oh! My God. I know. Me, too. Go. Go.
+HARREL: See you on the Mitchell.
+OFFICER [OC]: Federation HQ, this is the USS Mitchell. Jumping to the rendezvous point now. Good luck, Admiral.
+VANCE: Lieutenant, what are you doing?
+TILLY: Helping you with covering fire. Those are my cadets out there. This was all for nothing if the ships can't actually leave.
+VANCE: Once they get clear, we won't be able to transport over.
+TILLY: I know, sir.
+
+[Booker's ship]
+
+BOOK: Come on, damn it, wake up.
+COMPUTER: Four minutes to casement breach.
+BOOK: Come on, come on. I've tried everything. Tell me how to stop it.
+TARKA: I can't do that.
+BOOK: Would Oros want this?
+TARKA: We're almost home.
+BOOK: He won't be there. You have to know that.
+TARKA: Stop.
+BOOK: He's gone, Tarka.
+TARKA: You don't know that!
+BOOK: Hey. I understand, okay? I do. It's painful, the hole they leave behind. Leto. Kyheem. Some days, I don't know even how to wake up. Love always ends in grief, but we can't let the pain do this to us.
+TARKA: He'd have done what you're doing right now. He'd have stopped me.
+BOOK: I know, I know.
+TARKA: Why isn't he here to stop me?
+COMPUTER: 60 seconds to casement breach.
+TARKA: I'm sorry.
+BOOK: What?
+TARKA: I'm so sorry. I used the recursive fractal encryption key. I can't stop this in time.
+COMPUTER: Warning. Proximity alert.
+
+[Shuttle]
+
+BURNHAM [OC]: They've nearly reached the power source.
+NDOYE: I'll get there in time, Captain.
+
+[Bridge]
+
+RILLAK: We're with you, Diatta.
+NDOYE [OC]: I know you are, Laira. If I don't make it, please save them. Save our home.
+BURNHAM: Get ready, Owosekun.
+OWOSEKUN: Aye, Captain.
+(The shuttle flies into Booker's ship.)
+DETMER: She did it, Captain. The hyperfield is safe.
+OWOSEKUN: And I've got General Ndoye.
+BURNHAM: Good. Beam her straight to sickbay. Are there any life signs on Book's ship?
+OWOSEKUN: Two. They both made it.
+BURNHAM: See if you can beam them on board as well. The hit may have taken out their pattern interrupter.
+OWOSEKUN: I'm trying. I can't get a lock.
+RHYS: They don't have much time, Captain. They're on a collision course with the hyperfield.
+
+[Booker's ship]
+
+COMPUTER: 90 seconds to impact.
+BOOK: Hyperfield will destroy us. We have to beam back to Discovery.
+TARKA: There's not enough power.
+COMPUTER: Life support terminated.
+BOOK: What are you doing?
+TARKA: I'm leaving enough to transport you.
+BOOK: No, we're both getting out of this.
+COMPUTER: 60 seconds to impact.
+TARKA: Listen to me. Listen. Hey, hey. Michael is in this world, Book. Your life is in this world. Mine belongs to Kayalise, or a place beyond it. Maybe the transporter I built will work. Maybe the impact will be enough to get me there. Maybe I'll see Oros again.
+BOOK: I won't leave you here to die.
+TARKA: Goodbye, Book.
+COMPUTER: 30 seconds to impact.
+
+[Bridge]
+
+OWOSEKUN: I have a new transport signature. Book. It's faint.
+BURNHAM: Can you get him?
+OWOSEKUN: Working on it. Locking on.
+BURNHAM: Bring him straight to the bridge.
+(Booker's ship explodes.)
+BURNHAM: Did we...? Did... No.
+RHYS: Captain. Another orb is coming.
+BURNHAM: Let's go finish this. Prepare to reenter the orb.
+
+[Federation HQ]
+
+VANCE: Well, we lost the last of the weapons systems, but er, all our ships made it safely to the rendezvous point.
+TILLY: Oh.
+VANCE: So I thought we should celebrate that, at least.
+TILLY: Whiskey?
+VANCE: Yeah, it's from Risa. Tarka gave it to me when we finished the new spacedock.
+TILLY: Mmm. What a sweetheart that guy is. Oh, I er, I programmed the DOTS to reinforce the deflector arrays and rerouted all power to the shields, so toilets might not flush anymore, but we might buy Earth a little bit more time. Oh!
+VANCE: How much time do we have?
+TILLY: According to the gravitational lensing I saw... two hours until the DMA really gets us.
+VANCE: That's more than enough time to get bogged down with life's greatest regrets, right?
+TILLY: I'm actually pretty happy with how my life went. I made some friends who became my family. I got to see and do incredible things. This er... this one sunset, my first boyfriend and I, we skipped our biology lecture and climbed up on the roof of the academy just to see it.
+VANCE: Well, I'm glad you never ditched engineering.
+TILLY: Some people never find their purpose in life, you know? I'm grateful I found mine.
+VANCE: Yeah, me, too. I just wish I fulfilled it better. My daughter. I wish I spent more time with my daughter.
+TILLY: Does she know you love her?
+VANCE: Of course. More than anything.
+TILLY: My mom and I didn't have an easy relationship at all, but I always knew she loved me. That's the most important thing. That's what I remember.
+
+[Bridge]
+
+BURNHAM: Commander Detmer, where are we?
+DETMER: Still descending, heading deeper into the gas giant.
+OWOSEKUN: Scans show we're approaching a structure of massive proportions.
+DETMER: Like on their homeworld?
+BURNHAM: Maybe.
+OWOSEKUN: Wherever they're taking us, there are thousands of life signs.
+SARU [OC]: Captain, we are receiving a new message from the Ten-C.
+
+[Ready room / Bridge]
+
+SARU: We now understand your request to leave the orb. You are not one. How many are you?
+HIRAI: They're also asking us to join them. They say they'll send transport. Same as before.
+BURNHAM: Mister Saru, Doctor Harai, meet us in shuttle bay. Zora, join us there as well. And all of you, we don't have much time left. We should all be there for this.
+
+[Planet surface / Engineering]
+
+BURNHAM: Ah, Commander Stamets, are we ready?
+STAMETS [OC]: er, just about. Saru's device will continue beaming our hydrocarbons onto the orb's surface. But given the size of the space, Zora will need to generate the light map.
+ZORA: I'm joining you now, Captain.
+STAMETS [OC]: We'll keep working together and calibrate as we go back and forth.
+BURNHAM: Thank you. All of you.
+
+[Engineering]
+
+ADIRA: I am sending the updated language algorithm to the device now, Captain.
+STAMETS: I thought you'd be down on the surface with everyone else.
+CULBER: After what happened with Book... I want to be with my family.
+STAMETS: I'm glad you're here.
+SARU [OC]: Captain, Madam President.
+
+[Planet surface]
+
+SARU: We are receiving a new message. The map should arrive momentarily.
+RILLAK: And there it is.
+SARU: They are repeating their query from before. We understand now that you are not one. How many are you? What would you like me to say?
+RILLAK: Tell them each of us is an individual one. We are also one as a whole. Our appearances and experiences differ, yet we all seek happiness, freedom, security, equality. We want that for our children. Just as you do for yours. There is so much that unites us.
+HIRAI: They're sending a reply.
+SARU: They are asking about the others who were trying to breach the casement.
+BURNHAM: Tell them... they were once connected to us. Part of the whole. And then they separated.
+SARU: They would like to know why.
+BURNHAM: One of them had someone - his one - and he lost him long ago. He believed the power source would reunite them. And the other... Your device destroyed his planet. It killed his family. He didn't want anyone else to experience that.
+SARU: Is that why you are here?
+RILLAK: Yes. That loss is about to happen again to all of us.
+BURNHAM: We experienced your fear and your pain, when you had to leave your former home. When so many of your loved ones were left behind. And that is what we are feeling right now. You have to stop your device. Otherwise it will destroy our planets as well, and billions will die. Do not let history repeat.
+SARU: They said...
+
+[Federation HQ]
+
+TILLY: Did the DMA just... stop?
+
+[Planet surface]
+
+SARU: They said they will move it away.
+
+[Federation HQ]
+
+VANCE: And there goes the debris field.
+
+[Engineering]
+
+STAMETS: Reno, are you hearing this? They stopped the DMA.
+RENO [OC]: I'm already making a cocktail, Bobcat.
+ADIRA: Bobcat?
+CULBER: It's a... it's a good nickname.
+ADIRA: Okay.
+
+[Planet surface]
+
+SARU: They feel your sadness, Captain, but they do not understand. They say, your home is safe. Billions of ones are safe. They ask why you feel this way.
+BURNHAM: The two people who separated from us, that died today, one of them I loved very deeply. He was... he was my one.
+BOOK: Where am I? What happened? Did it work?
+BURNHAM: Yeah.
+BOOK: Is Earth and Ni'Var safe?
+BURNHAM: They are.
+BOOK: Yeah?
+BURNHAM: Are you real?
+BOOK: Yeah.
+BURNHAM: Oh...
+
+[Engineering]
+
+STAMETS: He's alive.
+
+[Planet surface]
+
+BOOK: That's them. Can I talk to them?
+BURNHAM: Saru will translate.
+BOOK: How am I even here?
+SARU: We intercepted your transportation signal. We did not understand its nature but presumed its importance, given the timing of its appearance, so we held it in stasis.
+BOOK: And the DMA, is it gone for good?
+SARU: We did not realise you were higher lifeforms. In the future, we will scan more broadly. We will only operate in uninhabited areas of space.
+BOOK: No. That's not good enough. It's not enough to stop destroying lives. The DMA always leaves behind a toxic mess. You have to shut it off for good. That is the start of making things right.
+SARU: Well, they said if they do that, they would not be able to... I do not understand the word. They seem to be referring to the hyperfield. We would not be able to power it. That would make us unsafe.
+BOOK: Hiding behind a wall may calm your fears, but it won't keep you safe. The void will eventually reach you. We all live in the same space. This is all there is. On my home, we had an organism. The World Root. It connected all life on Kwejian. Wherever we lived, whatever village or continent, it reminded us we were all on the same planet, our fates always interconnected. Maybe that's the lesson. If there is one. That is true of all of us. We've lost so many, you and me. But we can't do harm in their names or memories. We have to honour them, all of them, because they were beloved, beautiful.
+SARU: They're sending a new message. We have caused great harm. We are filled with regret and sorrow. We will make this right.
+
+[Federation HQ]
+
+(The debris is in reverse.)
+TILLY: They did it.
+VANCE: They sure did. They sure did!
+
+[Bridge]
+
+BURNHAM: Commander Rhys, cancel red alert.
+RHYS: Aye, Captain.
+OWOSEKUN: Scans show a wormhole forming. It's approaching at a rate of 15 kilometres a second.
+SARU: They are using the DMA wormhole one last time.
+BURNHAM: We're going home.
+
+[Lounge]
+
+SARU: I am pleased that the damage to United Earth and Ni'Var was not more severe.
+BURNHAM: Titan got it the worst, but Earth's already there. Everyone's coming together to help them rebuild. It's...
+SARU: We have come a long way, Captain.
+BURNHAM: Indeed we have. Oh. What? Tilly!
+TILLY: I love you. I missed you.
+RILLAK: Admiral.
+VANCE: Madam President.
+RILLAK: Thank you for carrying us through.
+VANCE: Well, I'd say we were both exactly where we needed to be.
+RILLAK: Yeah.
+TILLY: None of this would have been happening the last time that I saw you.
+ADIRA: It's still a little hard sometimes, but it's okay.
+TILLY: Okay, but you're doing great. And then, you know, the times that it's hard, that's what family's for.
+
+[Corridor]
+
+SARU: I hope I'm not interrupting.
+T'RINA: Not at all. I was just thinking about Ni'Var.
+SARU: Ah. You must be eager to return home.
+T'RINA: I am. And I am grateful that we no longer need to worry.
+SARU: As am I.
+T'RINA: I have been considering what you shared earlier. I have long told myself that balancing duty and personal relationships was not possible. I believe now that I was being dishonest with myself. It is possible, if difficult. However, it is worth the effort for the right individual.
+SARU: When I feared we may not survive, my greatest regret was that I had not spent more time with you, Madam President.
+T'RINA: Please. You must call me T'Rina.
+SARU: T'Rina.
+
+[Ready room]
+
+BURNHAM: Come.
+RILLAK: It's a hell of a thing, the Ten-C.
+BURNHAM: It makes me wonder about all the other beings we've never met. There's still so much to learn about our one small corner of the universe.
+RILLAK: Hmm.
+BURNHAM: Oh, how's your family? Is your partner okay?
+RILLAK: All safe. Thankfully. He was evacuated from the moon with the rest of the research team. And my family stayed on Earth, but they escaped the worst of it. I'm gonna see them soon. You have come a long way since we first stood here.
+BURNHAM: The Kobayashi Maru conversation.
+RILLAK: Mmm. I told you you weren't ready for a Voyager captaincy. You are now.
+BURNHAM: Thank you. I still wouldn't take it, ma'am.
+RILLAK: Oh, I know.
+BURNHAM: So... what happens with him? With Book?
+RILLAK: He violated multiple Federation statutes. He launched an isolytic weapon. It's... It's a long list.
+BURNHAM: And I am not asking for leniency.
+RILLAK: I know. But reasons do matter. It's the only way justice can ever be just.
+
+[Quarters]
+
+BOOK: I got the news about my future.
+BURNHAM: Could you give us a minute, please?
+OFFICER: We're beaming him back to his shuttle in five.
+BOOK: Hey.
+BURNHAM: Hey.
+BOOK: Hey. You okay?
+BURNHAM: Yeah. What did they say?
+BOOK: Federation's sending me to help families displaced by the DMA. Not sure for how long, but I know where I'll be.
+BURNHAM: How do you feel about it?
+BOOK: I'll miss the freedom of my ship, but all things considered... I heard my own voice when I was talking to the Ten-C, about not causing harm. I'm sorry, Michael. It'll be nice to be of use, though.
+BURNHAM: Book, I don't know how to say bye.
+BOOK: We don't. We say Kwakoni Yiquan. It's a Kwejian term used only amongst hunters with the tightest of bonds. It means something like, we've parted a hundred times, may we rejoin to part a hundred more.
+BURNHAM: Kwakoni Yiquan it is.
+BOOK: Kwakoni Yiquan.
+BURNHAM: I said it right the first time. BOOK Mmm-mmm. I love you, you know.
+BURNHAM: I love you more.
+BOOK: I first knew it when we were in that terrible scrap in Tiburon. It was so cold. Do you remember?
+BURNHAM: Yeah, but it wasn't that cold.
+BOOK: Oh, it was freezing. There was a dust of snow on the ground, and everything was pink.
+BURNHAM: I do remember that. That was beautiful.
+BOOK: Yeah. And you were shivering. Yeah, trying to be so tough, but I saw you shivering.
+BURNHAM: I told you that I was moving to keep warm.
+BOOK: Yeah, and that's when I said...
+BURNHAM: That's what shivering is, Michael.
+BOOK: I took a long look at you, and I thought, all right, Book. What are you gonna do? And that's when you said, we're gonna be okay.
+(And he is beamed away.)
+BURNHAM: Hmm.
+BURNHAM [OC]: Hard to believe it's over. The uncertainty, the fear, the unknown. Sometimes it felt like it would never end, but we made it. We've been tracking subspace rifts. The Ten-C are keeping their promise to clean them up. First contact wasn't easy, but, as always, the effort was worth it.
+
+[Engineering]
+
+DETMER: How's it going?
+ADIRA: Ah, it's faster than expected, actually.
+BURNHAM [OC]: Which means we'll all get a much-needed break soon. Everyone has people to see.
+
+[City street]
+
+CHRISTOPHER: Is Bryce meeting us there?
+RHYS: That's what he said.
+NILSSON: Ah, assuming Kovich lets him go.
+BURNHAM [OC]: And places to visit. Places they haven't seen in 930 years.
+
+[Quarters]
+
+CULBER: I can't believe you did this for me. I actually get to go home.
+STAMETS: I did it for me, actually, so I can finally have mavi not made by a replicator.
+BURNHAM [OC]: Some will use this time to strengthen existing relationships. Others are already reaching out to build new ones. And Book. He's heading to an emergency centre on Europa. I don't know when I'll see him again, but I know I will. Kwakoni Yiquan. We came to this future to find the Federation in pieces. Quadrants and sectors, planets and families divided. So much uncertainty and disconnection. But the Burn and the DMA have shown us that we are all connected, and we can overcome any challenge so long as we do it together. The Federation is continuing to help impacted worlds recover. Many have since joined us. Their perspectives are helping us all see more clearly. Ni'Var is back. Tellar Prime never left. Andoria's now in talks. And today, we greet the president of United Earth.
+
+[Federation HQ shuttle bay]
+
+RILLAK: Madam President.
+PRESIDENT: Madam President.
+RILLAK: Welcome. I am so pleased that you've come. We are eager to begin diplomatic discussions.
+PRESIDENT: Nothing to discuss. United Earth is ready right now to rejoin the Federation. And nothing could make me happier than to say those words. Thank you. Thank you all. What you have accomplished here...
+BURNHAM: We were lucky to have each other, ma'am. We couldn't have succeeded otherwise.
+PRESIDENT: General. I'm glad to see you've recovered.
+NDOYE: Yes. I haven't had that close a call in quite a while.
+PRESIDENT: I would consider it a personal favour if that were your last close call.
+NDOYE: I'm ever at your service, Madam President.
+PRESIDENT: Captain, may I have a word?
+BURNHAM: Of course.
+PRESIDENT: I can only imagine what you're feeling, having lived in a time before Earth left the Federation.
+BURNHAM: It means a lot to all of us. But, yes, it's very special to me to get to welcome you home.
+PRESIDENT: Thank you.
+BURNHAM: Bringing the Federation back together again has been a great start, but there are countless worlds out there to still be explored. So many are looking for understanding, connection, better tomorrow.
+PRESIDENT: There's a lot of work to do. Are you ready for that?
+BURNHAM: I am. Let's get to it.
+

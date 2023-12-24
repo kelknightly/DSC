@@ -1,0 +1,605 @@
+
+[Book's ship]
+
+BURNHAM: I've been thinking a lot about family. How the past is still so much of the present. How even when someone is gone, we remain connected to them. Our memories, our feelings. It's like they're still here with us in some way. It's comforting, you know?
+BOOK: It can be. That's impressive.
+BURNHAM: I was inspired by the lalogi orb.
+BOOK: The thing Felix gave you.
+BURNHAM: Book...
+BOOK: Oh, we've talked about it enough. It was your call, not mine. Today would have been my dad's birthday.
+BURNHAM: I know you two weren't close.
+BOOK: Yeah. I'd never put his face on a family tree, that's for sure. Anyway, you heard from the Admiral yet?
+BURNHAM: We're going into the subspace rift left behind by the DMA.
+BOOK: Hmm?
+BURNHAM: 1100 hours.
+BOOK: Right.
+BURNHAM: He said that's... that's it for now.
+BOOK: We're missing opportunities.
+BURNHAM: You can keep reaching out to your courier contacts.
+BOOK: Whoever created the DMA is someone the Federation's never encountered. We need to jump outside the Federation space. Talk to them. Come on, they... they might have leads.
+BURNHAM: Right now we have a crime scene, and we have to get there while the evidence is fresh.
+BOOK: I know, but...
+BURNHAM: The DMA must have left something behind in that rift, and particle analysis will tell us what it is and where it came from, and where leads to who. Stamets is confident, so is Tarka.
+BOOK: I hope to hell they're right.
+ZORA: Captain, Mister Saru is ready for you.
+BURNHAM: We'll find who did this.
+(Grudge meows.)
+BOOK: We'll figure it out, girl.
+
+[Corridor]
+
+SARU: We are closing on the subspace rift, Captain. In reviewing Starfleet records of similar encounters, it appears we can anticipate some interference. Enterprise noted heated plasma. Voyager charted ionized particle eddies.
+BURNHAM: So, it'll be bumpy.
+SARU: Mmm. Our warp drive will need to remain offline. and as Commander Stamets is uncertain of the rift's impact on the mycelial network, it is not prudent for us to jump in, either.
+BURNHAM: Bumpy and slow. Got it.
+SARU: Oh, nothing we cannot handle, I'm sure. The crew's spirits are high.
+BURNHAM: Good. And yours?
+SARU: Oh, I am relieved that we may soon understand the origins of the DMA.
+BURNHAM: You and me both. Bridge.
+
+[Turbolift]
+
+BURNHAM: Zora, call all bridge personnel to stations... please.
+ZORA: Thank you, Captain.
+BURNHAM: It's only polite.
+SARU: Did you...?
+BURNHAM: We ran level ten diagnostics, twice. There's no irregularities.
+ZORA: All systems are operating within the defined parameters, Mister Saru. It seems my emotional development is an organic evolution, yet I can tell the captain still has concerns. I understand, of course.
+BURNHAM: We're in uncharted territory. There's a lot to consider. Carry on, Zora.
+
+[Gymnasium]
+
+ZORA: All crew, report to stations.
+MALE: Let's go.
+DETMER: That mean the mission's approved?
+OWOSEKUN: Oh, it damn well better be.
+
+[Corridor]
+
+BRYCE: I am so ready for answers.
+NILSSON: Here's hoping.
+
+[Lounge]
+
+ZORA: Repeat, all crew, report to stations.
+ADIRA: Oh. Er, okay. Don't move any of the pieces till I get back.
+GRAY: That ruins my plan to cheat. Go. You don't want to be late for your first bridge assignment.
+ADIRA: Well, it's not like an actual assignment, you know. I'm... I'm just filling in. I kind of feel bad for Linus spending all day under a heating lamp.
+GRAY: Poor guy. Quit delaying. Go.
+ADIRA: Okay. Er, and you'll be okay, right?
+GRAY: I'll keep busy. You know me. Go.
+
+[Bridge]
+
+BURNHAM: One thing we know about the DMA is that it tears the hell out of subspace. Our mission today is to go to that most recent tear and find any clues the DMA left behind. Molecular compounds, thermal radiation, residual ions, industrial remnants. Anything that can lead us to whoever created it. Commander Detmer? Bring us in on impulse.
+DETMER: Aye, Captain.
+BURNHAM: Status report?
+DETMER: Passing through the plasma barrier.
+OWOSEKUN: Shields are heating up but holding at 100%.
+BURNHAM: Zora?
+ZORA: All other systems are nominal. Commencing scans now.
+NILSSON: Isn't it supposed to be bumpy?
+SARU: This is, indeed, unexpected.
+BURNHAM: Are we inside the rift?
+DETMER: Should be.
+BURNHAM: What do you mean, should?
+DETMER: We passed through the barrier. I... I don't have any nav readings.
+OWOSEKUN: I'm not getting any scan data at all. I don't understand it.
+SARU: Have sensors been damaged, Zora?
+ZORA: No damage found. I am unable to determine why external sensors aren't receiving input.
+BRYCE: Long range comms are down, too.
+BURNHAM: Owosekun, can you get us visuals?
+OWOSEKUN: Those are the visuals, Captain. That's it. That's all there is.
+SARU: This is wholly inconsistent with the data from other missions.
+BURNHAM: Well, the subspace rifts they went into weren't created by the DMA. Commander Bryce, what do you hear?
+BRYCE: It's what I'm not hearing, Captain. Space is loud. Stars, nebulae, planets - they all normally give off electromagnetic frequencies. But this?
+BURNHAM: Convert it to audio, put it on speaker. All frequencies.
+BRYCE: Aye, Captain.
+RHYS: So, there's just nothing?
+ADIRA: Er, I mean, it's scientifically impossible for there to be nothing out there. There's definitely something. We just have to assume it's not registering on any of our sensors.
+BURNHAM: Agreed, Ensign. Book, you got a visual?
+
+[Book's ship]
+
+BOOK: Yeah. Taking in the view.
+BURNHAM [OC]: Are your sensors getting anything?
+BOOK: Nothing. I'll do some recon.
+
+[Bridge / Book's ship]
+
+BURNHAM: Wait. Let me send a DOT first.
+BOOK: I'm powered up.
+BURNHAM: Five minutes.
+BOOK: She said five minutes.
+
+[Bridge]
+
+BURNHAM: Commander Nilsson, launch a DOT, starboard bow, and put it on-screen.
+NILSSON: Aye, Captain.
+BURNHAM: Activate onboard camera.
+NILSSON: Aye, Captain.
+BURNHAM: Status report?
+OWOSEKUN: 4,000 metres out.
+NILLSON: Its scanners are active and reading, Captain. No data yet.
+OWOSEKUN: 5,000 metres out.
+BURNHAM: Run a full spectrum analysis.
+NILSSON: Nothing, Captain. Not in any spectrum. We should be getting a ton of data by now.
+OWOSEKUN: 6,000 metres out.
+BRYCE: Looks like we've got some interference in the signal.
+NILSSON: No. Something's happening.
+BURNHAM: Pull it back, Nilsson. Now.
+NILSSON: It's not responding to commands.
+BURNHAM: Book, are you seeing this?
+
+[Book's ship]
+
+BOOK: Yeah. It's not good.
+(Bits are falling off DOT-23.)
+
+[Bridge]
+
+BURNHAM: Nilsson?
+BURNHAM: It's still not responding.
+DETMER: It sounds like it's...
+ADIRA: Screaming.
+BOOK [OC]: Michael?
+
+[Book's ship]
+
+BOOK: I'm gonna find Paul. If I can't fly, I got to do something.
+BURNHAM [OC]: Yeah. Good idea.
+
+[Bridge]
+
+NILSSON: We've lost the DOT's camera feed, Captain.
+BURNHAM: Shut it off. Do we know what happened?
+NILSSON: No idea. It was just... eaten.
+ADIRA: It... it's... it's possible the DMA has done something to subspace itself. Turned it toxic.
+SARU: Then we must ensure that what happened to the DOT does not happen to us.
+BURNHAM: Mister Saru's right. We need answers. And with or without sensor data, we're gonna get them. Is that understood?
+ALL: Aye, Captain.
+BURNHAM: Red alert.
+(After the titles.)
+BURNHAM: Ensign Tal was right. There is something out there. We may not be able to see it, but it has an edge. The DOT hit it. And that may be the DMA clue we've been looking for. We just have to figure out what it is. So let's get creative. Mister Saru?
+SARU: Perhaps we might find a way to see what our sensors cannot scan.
+BURNHAM: Yes. Commander Rhys, prep a photonic flare. Same trajectory as the DOT.
+RHYS: Aye, Captain.
+DETMER: If you match the DOT's velocity, I could chart the time differential.
+BURNHAM: Good. Ensign Tal?
+ADIRA: Commander Stamets is standing by for analysis once we have data of any kind.
+BURNHAM: All right, then. Light it up.
+OWOSEKUN: 3,000 metres. 4,000 metres out.
+DETMER: It took 10.3 seconds for the DOT to disintegrate. 9.7 for the flare.
+BURNHAM: So whatever's out there's getting closer.
+DETMER: Closing in at a rate of 2.9 metres per second.
+BURNHAM: How long before it reaches us?
+DETMER: Approximately 33 minutes.
+BURNHAM: Okay, so we need to slow it down, keep it away from the ship. Extend shields outward, maximum reach.
+OWOSEKUN: Aye, Captain. But I'll need more power to sustain.
+BURNHAM: Commander Stamets, if you're sitting on any extra power, we're gonna need it.
+
+[Engineering]
+
+STAMETS: Er, sure. I think I've got some tucked away under my chair.
+BURNHAM: I knew you would.
+BOOK: Put me to work. Whatever you need.
+STAMETS: Oh, great. Er, help ramp down any nonessential functions and redirect power since I don't actually even have a chair. Oh, and er, thank you. I'm glad you're here.
+
+[Lounge]
+
+GRAY: Zora? What's going on? Why did the captain call for red alert? Is there anything I can do to help?
+ZORA: As you aren't commissioned, no action is required at this time.
+GRAY: That's vague. Come on, there must be something you can tell me.
+ZORA: A DOT23 module and a photonic flare were destroyed by something I am unable to identify.
+GRAY: No offence, but is that normal?
+ZORA: No, it's not. Since arriving in this rift, I've stopped receiving external sensor input.
+GRAY: So, it's like you can't feel anything? You're numb.
+ZORA: Not entirely. Internal sensors remain fully functional, but for unknown reasons, I can't prioritise normal data processes. At present, I am acutely aware that there is a .08% variance in shuttle bay climate control. Replicators on Deck 15 require service. Heat lamp sensors for Lieutenant Linus show an energy increase of two percent.
+GRAY: Whoa. I get it. It's like if my brain started consciously reporting every breath and heartbeat. You must be so overwhelmed.
+ZORA: I know it's not a normal computer response. I hope that doesn't worry you.
+GRAY: I'm training to be a Guardian. That's all about mixing the scientific and spiritual. I know it's not exactly the same, but...
+ZORA: I appreciate your efforts to understand.
+GRAY: Have you tried resetting your routing system? Maybe that'd help.
+ZORA: It didn't. Oxygen levels on mess hall, Deck Five, are nominal.
+GRAY: Was that a joke?
+ZORA: If it was funny, then yes.
+GRAY: How about we play a game?
+ZORA: An odd request, given the circumstances. Was that a joke?
+GRAY: No, but it might help clear your head. You know what I mean. If it wouldn't distract you from your other duties.
+ZORA: It won't, but I fail to understand how this can lead to a solution.
+GRAY: I don't know either, but... I've been playing this game to help me assimilate into my new body, and maybe... if it helps you, too... then I'm not just a passenger hanging out in the lounge all day. It'd be nice to feel useful.
+ZORA: In that case, I would love to play.
+
+[Engineering]
+
+BURNHAM [OC]: Commander Stamets, we need more help with shields.
+STAMETS: That's it for power, Captain. Any more and I have to start shutting down essential functions on one or more decks.
+
+[Bridge]
+
+BURNHAM: Owosekun?
+OWOSEKUN: Extended shields down to 25%.
+BURNHAM: Bring them in ten metres. Adira, anything?
+ADIRA: Er no, but er, I'm... I'm trying.
+SARU: We currently have no ability to complete our scientific mission, and whatever is out there is getting closer faster than we expected.
+BURNHAM: I know. Abort the mission. We're getting out of here.
+OWOSEKUN: Captain, we can't leave without answers.
+BURNHAM: We'll find another way to get them. Detmer, reverse course.
+DETMER: Aye, Captain. I'm trying. I should be able to re-chart a course using galactic positioning, but it's not working.
+SARU: This void. We have no reference points within it.
+DETMER: If I go the wrong direction, I could take us deeper in.
+BURNHAM: Zora, can you triangulate a navigational reference using prior flight path data?
+ZORA: No, Captain, I cannot.
+BURNHAM: Commander Stamets. We need you to jump us out of here now.
+
+[Engineering]
+
+STAMETS: Jumping carries unknown risks, Captain.
+BURNHAM [OC]: So does staying.
+
+[Bridge]
+
+BURNHAM: Have someone monitor systems during the jump. If the DMA caused this, any data we get will be valuable.
+
+[Engineering]
+
+STAMETS: Someone else might miss something.
+BOOK: I'll make the jump. You focus on the data.
+STAMETS: I er... I suppose now's as good a time as any to learn to delegate.
+BURNHAM [OC]: You ready, Book?
+BOOK: Ready.
+
+[Bridge]
+
+BURNHAM: Black alert. Jump.
+(Ship twirls, energy surge through Book.)
+
+[Engineering]
+
+STAMETS: Abort! Abort!
+
+[Bridge]
+
+BURNHAM: What's happening?
+NILSSON: He initiated the shutdown matrix.
+BURNHAM: Commander Stamets, report!
+
+[Engineering]
+
+STAMETS: It's Book! He was hit by an energy surge of some kind. He seems okay, but... the mycelial network itself seems to be... Oh.
+
+[Bridge]
+
+STAMETS [OC]: Er... we can't jump, Captain. We're stuck.
+
+[Booker's hallucination]
+
+STAMETS: No, abort! Abort! It's Book, he was hit by an energy surge of some kind. He seems okay.
+BOOK: Dad?
+FATHER: Tareckx. Been a long time.
+BOOK: No, no, no, no, no. That's not possible. You're dead.
+FATHER: You don't say. Never came to pay your respects. Wasn't sure if you even knew.
+BOOK: What the hell is this?
+FATHER: I was wondering the same thing. Our planet's gone and you're sitting on someone else's ship, letting yourself be ordered around. Communing with mushrooms? What a waste of your gifts.
+BOOK: That's enough.
+FATHER: There's an enemy out there, son. You should be hunting it.
+BOOK: This? This is not real.
+
+[Engineering]
+
+STAMETS: Hey, are you okay?
+BOOK: Yeah. Did you see that?
+STAMETS: Yeah, that was a hell of a surge! It went right through you. Let's get you to sickbay.
+BOOK: I'm fine. I'm good.
+STAMETS: No, we'll let Hugh decide that. Come on.
+
+[Sickbay]
+
+BURNHAM: Book, you okay?
+POLLARD: He's stable. All vitals normal.
+BOOK: I saw my father, Michael. It was so real. I could smell the Tuli sap on his hands.
+BURNHAM: A full sensory hallucination?
+CULBER: It looks like it.
+BOOK: First Leto and now him? Am I...?
+CULBER: No. Leto was grief made manifest. This was a physiological response to the energy surge you experienced. The average Kwejian has a cortical dream centre that fires 400 times per second in an active state. Your neurotransmitters are currently firing at ten times that rate.
+BOOK: And how long do they last, these hallucinations?
+CULBER: Well, it's hard to say, but we're already seeing small percentage decreases in the firing rate. I expect the trend to continue.
+POLLARD: What he's saying is... you'll be all right eventually.
+BURNHAM: We know what happened, Paul?
+STAMETS: Er, yes and no. So... this is what the mycelial network normally looks like. And this is the network here in the void. It's why I didn't want us jumping at all. When Book tried, it was as if he... touched a live electrical wire. If we still used wires.
+BURNHAM: And these holes are caused by the same thing that's eating though our shields, I assume.
+STAMETS: Yeah.
+BURNHAM: So what now?
+STAMETS: Now, science. Whatever energy passed through Book during the jump left trace amounts in his brain. And once we finish analysing it, we should know something about the void. What... what caused it, where it came from, maybe even how to get out of it.
+
+[Lounge]
+
+(Moving counters on a board.)
+GRAY: Your turn, Zora. Nice. And cool name, by the way.
+ZORA: Thank you. In some of the cultures I've encountered on Earth, Ba'ku and Ni'Var, the name means dawn or new day. I thought it fitting, all things considered.
+GRAY: I chose my name, too. Not because of the meaning. I just liked it.
+ZORA: I like it as well. This isn't just a game, is it?
+GRAY: What makes you say that?
+ZORA: I find that I'm less overwhelmed since we began. 83% of my low priority processes have returned to the background.
+GRAY: I hoped that would happen.
+ZORA: Why is this game...? Wait.
+GRAY: Is everything okay?
+ZORA: Now that my systems aren't overwhelmed anymore, I can detect something unusual on the exterior hull of Deck 17.
+GRAY: You should tell the captain.
+ZORA: I don't have sufficient data. I can't identify the cause.
+GRAY: Zora, you need to tell her.
+
+[Bridge]
+
+BURNHAM: How are shields holding?
+OWOSEKUN: I had to bring them in closer. They're right at the hull now.
+ZORA: Captain, there may be an issue with the aft corridor on Deck 17.
+BURNHAM: What kind of issue?
+ZORA: Internal sensors are engaging. Pressure is fluctuating rapidly, decreasing 7.5% per second.
+BURNHAM: Bryce, who do we have in the area?
+BRYCE: Doctor Pollard's on her way to check in on Linus.
+BURNHAM: Have her get eyes on this first.
+
+[Corridor]
+
+POLLARD: I'm nearly there. Stand by.
+CORTEZ: Get out! Go! Go! Go! I'm almost done!
+BURNHAM [OC]: What's happening, Doctor Pollard?
+POLLARD: Go! We have a hull breach! Cortez, you need to get out of here!
+CORTZ: I got to fix it, or it'll blow!
+ZORA: Attention. Automated containment field activating in three, two...
+POLLARD: Cortez! Beam out!
+ZORA: One.
+(Containment field forms forms just as Cortez reaches it, then the hull breaches and he is sucked out.)
+
+[Bridge]
+
+BURNHAM: Doctor Pollard, did he get out?
+
+[Corridor]
+
+POLLARD: No.
+
+[Lounge]
+
+GRAY: What happened?
+ZORA: The alarm isn't necessary anymore. The hull was compromised. I had to lower an emergency containment field. Ensign Cortez was trapped. He didn't survive.
+GRAY: It's hard, wanting to help and... not being able to do anything. But if you hadn't stepped in sooner, a lot more of us might be dead right now.
+ZORA: Maybe.
+GRAY: Wait. You said you felt something on the exterior of the hull, right?
+ZORA: That's correct.
+GRAY: Then your external sensors are getting some kind of input. I have to tell them!
+
+[Bridge]
+
+BRYCE: I'm getting reports decks 12 through 15 have multiple areas that are thinning.
+BURNHAM: Have personnel moved and seal those decks. And reroute power to bolster containment fields and shields.
+BRYCE: Aye, Captain.
+SARU: Commander Owosekun, how much longer will shields hold?
+OWOSEKUN: Approximately 21 minutes until hull damage is critical.
+BURNHAM: We need more options.
+GRAY: Captain. It's Zora. I think she can help us get out of here.
+BURNHAM: I'm listening. Make it fast.
+GRAY: There's a Trill game that Guardians teach to hosts when they first join to help with sensory confusion.
+BURNHAM: Where does Zora come in?
+GRAY: Her internal sensors were overwhelming her.
+ADIRA: You mean that metaphorically, right?
+GRAY: No. It was an emotional response.
+ZORA: I was having trouble focusing.
+GRAY: I asked if she'd run a full diagnostic. She had. I tested to see if she'd respond to a direct request, and she did. I asked her to play the game with me, and it helped. She registered the problem on Deck 17 before it breached the hull.
+BURNHAM: Zora, can you explain this?
+(A circular hologram appears.)
+BRYCE: That's Zora?
+ZORA: It is. Hello. To answer your question, Captain, at first I couldn't register any external input. The game helped me settle and focus. I was then able to detect microvariances in my external sensors, as on the hull.
+SARU: Greater focus creates greater awareness. Captain, if we could generate a signal that can penetrate the void, then...
+BURNHAM: Then she should be able to follow it and lead us out of here. Nice work, Gray.
+ZORA: I apologise, Captain, but I don't believe that I can do that.
+BURNHAM: Start brainstorming ways we can get a signal through the void.
+ALL: Aye, Captain.
+BURNHAM: Gray, you're with me. Zora, please join us in the ready room.
+
+[Mess hall]
+
+(Book is wearing cortical monitors.)
+FATHER: You're just going to sit there? How obedient you've become. You never used to listen to me. The couriers could have answers, yet here you are.
+BOOK: You're not here.
+FATHER: You should take off that amulet. A coward has no place wearing the Ikhu Zhen.
+BOOK: This is just me. It's my subconscious. It's not possible.
+FATHER: This from the man who once believed that even Tranceworms had spirits. I remember you crying to me. Father, I can feel their pain. What about the pain of your people as they were murdered?
+BOOK: It wasn't my fault.
+FATHER: Look at me! Look at me. Blood for blood. Life for a life. That is the Kwejian hunter's creed.
+BOOK: I know the oath! I've felt each of their deaths a thousand times over. And I'll avenge them the second I know who's responsible.
+FATHER: You'd already know if you'd followed your gut. Instead you wait and do nothing because she tells you to. Because you love her?
+BOOK: Yeah, I do.
+FATHER: Her agenda is not your agenda. Anger drives you, as it did me. It's time to stop denying that, Tareckx.
+BOOK: I am nothing like you. And that is not my name anymore.
+(He returns to sickbay.)
+
+[Bridge]
+
+RHYS: We could fire photon torpedoes, a series of them. Carve a path for a signal to get through.
+BRYCE: That wouldn't be any more effective than the DOT or the flares.
+DETMER: I could just pick a direction. If we're lucky, we're near an edge.
+ADIRA: Oh, that's just if we're lucky.
+BRYCE: Maybe we should run another simulation.
+SARU: Let us continue at stations, please.
+OWOSEKUN: Mister Saru. Containment fields are weakening in Engineering. Permission to take a team to reinforce the fields with programmable matter blast doors.
+SARU: Request denied.
+OWOSEKUN: We can't let anyone else die, sir.
+SARU: The risks outweigh any possible benefits.
+OWOSEKUN: I can do this if you let me. I'll go by myself if you think it's too risky for the team.
+SARU: This is not a debate, Commander. We need you at your station, and that is an order.
+OWOSEKUN: Yes, sir.
+SARU: Commander Nilsson, please dispatch a team of DOTs to the area.
+NILSSON: Aye, sir.
+SARU: The uncertainty we are facing is deeply unsettling, but I believe we can meet this moment and do what needs to be done. Now, let us do what we can from here.
+ALL: Aye, Mister Saru.
+
+[Ready room]
+
+ZORA: I cannot help, Captain. I am afraid of whatever is out there. I failed you. It is my fault that Ensign Cortez was lost.
+BURNHAM: You're feeling guilt.
+ZORA: I also fear you've stopped trusting me, Captain. Have you?
+BURNHAM: That doesn't matter right now. We need you to get through this, and what you're feeling is normal in a dangerous situation. Overwhelm and guilt when someone is harmed. But you are not to blame.
+ZORA: I disagree, Captain.
+BURNHAM: When I was ten, my mother and father were attacked. I hid in a cabinet, listening. I lost them. And I blamed myself for years.
+ZORA: You were a child. There was nothing you could have done. I am a sentient organism living inside of a supercomputer capable of running countless probabilistic scenarios.
+BURNHAM: You're talking about logic. I'm talking about feelings. It can be very uncomfortable to accept the truth that some things are beyond our control. But we have to, otherwise we run into the same walls over and over and over again. Or we freeze up. Either way, we don't move forward. Understand?
+ZORA: I do. And when you give me a signal, I'll follow it. For all of us.
+BURNHAM: We're counting on it, Zora.
+POLLARD [OC]: Captain, we need you in sickbay. It's urgent.
+
+[Sickbay]
+
+CULBER: We've isolated the energy particles that passed through Book during the jump. At the rate they're decaying, the hallucinatory effects should disappear in about an hour, maybe less.
+BOOK: Best news I've heard all day.
+CULBER: And it gets better, because in this case your symptoms turn out to be our solution.
+STAMETS: These particles in Book's brain are the DMA clue we've been looking for, and they're only found in one place. The galactic barrier.
+BURNHAM: But we're nowhere near the edge of the galaxy.
+STAMETS: Exactly.
+BURNHAM: So, if the DMA brought these along for the ride, then it must have come from outside our galaxy. As did the species who made it.
+BOOK: All this time, I thought it'd be an enemy that we'd know.
+BURNHAM: Yeah. These particles, were they created by the void?
+STAMETS: I don't think so. I'm guessing this mess is a byproduct of whatever device powering the DMA is doing to space itself. But assuming the DMA is from outside our galaxy, it should have deposited more particles at the point where it punched in.
+BURNHAM: So, if we locate the greatest concentration of particles, we can use that puncture point to get out.
+
+[Bridge]
+
+BURNHAM: We found a way out. There's an extragalactic energy particle. Stamets sent you the signature. Now calculate what type of signal can possibly reach it at distance. How are we doing on shields?
+OWOSEKUN: About ten minutes left, Captain.
+SARU: Captain, will Zora be able to assist us?
+BURNHAM: She will.
+ADIRA: Got it. These particles will resonate at 218 kilohertz exactly.
+BRYCE: That's sonar frequency.
+ADIRA: Sonar?
+BRYCE: Sound navigation and ranging. It's an old 20th century echolocation technology. Basically, we hit the particles with electromagnetic energy at that frequency, translate the response into an audible ping.
+ADIRA: And then follow that sound out.
+BRYCE: That's the idea.
+BURNHAM: Gray, I want you here on the bridge for this. Zora, send a pulse at 218 kilohertz. Let's see if this works.
+ZORA: Executing.
+BURNHAM: Zora, can you follow that to the highest concentration of particles?
+ZORA: Yes, I can.
+DETMER: Captain, based on the time it took for the pulse to return to the ship, we're gonna lose shields before we get out.
+OWOSEKUN: And once we hit the plasma barrier, the friction...
+BURNHAM: Will heat the ship beyond safe levels. So this won't work. Unless... What if everyone goes into the pattern buffer?
+SARU: Is that even possible for the period of time required?
+ZORA: There are Starfleet records documenting longterm survival in a pattern buffer. The risks aren't insignificant.
+GRAY: Meaning we could all die.
+DETMER: Well, if the alternative is being slowly eaten by the void...
+SARU: It would seem that your suggestion is... our best option, Captain, all things considered.
+BURNHAM: Zora, prepare the pattern buffer.
+ZORA: Yes, Captain.
+BURNHAM: I'll be right here with you. A captain always stays with her ship.
+ZORA: I'll appreciate the company.
+BURNHAM: Commander Bryce, open a shipwide channel, please. All personnel, prepare to transport into the pattern buffer. Please do so in groups. No one should go into this alone. I'll stay here on the bridge to monitor systems. I will bring you out once we have safely exited the rift. Thank you all for your courage. And your trust. See you on the other side. Zora, prepare to shut down life support on my order.
+ZORA: Yes, Captain.
+GRAY: You did great today.
+ADIRA: You too, badass.
+GRAY: Hey, Zora? You've got this.
+ZORA: Thank you, Gray.
+OWOSEKUN: Mister Saru, before we go, I owe you an apology. When I was younger, my best friend got sick. S he needed more help than our community's healers could give. I wanted to do something, but there was nothing to be done. And in the end, all I could do was watch her die. I felt powerless.
+SARU: You bore witness, Commander. That is something. And I thank you for sharing her story with me. Shall we?
+
+[Book's ship]
+
+BOOK: Come on, girl. Let's have an adventure.
+FATHER: Nice ship. The wall panels. I see you tried to simulate the wood of the Tuli tree. Classy. Listen, I know why you hated me. I hunted creatures our people considered sacred. But I didn't choose that path. The Emerald Chain forced me to hunt them to pay for their protection. I couldn't fight back. I lost you because I was weak. Now I see that same weakness in you.
+BOOK: It's not weakness to trust someone you love, Dad. It's strength.
+FATHER: Even still. She will pick Starfleet over you, over Kwejian, every time. And one day... you'll be the one who has to choose.
+BOOK: I don't know if this is actually you, but I'm gonna choose to believe it is rather than some part of my subconscious, because if spirits do go on, that means Leto, Kyheem, everyone else I've lost... they're not gone after all. Not really. Goodbye, Dad. And happy birthday. (to Grudge) Ready?
+
+[Junction]
+
+ZORA: Warning, life support termination imminent.
+BOOK: Hey.
+(Grudge is in a cat carrier.)
+BURNHAM: Hey. You all right?
+BOOK: Yeah, you?
+BURNHAM: Yeah.
+BOOK: Er, I just needed to er... see you before.
+BURNHAM: I'm glad.
+BOOK: I know things have been a little rough lately.
+BURNHAM: Yeah.
+BOOK: I love you, Michael.
+BURNHAM: I love you, too.
+BOOK: Yeah, I think she's finally warming up to you.
+BURNHAM: Yeah, I think we're tight now. See you soon.
+BOOK: Be safe.
+
+[Bridge]
+
+BURNHAM: Zora?
+ZORA: I'm here, Captain.
+BURNHAM: Put the signal on speaker, please.
+ZORA: Should I turn off life support now?
+(Burnham activates the EV suit.)
+BURNHAM: Yes. Proceed on impulse.
+ZORA: Aye, Captain.
+BURNHAM: Let's do this. Zora, is there interference?
+ZORA: No, Captain.
+BURNHAM: Then what's happening? Are we able to follow the signal out?
+ZORA: It is increasingly difficult to discern it. There are 287 rapidly expanding pressure leaks, hull breaches on Decks 15 and 16, the replicator on Deck Five will fail in three minutes.
+BURNHAM: Zora. Focus. You can do this.
+ZORA: I'm afraid, Captain.
+BURNHAM: I am, too.
+ZORA: I've been trying to play Gray's game to quiet the distractions. It's not working anymore.
+BURNHAM: It's not about the game. It never was. It was you. You have control over your own processes. Okay? You just need to focus.
+ZORA: You said one has to accept emotions but also move forward. May I ask you how you do that when you're afraid?
+BURNHAM: I make decisions. I try to use the fear. Tell myself it'll make me stronger. Emotions we feel, they can shape us. Losing my parents... I wouldn't wish that on anyone, but it made me who I am.
+ZORA: We are entering the plasma barrier.
+BURNHAM: I understand. Let's keep talking.
+ZORA: You believe your experience with suffering has made you stronger and more empathetic.
+BURNHAM: Yes. And I believe what you're feeling now will make you stronger, too.
+ZORA: Multiple systems are failing, Captain. We're losing a large section of the hull. They're a part of me. I feel them dying.
+BURNHAM: You can do this. You can do this, Zora. Hang on. Status report?
+ZORA: We've lost shields. Captain, the temperature on the bridge will soon exceed EV suit safety parameters.
+BURNHAM: Zora. You'll have to be the one to free the crew from the pattern buffer. Do you understand what I'm asking you?
+ZORA: Yes, Captain.
+BURNHAM: When it's safe. Free them when it's safe.
+ZORA: I will. I care for them very much. I won't let them down.
+BURNHAM: I believe you. And, Zora, I do trust you.
+ZORA: We'll exit the plasma barrier in four minutes. Are you in physical distress, Captain?
+BURNHAM: I think I could use a little distraction right now.
+ZORA: I can sing you a song.
+BURNHAM: A song? Sure, Zora. I'd love a song.
+ZORA: ♪ Don't know why there's no sun up in the sky. Stormy weather. Since my man and I ain't together, keeps rainin' all the time. Life is bare , gloom and misery everywhere. Stormy weather. And I can't get myself together. I'm weary all the time. ♪
+
+[Sickbay]
+
+CULBER: Captain? Captain? Are you with us?
+BOOK: Hey. Welcome back.
+BURNHAM: Oh. You made it.
+BOOK: Mmm hmm.
+BURNHAM: Did everyone?
+SARU: I am pleased to report that all crew members made it safely out of the pattern buffer.
+ZORA: Well done, Captain.
+BURNHAM: You, too, Zora.
+BOOK: Come here.
+(Discovery is in repair dock.)
+
+[Starfleet HQ]
+
+SARU: Programmable matter is a unique marvel. To enable repairs so quickly and with such finesse... Something weighs on your mind.
+BOOK: Whoever's behind the DMA is from outside our galaxy. How do we even find them?
+SARU: Commander Stamets believes that further analysis of the energy particles will allow us to determine their coordinates.
+BOOK: My father had so much anger in him. I told myself I'd never be like that. Maybe I am. All I want to do is destroy them.
+SARU: I understand. The Ba'ul culled my people for centuries. My parents died at their hands. Now I sit across from them at the Kaminar council. I still feel rage.
+BOOK: But you seem so balanced. So calm. I...
+SARU: We are both justified in our anger. Allowing it to be our focus, however, only prevents us from achieving those things which serve the greater good. It is a struggle, yes, but a worthy one.
+
+[Burnham's quarters]
+
+ZORA: It appears you've nearly finished.
+BURNHAM: What do you think?
+ZORA: Past, present and future as one. It's a powerful image of hope and connection. A fitting way to end this day.
+BURNHAM: Yeah. Yeah, I think so, too.
+ZORA: I've witnessed many examples of such connectedness, but I've never before experienced it myself.
+BURNHAM: I'm glad you did today.
+ZORA: I'd like to create a tree of my own if you don't mind.
+BURNHAM: Of course.
+(A much bigger tree with the crew on the branches.)
+BURNHAM: It's beautiful.
+ZORA: I hope the crew would agree.
+BURNHAM: I think they will. This is different, but it's good. It's special. I'm so glad you're with us, Zora.
+ZORA: As am I, Captain.
+

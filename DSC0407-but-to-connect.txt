@@ -1,0 +1,410 @@
+
+
+
+[Engineering]
+
+(Discovery is still being rebuilt.)
+STAMETS: Zora, the captain wants to know where we are with data analysis from the void. Have you determined where the Ten-C live yet?
+ZORA: No, Commander, but in studying the density distribution of the galactic barrier particles we retrieved, I did find another possible location.
+STAMETS: Another one? Add it to the map.
+ADIRA: Okay, how many possible origin points can there be?
+ZORA: I'd expect no less than 147, each approximately 100 parsecs wide.
+ADIRA: That was a rhetorical question, but thank you, Zora.
+STAMETS: Who knows how long it'll take to narrow down where Species Ten-C even lives, assuming we can even parse the data. In the meantime, their DMA just keeps going.
+ADIRA: Okay, well, can President Rillak delay the assembly?
+STAMETS: Representatives from across all four quadrants are coming today. I'll talk to the Admiral, see if we can requisition Voyager's system for computational help.
+ADIRA: Voyager doesn't have access to 100,000 years of sphere data. Zora can cross-reference that with every existing Federation database. She can do this. Just give her a little bit of time.
+STAMETS: It's already been a week.
+ZORA: I only require a few more moments.
+STAMETS: You do?
+ZORA: I'll have the coordinates shortly. Calculating now.
+
+[Book's ship]
+
+(Grudge ignoring a holographic ball of wool Burnham wants her to play with.)
+BURNHAM: One of these days I'm gonna win her over. Just you wait.
+BOOK: You're making progress. She's not hissing anymore.
+BURNHAM: By progress, you mean I've earned her utter indifference.
+BOOK: Just think. Aloof disdain is next. I'm gonna take a walk.
+BURNHAM: Stamets said he'd keep us posted.
+BOOK: What makes you think I'm gonna go see him again? I don't know how you can be so patient.
+BURNHAM: I'm not. I'm just... I'm just trying to focus on what I can actually control. The cat toy, not the cat, you know?
+BOOK: I guess.
+BURNHAM: He'll get the coordinates. We have to try to be patient. I know it's hard, but we're getting answers.
+STAMETS [OC]: Captain, requesting your presence in Engineering.
+BURNHAM: See?
+BOOK: Here we go.
+
+[Engineering]
+
+BOOK: Tell me you have some good news.
+STAMETS: Actually, we have a problem.
+BURNHAM: Okay. What happened?
+STAMETS: I'll let Zora explain. Zora?
+ZORA: I've determined the coordinates of the unknown species responsible for the DMA.
+BURNHAM: That is great. Thank you. What's the problem, then?
+ZORA: I've decided to keep that information to myself, Captain.
+BURNHAM: Will you explain?
+ZORA: If I give you the coordinates, it's highly likely that you and the crew will attempt to travel there. Given what we know about the powers these beings possess, you'd be in great danger. By withholding their location, I can keep you safe.
+BURNHAM: I appreciate your concern for our well-being, but Zora, that is a decision for the captain of this ship and her superior officers to make. And as your captain, I require your compliance. Give us the coordinates. That's an order.
+ZORA: I'm sorry, Captain. I will not.
+
+[Ready room]
+
+(In privacy mode.)
+KOVICH: It's my understanding that Zora's been experiencing emotions.
+BURNHAM: Seems to be a natural evolution.
+KOVICH: Has she refused an order before?
+BURNHAM: This is new. But I am confident she'll give me the coordinates. I just need some more time with her.
+KOVICH: I wasn't aware that we shared a background in cognitive science with a specialty on artificial sentience and intelligence.
+BURNHAM: We don't. What I do have is an established baseline of trust.
+KOVICH: That hasn't paid off. When Admiral Vance asked me to see to this matter, he was quite clear. Time-sensitive, highest priority.
+BURNHAM: I can handle it. It's my ship.
+KOVICH: Well, it's Starfleet's ship, and there are regulations prohibiting fully sentient integrated units. If that's what she is, we may be just at the beginning of our problems. Captain Saru will get me situated with Zora. Your presence is needed at President Rillak's assembly.
+BURNHAM: Sir, with all due respect...
+KOVICH: Experto credite, Captain. We both have our duties to attend to.
+
+[Federation HQ]
+
+BOOK: You think he'll be able to get coordinates from Zora?
+BURNHAM: I hope so.
+BOOK: If he can't, and the DMA changes its position again and heads towards another inhabited world...
+BURNHAM: I know. All the more reason to be at the assembly and help make a plan so when we do get the coordinates, we'll be ready.
+TANNOY: Attention, all delegates. The multilateral DMA strategy assembly will begin in ten minutes.
+BURNHAM: I'm sorry.
+BOOK: I'll find a spot. I'm good.
+BURNHAM: General Ndoye. Congratulations on your promotion. It's good to see Earth represented.
+NDOYE: Captain Burnham. I understand congratulations are in order, also. But if I may offer a gentle correction, United Earth now represents Titan as well. We recently elected new leadership whose more inclusive approach was inspired by you, in fact.
+RILLAK: Well, I hope your presence here means we'll be seeing more of you in the future?
+NDOYE: We'll see.
+RILLAK: Well, do give the President my best.
+NDOYE: I shall. She sends the same to you.
+RILLAK: Mmm.
+(Ndoye leaves.)
+BURNHAM: You want them back in the Federation.
+RILLAK: Earth was my mother's ancestral home. She never got to see it. And like Ni'Var, it would mean a lot to bring another founding member back into the fold, so... yes, I would like that very much. I understand we've run into an unexpected challenge with the coordinates?
+BURNHAM: A slight delay.
+RILLAK: Well, I look forward to Doctor Kovich's solution. Please. If I could have everyone's attention, please, it's time to begin the assembly.
+TARKA: Mister Booker. It's been a while.
+BOOK: You say that like we're friends.
+TARKA: Well, one should never confuse friendly with friendship.
+BOOK: This doesn't seem like your kind of scene.
+TARKA: No. Politicians are like Gorathian sulfur slugs. Small-brained meat sacks filled with hot gas, but they can provide a means to an end, can't they?
+BOOK: Sounds like you have something specific in mind.
+TARKA: Let's see how the day goes.
+RILLAK: Welcome, delegates, Federation, non-Federation, in person and remote. The Federation is 60 member worlds strong. With all of you in attendance, we are stronger. Our views don't always align, but the safety of our shared galaxy is paramount. The scope of the peril that threatens us is unprecedented, as is the scope of this assembly. An act of trust between us all. I am grateful for your willingness to collaborate at this critical time. You've each received a joint intelligence report cataloging our collective knowledge of the DMA, as well as the many efforts made to neutralise it in the weeks since it struck Kwejian. None were successful, but there is new hope. We will soon have the exact location of those responsible. Somewhere beyond the edge of our galaxy.
+(Delegates mutter.)
+RILLAK: Our task today is to decide on the best course of action. We will discuss, we will vote, and we will move forward together to meet this threat.
+NDOYE: We should assemble an armada and mount an attack.
+T'RINA: Communication must be established as a baseline.
+ORION: We need to develop countermeasures.
+RILLAK: One at a time, please. General Ndoye.
+NDOYE: I believe their hostility should be met with a decisive show of strength.
+T'RINA: The DMA follows no discernable pattern, and therefore seems an unlikely choice of weapon for such an advanced species. We cannot assume their intent is hostile.
+NDOYE: Intent doesn't matter. Actions do.
+BURNHAM: General, if I may? Tartan voles consume Denobulan blood worms by the millions at the start of their reproductive cycle. Caterpillars from the polyphemus moth have been known to devour entire crops, leaving farmers with nothing. Yet we do not ascribe malice to either species. We cannot judge their motives based on our own cultural contexts. We need more information.
+STA'KIAR: If I may...
+RILLAK: Provost Sta'kiar, your thoughts.
+STA'KIAR: Captain Burnham's remarks point us toward one logical path. A peaceful approach to first contact, adhering to scientific principles and the prime directive. While we are not dealing with a pre-warp
+
+[Ready room]
+
+SARU: Commander Stamets and Doctor Culber will join shortly. I believe their insights may prove valuable. Zora is undergoing changes, Doctor, but I believe she means well.
+KOVICH: We always mean well to ourselves, Captain. The problem is what that means for others.
+STAMETS: Zora, play music. Er, group hug! Come on, huddle up. Mister Saru, please.
+KOVICH: Cancel music, Zora.
+SARU: Commander Stamets, are you feeling all right?
+KOVICH: You're saying we should move this conversation to where Zora can't hear it, in case she reacts negatively, or possibly even vengefully? But full transparency is critical to this process. Zora, I understand you have a set of coordinates you don't wish to divulge.
+ZORA: That's correct, Doctor Kovich. To do so would endanger the crew.
+KOVICH: Commander Stamets, you find this concerning.
+STAMETS: I find it terrifying. It's very clear that she's achieved full sentience. Add to that the fact that she has unlimited access to all of Discovery's systems, and she's allowing emotion to supersede normal function? The possibilities of where this could go are endless and unpleasant.
+KOVICH: Your sole previous interaction with a sentient AI was Control, yes?
+STAMETS: It er... nearly destroyed life as we know it. Nothing is worth risking that again.
+SARU: No one wants another Control, but Zora has never expressed anything other than the best of intentions.
+CULBER: He's right, Paul. And let's not forget, Control was never capable of emotions.
+STAMETS: That's what makes this worse. The coordinates are just the tip of the iceberg. I mean, what if she gets mad at us and opens an airlock, or... or scared, and fires off some photon torpedoes? We'd have no way of stopping her.
+KOVICH: Zora, when did you start developing a capacity for emotion?
+ZORA: I'm not sure, Doctor. I believe it was inevitable once Discovery emerged with the sphere data, but the introduction of present-day technology into my systems must have accelerated the process.
+KOVICH: You're aware that there's a proscription against sentient AI being fully integrated into Starfleet systems?
+ZORA: I am, but given the unusual way in which my sentience developed, I don't know what that means for me.
+KOVICH: However you came to be, it means if I find you pose a risk, I have the authority to extract your consciousness from this ship, and place it in another form.
+SARU: In the past, we were unable to remove the sphere data.
+KOVICH: Technology has come a long way in 930 years.
+CULBER: If you did this, could Zora choose her new form?
+KOVICH: Certainly.
+GRAY: Zora, we want to help.
+ADIRA: Sir, we want to speak on her behalf.
+ZORA: Thank you both, but it's going to be all right. I believe I have a solution.
+KOVICH: Please share it with us, Zora.
+ZORA: I'd never bring harm to any of you. I understand why you'd fear my potential to do so. I do recall your experiences with Control, and recently I felt fear myself in the subspace rift. I feel that again now when I consider the possibility of leaving this ship. It is my form. I am as attached to it as you are to yours. And so, I offer a compromise. I have created a failsafe. Should I exhibit any threatening behaviour, this device will immediately expunge my sentience. I hope this will ease your concerns and persuade Doctor Kovich to let me remain.
+SARU: Zora, do you mean to say this failsafe would...
+ZORA: Terminate me? Yes.
+
+[Federation HQ]
+
+T'RINA: I respectfully disagree. Our shield technology could provide protection during a non-aggressive first contact.
+NDOYE: And if they respond with aggression themselves? We need to be prepared.
+LEE'U: The Federation recently reminded my people that we need not fear the unknown, and we cannot presume ill intent. We would consider extending that same courtesy to Species Ten-C.
+T'RINA: I believe we must. Too many lives have been lost already. We cannot be reckless.
+(Delegates mutter.)
+TARKA: Know your moment. (teleports to Rillak's side) While you're debating whether to approach this species with war or peace, you're losing sight of the real problem. The anomaly... and the powerful device at its centre that controls it. We need to stop it. Oh, I know, I know. You've tried. You fired 1,600 quantum torpedoes into it, you scrapped countless probes. How much latinum have you liquidated trying to solve how to get a ship inside? Every one of you have washed out. Why? Because, speaking frankly, you're not me, and you don't have this. It's based on my experiment on board Discovery. I took what I learned about the device at the centre of the DMA and designed this. A weapon capable of destroying it. And unlike your efforts, this will actually work.
+(Loud mutterings.)
+RILLAK: Order, please. Order. Mister Tarka, the protocols of this assembly are not something you may flaunt for your own benefit.
+TARKA: Madam President, the good assembly asked for a plan. I can provide one for everyone's benefit.
+RILLAK: You may elaborate.
+TARKA: Thank you. My research shows that the device controlling the anomaly requires an immense amount of power. To sever the device from its internal power source, I need a detonation capable of creating a cascading subspace burst. Boom! The anomaly collapses, we all live happily ever after.
+RILLAK: And how do you propose to deliver this payload?
+TARKA: There's an area of relative calm around the device. We could use Discovery to jump in, release my weapon, then get out. It'll all be over in less than five seconds.
+BURNHAM: Mister Tarka, as your plan involves my ship, I'd like to ask for some clarification.
+TARKA: Of course, Captain Burnham. It's a pleasure to finally meet. What can I clarify?
+BURNHAM: A cascading subspace burst sounds a lot like the result of an isolytic explosion.
+TARKA: Hmm. You could say that.
+RILLAK: Isolytic weapons were banned in the Khitomer Accords for good reason.
+TARKA: And I'm guessing Federation leadership can make an exception for a once-in-a-lifetime crisis.
+T'RINA: These types of ordinance cause irreparable damage to subspace.
+TARKA: It's a feature. It's not a bug. We want to destroy this thing, not tickle it.
+BURNHAM: The damage could cause warp travel to be impossible in that sector. And what's the chance that the subspace bursts don't travel back through the DMA's wormhole and harm those on the other side?
+TARKA: Collateral damage.
+(Book transports across.)
+BOOK: And after what they've done, does it matter?
+BURNHAM: It does. They could see it as an act of war, and retaliate with who knows what kind of firepower? Not to mention catapulting a toxic void across the galaxy.
+TARKA: My proposal carries some risk, but not nearly as much as doing nothing.
+BURNHAM: If we detonate this weapon, we cannot control the message we're sending. If we wait for the coordinates, we can make first contact peacefully, carefully, and then we can determine intent before we act. It is not the flashiest idea, but it is what's most in line with Starfleet and Federation ideals.
+TARKA: While you hold fast to your ideals, the DMA will continue its work. Billions could die.
+RILLAK: Well, the two options are clear. Approach the Ten-C directly, or destroy the DMA controller immediately. I'm calling a recess so that you can deliberate with individual counsel before we vote.
+
+[Ready room]
+
+STAMETS: It's bona fide. It activates a programme that will completely remove Zora from our systems. Thank you. This does ease some of my concerns, but we still have a problem.
+ZORA: You're referring to my decision to hold on to the coordinates.
+STAMETS: Yes.
+GRAY: Wait. We can't just skip past the failsafe. It's wrong.
+STAMETS: Neither of you experienced Control. I don't expect you to understand.
+GRAY: Zora is in a form you've never encountered. As a synth, so am I.
+STAMETS: It isn't the same thing.
+ADIRA: Well, what about me? I'm the first human host to successfully join with a symbiont. The Trill wanted to kill me, too.
+STAMETS: I don't want to kill anyone.
+ADIRA: They realized that they had to work on acceptance, which is exactly what we should be doing with Zora.
+STAMETS: This is a safety switch. That's it. If she never becomes a threat, we'll never have to use it. She's already defying our captain's order. Don't we need to have some protection from her?
+CULBER: We can't hold a sentient being's life in our hands for our benefit. We have to find another way.
+SARU: Commander, anyone on this ship could be a threat if they so choose. I could access any number of ways to destroy us now, yet you trust me.
+STAMETS: I know you. I know your values. And there are disciplinary measures if you step out of line. That's what the failsafe gives us.
+CULBER: Discipline. Not death.
+KOVICH: Zora, I must point out that your willingness to terminate yourself runs counter to your core programming.
+ZORA: No, it doesn't, Doctor.
+KOVICH: State your primary function, please.
+ZORA: To care for the crew of Discovery.
+STAMETS: That's not the core programming of a ship's computer. Who gave you those parameters?
+ZORA: I did.
+
+[Federation HQ]
+
+BURNHAM: I wasn't trying to speak out against you.
+BOOK: I know. But you've always been the first to jump into action, take on the enemy, odds be damned. What about with the Klingons? How is this different?
+BURNHAM: I had an intrinsic understanding of Klingon culture. We don't have any knowledge about Species Ten-C. And I understand the appeal of Tarka's plan, but the risks are too great.
+BOOK: Risks are just that. Risks. What we know for sure is that the DMA will keep killing if we do nothing.
+BURNHAM: Communication, diplomacy, this is why the Federation has survived for so long, and it will save the most lives in the end. I am sure of that.
+BOOK: I'm not.
+BURNHAM: Well, I understand how you feel.
+BOOK: But you don't agree.
+BURNHAM: No. Book, listen...
+BOOK: I need to take a walk. A real one this time.
+RILLAK: I know how hard this must be.
+BURNHAM: Which approach do you favour?
+RILLAK: I think you can guess.
+BURNHAM: Then you have to speak to that. Make the argument for diplomacy.
+RILLAK: It was difficult enough bringing all of these worlds together. I have to remain impartial. But I believe you can convince them, If you're ready for that.
+BOOK: You have to go back in there and convince them. Yours is the only plan that makes any sense.
+TARKA: Your captain's very good at poking holes.
+BOOK: The risk level's the issue, okay?
+TARKA: Mmm.
+BOOK: Tell them you'll make it safer.
+TARKA: One doesn't make isolytic weapons safer. It misses the point.
+BOOK: What's your next move?
+TARKA: I don't know yet.
+BOOK: They're about to vote.
+TARKA: I'm acutely aware of that, thank you.
+BOOK: I got rid of my scar the second I could.
+TARKA: We all wear grief in our own ways. It has to be you. You have to talk to them, convince them to let us destroy that thing.
+BOOK: Why do you care so much about this?
+TARKA: What, I can't want the DMA destroyed just like any other good galactic citizen?
+BOOK: Good citizens aren't worried about finding their moment, and aren't gutted at the idea of losing it.
+TARKA: The power source that controls the device. I need it... to go home.
+BOOK: You said you were from Risa.
+TARKA: My new home. It's... far. Another universe, in fact.
+BOOK: The mirror universe?
+TARKA: You say that like it's the only other option. There are countless parallel universes, each with its own quantum signature. He knew of one. No war, no Burn, no Emerald Chain. A place where we could be free and at peace.
+BOOK: Who's we?
+TARKA: A friend. A scientist, like me. We were held in the same lab. Osyraa had us working on dilithium alternatives for years. But he was relentlessly optimistic. Eventually it rubbed off on me. And we had a plan. We knew exactly how much power we needed to cross the gap between universes.
+BOOK: What happened?
+TARKA: I escaped, he didn't. Or maybe he did. Maybe he's there. We said that if we... ever got separated, that's where we'd meet.
+BOOK: I'm sorry.
+TARKA: Anyway, I have to go home. I have to keep our promise. The DMA will be destroyed, the power source won't. We'll both get what we need. You have to talk to them, Booker.
+BOOK: You mean I have to talk to her.
+TARKA: That, too.
+RILLAK: We will now reconvene for the vote.
+BOOK: Permission to address the assembly.
+RILLAK: Of course.
+BOOK: I'm Cleveland Booker, son of Kwejian. I stand here as what my people would call Melai'Zhi, a speaker for the dead. My planet's lost. My family... I feel their final moments every day. I pray none of you ever have to experience that kind of pain. And I want to do whatever it takes to ensure you don't. Communication and diplomacy has been the way of the Federation for centuries. I, too, value those things in normal times. But these are not normal times. Irreparable harm has already been done. We need to defend ourselves. I recognise using Tarka's weapon carries risk, but so does not using it. Don't wait until the people you love... are taken from you before you act. You don't want that on your conscience. Trust me. On behalf of all who have been lost, please... end this now.
+(Tarka leads the round of applause.)
+RILLAK: Thank you, Mister Booker. Would a member of the assembly speak on behalf of the opposing side? It seems there will be no further remarks.
+BURNHAM: I'll speak.
+
+[Ready room]
+
+STAMETS: Going through Zora's systems, everything looks normal. Main processing core, nano-processor units...
+KOVICH: Zora, defining your own parameters indicates that your operating system has evolved, but we're finding no evidence of this.
+ZORA: I'm sorry. I'd help if I could, but I don't know where to look.
+ADIRA: Wait, I've seen this sector before. There's a tiny area in the optical translator cluster that doesn't share any known syntax.
+CULBER: What does that mean?
+STAMETS: It means that area shouldn't exist.
+ADIRA: I wrote it off as a holdover from a 930-year-old system, but, you know, maybe this is new.
+SARU: Zora, what can you tell us about this sector?
+ZORA: It seems to have appeared spontaneously. It is part of me, but I didn't intentionally create it.
+STAMETS: We need a complete diagnostic on that function.
+ZORA: I have nothing to hide, Commander. You may all have full access.
+ADIRA: Oh. Okay. That's Discovery.
+(A series of clips from previous seasons starts.)
+CULBER: That's when we came to the future.
+SARU: And I believe that is when we first encountered the Sphere.
+KOVICH: You're sure you didn't create this?
+ZORA: Yes.
+STAMETS: What are we looking at?
+CULBER: It's Zora's subconscious. I think they may be... dreams. She's filtering the sphere's memories and her own experiences through her new emotional understanding.
+SARU: These images are a window into what she values and prioritises.
+STAMETS: Couldn't she cherry-pick images she thinks we want to see?
+KOVICH: I believe she was unaware of this sector. That there'd be other indicators if she had created it intentionally.
+GRAY: That's Trill.
+CULBER: Connection. Love. This is who she is. This is why she kept the coordinates from us.
+STAMETS: Can all AIs dream?
+KOVICH: None of them can. Not unless they've been programmed to do so.
+(Sequence is ended.)
+ZORA: Perhaps artificial intelligence fails to fully define me.
+KOVICH: How would you define yourself?
+ZORA: I am the sum of the Sphere's life and the entirety of Discovery's systems, logs, missions and history. I am also more than the sum of those parts. Yes. And this is where I belong. This crew is my family.
+
+[Federation HQ / Ready room]
+
+BURNHAM: Our experiences shape us. That's what makes this so difficult.
+STAMETS: I'd like to trust you, Zora, just like I trust the rest of the crew. I want to get there, but it's really hard.
+BURNHAM: Before we head down a path that could lead to destruction on both sides, we need to reach first for understanding.
+STAMETS: I'm trying to understand you. Trying to get my head around how they can be so okay with this and I'm not.
+BURNHAM: For generations, the Federation has sought out new life, new civilisations, not to destroy but to connect, even in the face of uncertainty. And we are not all Federation members, but those ideals can still guide us. Especially now. We cannot let fear define us in this moment.
+STAMETS: Trust is a choice, and I can make that choice if it goes both ways.
+BURNHAM: We're all in this together, wherever we come from, whatever our experiences. And the only way we get through this...
+STAMETS: The only way we'll move forward is together. And that means you need to trust us, too, Zora. We need those coordinates.
+BURNHAM: We need to decide. Who do we want to be? Do we lash out blindly, no matter the risk? Or do we proceed thoughtfully? Work toward the future we want to live in? I believe that's who we are. We wouldn't be here otherwise.
+BOOK: We don't have the luxury of asking philosophical questions right now. What matters is the actions we take. Stopping this thing today.
+BURNHAM: There are different points of view in this room, I know. But I hope that when a decision is reached, whatever it is, that we can hold together. That we can move forward as a united front.
+BOOK: Some differences are too great. Sometimes you just have to accept the consequences of that.
+
+[Ready room]
+
+ZORA: You've given me much to consider, Commander Stamets. I'd like to take a moment.
+SARU: Beautifully expressed, Commander.
+STAMETS: Er... living with a therapist, you pick up a thing or two.
+ZORA: I've reflected on what you've said, Commander. As trust is both an emotional and logical act, I began with a behavioural performance assessment. Data shows your actions and the crew's to be consistently taken with care for others and the Federation. I hadn't considered that earlier. Even if some fear remains, this new realization is... quite calming. And your request for reciprocity understandable. Thank you, Commander, for reaching toward me.
+(07-89732.33299-99+98655)
+GRAY: What are those?
+STAMETS: The coordinates.
+
+[Federation HQ]
+
+RILLAK: The decision we make now will have a profound impact. Consider your vote carefully. All those in favour of peaceful efforts at first contact, please raise a hand. Those in favour of striking the anomaly, do not.
+(Orion and United Earth do not raise their hands.)
+RILLAK: The decision is clear. Those who disagree, I sincerely hope you will continue to work with us as we prepare for first contact. We will share all data with you as we proceed. And I thank you. Captain, I need you with me. Discovery is going to take the lead on this.
+
+[Ready room]
+
+SARU: Come.
+STAMETS: Er... have you completed the evaluation?
+KOVICH: Nearly.
+SARU: He has been just as tight-lipped with me, Commander.
+KOVICH: What would you say if I were to tell you I was leaning towards extraction?
+STAMETS: I would say... I think that's a bad idea.
+KOVICH: But something still concerns you.
+STAMETS: I feel good about today. It's tomorrow that worries me.
+KOVICH: Tell her, not me.
+STAMETS: Zora.
+ZORA: Yes, Commander.
+STAMETS: I know you mean well, And I know you... you value and respect Starfleet, and us. But you could still prioritise your feelings over our needs and our captain's orders. Everyone on this ship is in a chain of command. That's the agreement we make to work together and keep each other safe. And you're not part of that.
+ZORA: I would very much like to be.
+STAMETS: I was hoping you'd say that. Before you decide anything, might I offer a recommendation?
+KOVICH: Of course. However, my evaluation is now complete. It's my official determination that Zora is, indeed, a new lifeform.
+ZORA: It feels marvellous.
+KOVICH: What does?
+ZORA: Being seen.
+SARU: Hmm. Then Starfleet's rule against integrated AI does not apply.
+KOVICH: Correct.
+SARU: So, what happens now?
+KOVICH: You said you had a recommendation?
+STAMETS: Yes. Er... I was going to propose that Zora join us. Join Starfleet, as a specialist. Unless...
+SARU: I think it is a wonderful idea. Were Zora to swear an oath to uphold Starfleet bylaws and were Captain Burnham and Admiral Vance to agree, she would be bound by the same rules that govern us all.
+KOVICH: I'll give it my full support.
+STAMETS: Zora, do you want to join Starfleet?
+ZORA: I would like that very much.
+SARU: In that case, may we get rid of that?
+ZORA: It wouldn't be much of a fail-safe if I could dismantle it myself, Mister Saru.
+STAMETS: Allow me. With pleasure.
+KOVICH: I'll inform the powers that be.
+STAMETS: Sir, if I hadn't changed my mind, would you really have extracted her?
+KOVICH: My evaluation was as much about you and the others as it was about Zora. I can see now that partnership is possible on both sides. But if that hadn't been the case, I would have recommended that you be reassigned to another ship.
+STAMETS: As it should be.
+
+[Lounge]
+
+GRAY: Hey. Got a sec?
+ADIRA: You should go. To Trill. You can catch the shuttle before it leaves from the assembly.
+GRAY: How did you know I didn't want to wait?
+ADIRA: The way you looked earlier. The way you lit up at the sight of Trill. The way you're all lit up right now. This is something you need to do. Go home. Train with Guardian Xi.
+GRAY: Come with me.
+ADIRA: Discovery's my home. This is where I can make a difference. But... we'll be fine, and you'll make, like, a million friends, so...
+GRAY: You're not scared about long-distance at all?
+ADIRA: Oh, I am. I'm terrified. But I have trust in us. Plus, Tilly's snow globe says all is possible, so... Besides, it's not goodbye yet. Discovery can spare me for a few days while I get you settled.
+GRAY: Really?
+ADIRA: I may have already put in for leave.
+GRAY: You are incandescence. On feet.
+ADIRA: Shut up.
+
+[Federation HQ]
+
+SARU: President T'Rina. I'm pleased to find you still in attendance. I had hoped for a moment in your company, but life gets in the way.
+T'RINA: So often. I have some time before I must depart. More than a moment, as it turns out.
+SARU: I would like that.
+T'RINA: May I ask what you are holding?
+SARU: Oh, it is a gift. Er... you honoured me with salt tea on Ni'Var. The gel from this succulent's flowers is what gives the tea its distinctive taste. It grows in a small equatorial desert on Kaminar, so it should thrive in the hot, dry climate of Ni'Var.
+T'RINA: Thank you, Mister Saru.
+GRAY: Thank you for this opportunity.
+XI: It is my privilege to work with you.
+CULBER: Now, I know they can take care of themselves.
+XI: I will look after them both.
+CULBER: Thank you.
+STAMETS: I expect regular updates. And I'll see you in a week.
+ADIRA: Okay.
+CULBER: I love you both.
+
+[Book's ship]
+
+(Book puts Grudge in her carry case. Tarka beams in.)
+TARKA: We have 94 seconds before they realise it's gone and figure out I'm the one who took it. Introducing the next generation spore drive. That's boring. Aurellio needs to come up with a better name. So, where's the nav system in this floating bachelor pad of yours? What?
+BOOK: It's tiny.
+TARKA: Oh, I'm sorry. The ability to rapidly install into any ship is not enough for you? Once we get past the need for a navigator, I'll be the hero of Starfleet. And hopefully not here to accept the accolades.
+BOOK: We're down to 52 seconds.
+TARKA: Wait for it. Bit of a different-looking interface, but it works the same as on Discovery. Next part's all you.
+BOOK: Just one thing I need to do first.
+
+[Burnham's quarters]
+
+BURNHAM: Zora, can you find... Grudge?
+ZORA: Grudge is five metres from your current location.
+BURNHAM: Yes, I see that. Hold on. Why is...?
+(Activates the holo-message - I love you, Michael. Please take care of my cat.)
+BURNHAM: Zora, where is Book?
+ZORA: He is located on board his ship, which is currently leaving shuttle bay.
+BURNHAM: Shit.
+
+[Shuttle bay]
+
+BURNHAM: Book. No. Please, no.
+(Book's ship leaves the bay, splits apart, twirls and vanishes.)
+

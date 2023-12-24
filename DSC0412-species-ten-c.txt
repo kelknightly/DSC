@@ -1,0 +1,608 @@
+
+
+
+[Bridge]
+
+BURNHAM: Commander Detmer, how close are we?
+DETMER: We're 250,000 kilometres out.
+BURNHAM: Hold position at 200.
+DETMER: Aye, Captain.
+RILLAK: From Earth's sun out to Mars.
+OWOSEKUN: Yes, ma'am. It has a radius of 1.58 AUs. Gravitational presence is approximately 1.3 solar units.
+NILSSON: To build anything that big...
+BURNHAM: Lieutenant Christopher, have they responded to our message?
+CHRISTOPHER: Still nothing.
+BURNHAM: Keep hailing on all frequencies.
+CHRISTOPHER: Aye, Captain.
+RHYS: Should we raise shields?
+BURNHAM: No. We don't want to signal threat or aggression. Owosekun, do scans show any sign of weapons?
+OWOSEKUN: Negative, Captain. There's no sign of anything. No change of any kind in the hyperfield. It's like they don't even know we're here.
+BURNHAM: Madam President, I think it's time we let our first contact team implement the contingency plan.
+RILLAK: The message we have been sending has been vetted by all delegates. We need to give it more time to work.
+BURNHAM: Logically speaking, if Species Ten-C wanted to respond, they would have done so already. We've got 15 hours before United Earth and Ni'Var start to feel the effects of the DMA. We need to try something new.
+
+[Conference room]
+
+CULBER: We collected 16 complex hydrocarbon compounds from the Ten-C's former planet. Each conveys a different emotion - terror, love, sadness, curiosity, peacefulness.
+HIRAI: Which is the one that concerns us now. Our contingency plan entails using that hydrocarbon to try to start the communication process. Basically, we come in peace, in chemical form. I'm told someone from Science is prepping the operation?
+SARU: That would be Commander Stamets. He has replicated the hydrocarbon and is presently loading it into a fleet of DOTs, which will apply it to the hyperfield's surface.
+NDOYE: Won't we need to move closer to the hyperfield in order to deploy them?
+SARU: Yes, General, we will.
+NDOYE: And at such close distance, the hyperfield's radiation may impact the warp core, making it more difficult to retreat if attacked.
+SARU: The power drain will be small, but it is statistically significant.
+NDOYE: Is taking on this level of risk really prudent?
+HIRAI: We won't get a different response without a different input. Besides which, given what we know about the Ten-C's technological capabilities, there's no guarantee we could evade any weapons they may have, even at full warp.
+SARU: Commander Stamets, are you ready to proceed?
+
+[Engineering]
+
+STAMETS: Just 11 more DOTs to go. You can load that one up next.
+ZORA: Commander, do you have a moment?
+STAMETS: Er, yeah, if you can talk while I'm working.
+ZORA: I'm worried. For several hours now, something has felt off. I've run multiple diagnostics, but there seem to be no irregularities.
+ADIRA: Isn't that good news?
+ZORA: It should be, but I've learned to trust in my feelings...
+CREWMAN: Sorry.
+ZORA: ..and this one hasn't gone away. Something's unaccounted for in some part of my system, and given the importance of our mission, I need to be sure that nothing will impact it.
+ADIRA: Well, if anyone can help, it's Hugh.
+STAMETS: When I'm done here, let's talk to him. We'll figure it out, Zora.
+ZORA: I appreciate the support. Thank you.
+(The DOTs have all been launched.)
+
+[Booker's ship]
+
+RENO: I never knew being kidnapped could be so boring.
+(She's behind a forcefield.)
+TARKA: You're not kidnapped. You're temporarily detained.
+RENO: Meh. Po-tay-to, po-tah-to.
+BOOK: I'm sorry about this, Commander. We both are.
+TARKA: Just finished going through the intel from Ndoye. It's fascinating what they found on the planet.
+BOOK: The Ten-C know what it's like to lose a world, and they created the DMA anyway. I don't know what to do with that.
+TARKA: Do with it whatever you like. What matters is what Discovery does with it, and if they can use the data to get inside. Preferably before they realise we're here.
+RENO: Hey, er, blood sugar's dropping back here. I'd kill for some black licorice.
+BOOK: How long will it take to stop the DMA once we're in?
+TARKA: Depends on the location of the power source, the defence mechanisms.
+BOOK: We have less than 15 hours.
+TARKA: Well, there's only so much I can do until we get in there.
+BOOK: Commander. Licorice, made to order.
+(He puts it through a hole in the forcefield.)
+RENO: Much obliged.
+
+[Bridge]
+
+DETMER: We've reached 1,000 metres from the hyperfield.
+NILSSON: Hydrocarbon compounds are loaded and the DOTs are ready, Captain.
+BURNHAM: Okay, then... let 'em rip.
+(The DOTs zoom off and start spraying.)
+BURNHAM: Any changes? A response of any kind?
+OWOSEKUN: No, Captain.
+CHRISTOPHER: Nothing yet, Captain.
+NILSSON: Captain, the DOTs are registering something.
+BURNHAM: What's happening? Owosekun?
+OWOSEKUN: I'm getting significant energy spikes on this hyperfield surface.
+
+[Booker's ship]
+
+TARKA: Are you seeing this?
+BOOK: What the...?
+
+[Bridge]
+
+BURNHAM: Commander Nilsson, pull them back.
+NILSSON: I'm trying, Captain. Whatever that is, it's too fast.
+(The hyperfield reaches out and scoops up the DOTs.)
+NILSSON: They're gone.
+RILLAK: Well, it seems we've gotten their attention.
+BURNHAM: Shields up. Red alert.
+OWOSEKUN: Another spike, and this one's massive.
+BURNHAM: Commander Detmer, get us out of here now. Maximum warp.
+DETMER: Aye, Captain.
+(Too late, they are grabbed.)
+BURNHAM: What's happening?
+DETMER: I'm losing engines.
+RHYS: Weapons systems are dropping off-line.
+NILSSON: Shields are failing.
+BURNHAM: Commander Detmer?
+DETMER: I can't get us out, Captain.
+BURNHAM: Status report.
+LINUS: The ship is enclosed in a membrane of unknown substance. It appears to be an orb of some kind.
+RHYS: Basic life support's still fully functional. Shields, engines and weapons systems are all off-line.
+BURNHAM: They've enacted a selective shutdown of some kind. We need to get those systems back up and running.
+RHYS: Trying, Captain.
+DETMER: Working on it.
+BURNHAM: Owosekun, what else are scans telling us?
+OWOSEKUN: Well, it looks like we're now inside the hyperfield. No sign of the DOTs. There's a solar system in here, three gas giant planets. Mass and chemical composition are all identical.
+DETMER: The orb is taking us to one of the planets.
+NILSSON: We're like a bug in a jar.
+BURNHAM: Lieutenant Christopher, tell Stamets to assemble a team and figure out a way to get us out of this thing.
+CHRISTOPHER: Aye, Captain.
+
+[Corridor]
+
+NDOYE: I'm alone now. We can speak.
+
+[Booker's ship]
+
+BOOK: We've got no weapons, shields or propulsion.
+NDOYE [OC]: Same with Discovery.
+BOOK: What the hell happened?
+NDOYE [OC]: We sent a hydrocarbon message to the Ten-C. The hyperfield captured us in this orb. That's all I know.
+BOOK: Any idea if Zora's picked up on our presence yet?
+
+[Corridor]
+
+NDOYE: Not that I've heard, but I'll look into it. Have you found the DMA's power source?
+TARKA [OC]: Just did.
+
+[Booker's ship]
+
+TARKA: Scans show it's on the far edge of the hyperfield, in a casement of silicon-ellanium alloy. Once we breach that, we can simply pull it out.
+BOOK: I aas expecting something a little more surgical.
+TARKA: Take a look at the functional flows here. It'll work. The DMA'll stop immediately.
+BOOK: Okay. General, you'll keep us posted?
+NDOYE [OC]: Of course.
+BOOK: One more thing. How's Michael?
+
+[Corridor]
+
+NDOYE: Scared, same as the rest of us. She just hides it better.
+
+[Booker's ship]
+
+NDOYE [OC]: I have to go.
+BOOK: Hey. What are you doing?
+TARKA: Just making some adjustments to the energy-transfer rate so my transporter will work when I hook it to the power source.
+BOOK: Why don't you find a way to get us out of the orb first? I'll work on systems, get us back on-line.
+(Reno is watching Tarka very closely. Then she uses some chewed liquorice to try and power up a gizmo from up her sleeve.)
+RENO: Come on. Come on. Shit.
+
+[Bridge]
+
+DETMER: Captain, the orb we're in has stopped moving. Looks like we're in the upper layers of the planet's atmosphere.
+OWOSEKUN: Sensors show life signs all around us. Hundreds of them.
+RHYS: They're also scanning us. Every millimetre of the bridge.
+BURNHAM: Any progress restoring systems?
+NILSSON: Engineering says that the orb is somehow keeping them powered down. Nothing they've tried has worked.
+BURNHAM: Have them try something else.
+SARU [OC]: Captain, we need you for a first contact discussion.
+BURNHAM: Commander Rhys, you have the conn. Let me know if anything changes.
+
+[Sickbay]
+
+STAMETS: She says there's a malfunction in her system somewhere, but I checked the logs, Zora ran diagnostics, nothing seemed out of the ordinary.
+CULBER: Well, sometimes getting to the root cause of a feeling is helped by focusing on the feeling itself. We'll talk.
+ZORA: I appreciate that. Thank you.
+STAMETS: Hugh, are you all right?
+CULBER: Yeah, I just... I keep thinking about what I felt down on that planet. Peace, calm, comfort. It's been a long time since I had that, and... I'm not sure how to get back there, you know?
+STAMETS: Well, I need to get back to Adira and the team, but when this is all over, we're taking a vacation. Just the two of us.
+CULBER: Deal. All right, let's get started.
+ZORA: How?
+CULBER: Well, we'll play the Trill game while we talk. Helped you before.
+ZORA: I'll set it up for us.
+
+[Conference room]
+
+RILLAK: But why would the Ten-C bring us in here, scan us extensively, and then not even engage with us?
+SARU: I might speculate that they are attempting to understand our technology before proceeding.
+T'RINA: Speculation is of little use in this moment. We require answers.
+BURNHAM: Could it be that they're using a communication frequency we're unaware of?
+HIRAI: More likely they're waiting for us to communicate a sense of purpose. Our message conveyed no intent, merely a lack of threat.
+NDOYE: We cannot hope to conduct effective diplomacy as prisoners.
+RILLAK: Communication is our only option right now.
+NDOYE: We don't even know how to get them to speak to us.
+BURNHAM: I have an idea. For centuries, it's been Federation tradition to present a gift during first contact as a way of building trust. Stamets collected a few samples of boronite from the site of the DMA implosion.
+HIRAI: Gift-giving can be culturally complex. The Ten-C may not perceive it as we intend.
+BURNHAM: It's the only thing we know for sure they want. I'm not sure what other choice we have.
+HIRAI: Hmm.
+T'RINA: How could we possibly deliver it?
+BURNHAM: We could beam the particles directly onto the orb membrane. It sized itself to fit our ship. It has to have sensor capabilities.
+RILLAK: Let's give it a shot.
+
+[Booker's ship]
+
+BOOK: Engines, shields, weapons, all still down. Nothing's working.
+TARKA: The Ten-C must be blocking those systems. Don't worry, they'll come back once I get us out of this orb.
+BOOK: You found a way?
+TARKA: When a nightsprey's done nesting, there's only one way to leave the jajtspat.
+RENO: Hey. Why exactly did you team up with that guy? He seems a couple of cherries short of a sundae.
+BOOK: He lost someone and made a vow to get back to him. I respect that. My mentor, Cleveland Booker, used to say the measure of someone is in how they honour their promises.
+RENO: You share a name with someone? That's not confusing at all.
+BOOK: He's not called Book anymore. In the courier world, trust is everything. Trust that someone will do the job you paid them for, not rip you off or sell you out. The name Cleveland Booker earned trust for generations, passed from one to another. Mine was the fourth in the line. When he retired, he gave his name and his clients to me. I became the fifth.
+RENO: You think he'd approve of Tarka?
+BOOK: I think he'd understand him.
+RENO: When my wife died, I needed a focus, so I joined the Hiawatha. After we crashed, there was an ensign, horribly burned. He begged me to let him go. I told him it was my duty to keep him alive. I kept replicating skin grafts. It took 11 days for him to die. After he finally did, that's when I saw that his eyes were the same colour as hers. The exact same green. That is why I couldn't let him go. Not because of him, because of me. You and Tarka have made some dubious choices because you're both in pain, and you can't see it.
+BOOK: I see you're trying to work on me.
+RENO: Doesn't mean I'm wrong.
+BOOK: How much longer until we're free?
+TARKA: Soon.
+
+[Conference room]
+
+SARU: The boronite has been sent. No response yet, Captain.
+NDOYE: You're feeling it out as you go, adapting, making choices. I respect that. But a soldier has to accept when they've hit a wall. That's when the truly hard choices need to be made.
+BURNHAM: I used to think there was no wall. As captain, my experience has taught me otherwise. General, we haven't hit it yet.
+ZORA: Captain, scans show changes to the orb membrane near the shuttle bay.
+BURNHAM: Here we go.
+
+[Shuttle bay]
+
+SARU: Something is coming. A life-form.
+BURNHAM: Seems they've decided to say hello.
+HIRAI: It has visual receptors and pheromone glands. Not sure if these are auditory receptors or electrical sensors. Its brain structure is wildly unusual. The universal translator won't be helpful.
+BURNHAM: So we'll have to learn another way to talk to each other.
+ZORA: Captain, the being is excreting a mist of large organic molecule clusters.
+BURNHAM: Can you analyse them, Zora?
+ZORA: Of course. All of the supramolecules are identical. Each is comprised of dozens of the same hydrocarbons you found on their home planet.
+SARU: Which hydrocarbons, exactly?
+ZORA: Each molecule is 25% joy, 22% sadness, 17% peacefulness, 14% irritation, 12% surprise and ten percent fear.
+BURNHAM: That's six of the emotions we know they can feel.
+NDOYE: It's nonsensical.
+T'RINA: Perhaps it is attempting to convey all six emotions simultaneously?
+(A lot of flashing lights.)
+BURNHAM: Incredible.
+RILLAK: What could that mean?
+BURNHAM: That complex of a pattern has to be for communication, somehow.
+ZORA: You may be right, Captain. The light pattern was identical both times.
+HIRAI: If that's their language, then the hydrocarbons must convey emotional inflection and context. We need to mirror the light pattern back to them.
+RILLAK: How will that move us forward?
+HIRAI: It'll show them we recognise this as an effort to communicate. From there, we'll need to find a way to convey simple and then more complex thoughts.
+NDOYE: Sounds like the start of a frighteningly long process.
+HIRAI: Could be.
+NDOYE: Hmm.
+BURNHAM: Zora, can you project the light pattern back to the Ten-C?
+ZORA: Yes, Captain. I just need a moment.
+(Ndoye walks away.)
+
+[Booker's ship]
+
+BOOK: Something's happening near shuttle bay. Hey, take a look. Lights of some kind. What are they?
+TARKA: Doesn't matter.
+BOOK: You found us a way out?
+NODYE [OC]: It's Ndoye. We have a problem.
+BOOK: What is it? Is everyone okay?
+
+[Corridor]
+
+NDOYE: Fine, except that the universal translators won't work. Communication needs to start from scratch, and we have only 12 hours before the DMA reaches Earth.
+
+[Booker's ship]
+
+TARKA: Won't take nearly that long to get us out of here, but we will need help pushing off Discovery.
+BOOK: What kind of help?
+TARKA: I need to ignite a plasma stream so I can burn a hole in the Ten-C's orb. From there, a simple reversed tractor beam will repel us back out of the hole, no engines required.
+NDOYE [OC]: Where do I come in?
+TARKA: You'll hack Discovery's systems and vent the plasma through the starboard nacelle.
+
+[Corridor]
+
+NDOYE: You must be joking.
+TARKA [OC]: I assure you I'm not.
+NDOYE: Feeding information is one thing. This is a betrayal.
+
+[Booker's ship]
+
+BOOK: Well, if diplomacy starts working, we'll stand down, but right now it sounds like we can't even say hello. This will stop the DMA. No one else has to die.
+
+[Corridor]
+
+BOOK [OC]: Please. We can't do this without you.
+NDOYE: Let me know when he's ready.
+
+[Booker's ship]
+
+BOOK: Sending the override codes now. And General... thank you.
+
+[Shuttle bay]
+
+BURNHAM: Once Zora projects the pattern back to them, hopefully the Ten-C respond with a new message. Mister Saru, stand by for analysis. Ready, Zora?
+ZORA: I am. Sending the message now.
+T'RINA: What happened? Why is it leaving?
+HIRAI: Did Zora replicate the light pattern exactly?
+SARU: She did. The Ten-C sent the same pattern back to us once again.
+HIRAI: Curious.
+BURNHAM: Maybe they want us to answer back, not just mimic.
+SARU: It is possible they do not yet see us as sentient beings.
+RILLAK: We have a spaceship. We warped here. Clearly we're sentient.
+HIRAI: Compared to them, our technology's primitive. They've achieved level two on the Kardashev scale, maybe beyond. It's like comparing a human to a monkey with a rock.
+BURNHAM: Zora, compare the pattern to both Federation and non-Federation linguistic databases.
+ZORA: Great minds think alike, Captain. I was just doing so. Unfortunately, there's no known comparison.
+HIRAI: I'm not seeing the redundancy and patterning I'd expect from language, either.
+T'RINA: You're saying it's not a language?
+HIRAI: It may be, but it's unlike any I've ever encountered. We lack the tools to understand it, in which case it may as well not be.
+BURNHAM: Well, there is a pattern here. We just have to find it.
+SARU: Well, solving the hydrocarbon mystery required a variety of perspectives. Perhaps that would help us again?
+BURNHAM: Detmer, Nilsson, Christopher. Please report to shuttle bay, now.
+
+[Sickbay]
+
+CULBER: Nice move. Your sine wave is stabilised.
+ZORA: The game's helping. I still can't identify the exact moment I started feeling so distracted, but I found an anomalous eventthat occurred around the same time. A replicator-system malfunction. Commander Reno fixed it.
+CULBER: Oh. Well, maybe she can shed some light. Commander Reno, it's Doctor Culber. Zora, where's Commander Reno?
+ZORA: My sensors show her in Engineering.
+CULBER: Oh. She's probably helping Paul figure out a way out of this orb. I'll talk to her.
+
+[Shuttle bay]
+
+CHRISTOPHER: One of my professors at the Academy used to say that if a problem stumps you, examine your assumptions. Now, we're assuming that the hydrocarbons are only about emotions, but what if it's also a language of some kind?
+T'RINA: How could the hydrocarbons contain emotional and semantic content?
+NILSSON: Maybe it's like music. A piano piece evokes emotion but also has a structure of pitches, note lengths, tempo.
+BURNHAM: Yes, what if the hydrocarbons are the structure? If each is a symbol, or a word, then the molecules themselves are the message.
+SARU: Zora, will you display a holo of one of the molecules we received?
+BURNHAM: Okay. If we're meant to read this, how do we do it? Where do we start? Which direction do we go?
+CHRISTOPHER: It's like an encrypted message, but we're missing a key.
+DETMER: Maybe the lights are a key. A star map is a 2D rendering to help us navigate 3D space. Maybe the Ten-C's light pattern is a map to help us read the hydrocarbons in a specific order?
+BURNHAM: Zora, show us the light pattern. Can you turn this into a 3D model using maximum brightness levels as the Z-axis variable?
+ZORA: Of course, Captain.
+BURNHAM: If I move the light map over the molecule... Oh.
+HIRAI: Zora, try the lights again.
+BURNHAM: And there we go.
+SARU: Now we can read the message in the order they intended. What it means to read a message, however...
+BURNHAM: Zora, start analysing.
+ZORA: Yes, Captain.
+BURNHAM: Thank you. I'll see you all on the bridge.
+
+[Booker's ship]
+
+RENO: Hey, Book the Fifth, you've been replicating my licorice refill since the dawn of time.
+BOOK: It was literally ten seconds.
+RENO: Be a gentleman. Hand that to me like the lady that I am. Your friend Tarka's gonna kill us all.
+BOOK: What are you talking about?
+RENO: I saw his calculations. If he pulls the power source while the DMA's up and running, the hyperfield will implode, destroying everything and everyone inside of it.
+BOOK: He said it'd be safe.
+RENO: He lied. And the subspace rift it'll leave near Earth will kill everyone almost as fast as the DMA would.
+BOOK: You're just saying that so I'll let you out.
+RENO: Tell him to show you the math. His equations won't make any sense, but the look on his face will. Like I said, pain makes people blind. You need to make this right.
+
+[Shuttle bay]
+
+BURNHAM: Er, how are we doing, Zora? Were you able to decode the molecule?
+ZORA: I believe so. I assigned a letter to each of the individual hydrocarbons, and then placed them in the order designated by the lights. The resulting pattern seems to represent a series of mathematical equations.
+HIRAI: Of course.
+NDOYE: You say that like it's obvious.
+HIRAI: Take a look at this arrangement. Three of hydrocarbon A, one B, then one A. Four A's, one B, three A's. Here we have four A's, one B, two A's. That's the pattern. The first group of A's is always larger than the next, indicating that the B compound in the middle means greater than. Now, there are other patterns as well.
+T'RINA: Mister Saru?
+SARU: Er, simply put, they are trying to teach us a bridge language, such as Lincos.
+HIRAI: Exactly.
+T'RINA: Lincos?
+BURNHAM: A language based on math. The 21st-century Earth organisation METI predicted that it would be helpful in extraplanetary communication. The Ten-C must think that their language is too complicated for us to understand, so they're using this simpler one. They're reaching back.
+HIRAI: From here, we can build all sorts of communication. If/then statements, complex logic.
+RILLAK: We need to show them that we understand. Can we send an equation of our own?
+HIRAI: If Zora gives me access to the ship's replicator, I can build a molecule and beam it directly onto the orb. Then she'd just need to show them the map of lights so they can read it.
+ZORA: I'd be happy to assist, Doctor.
+BURNHAM: Great. Get to work, both of you.
+NDOYE: President T'Rina, may I have a word? Shouldn't we be using this time to try and get out of the orb?
+BURNHAM: Everything all right?
+SARU: It seemed we were getting along so well, but at the meeting earlier, ah... she was rather strident.
+NDOYE: It makes no sense to sit here as prisoners.
+SARU: But there are more important things.
+BURNHAM: It's not surprising. Logic above all. Vulcans often overcompensate in public to prove a point, especially when close relationships are involved. Sarek used to do it all the time. It drove me crazy.
+SARU: Ah. This context is most appreciated.
+BURNHAM: Happy to serve as a translator whenever you need.
+HIRAI: Message is ready. How do we feel about four plus five equals nine?
+BURNHAM: I love math. Let's just hope it's enough to bring them back.
+
+[Booker's ship]
+
+BOOK: You said no one would get hurt.
+TARKA: You've already given up so much for this. I didn't... I didn't want to make it harder for you.
+BOOK: You lied!
+TARKA: What matters is we're stopping the DMA.
+BOOK: I won't do to the Ten-C what they did to Kwejian. And I sure as hell won't put Discovery at risk.
+TARKA: You're talking like it's certain the hyperfield will implode. Maybe it won't. Besides, total implosion will take a good three minutes or so. That's enough time for us to warp to safety. For Discoveryto get away too. Maybe even the Ten-C.
+BOOK: What about Earth?
+TARKA: By my calculations, the void will take a month to reach the planet. That's plenty of time for their scientists to find some sort of solution.
+BOOK: No, you should've told me. This has to be a last resort. I'm telling Ndoye to stand down.
+TARKA: No! No. In 40 minutes, we're getting out of this orb.
+BOOK: We have ten hours before the DMA starts to hit.
+TARKA: And who knows what'll happen in that time?
+BOOK: Okay, we need to give first contact more time before...
+TARKA: We have to do something while we can!
+BOOK: ..we start something we can't stop! Step away! Stay away from the consoles.
+TARKA: I cannot do that. Not when I'm this close.
+BOOK: This is my ship.
+COMPUTER: Warning.
+(Book gets thrown back by a forcefield and knocked out.)
+
+[Shuttle bay]
+
+SARU: The Ten-C are back.
+T'RINA: It seems the message was a success.
+ZORA: We're receiving new molecules. Sending the hydrocarbon analysis to your holoPADD, Doctor Hirai.
+HARAI: Applying the light pattern to decode. It's more mathematical equations. All of them equaling nine.
+RILLAK: Oh.
+BURNHAM: We have started to communicate.
+RILLAK: Well done, all.
+ZORA: Captain, an object is approaching.
+(A smooth ovoid lands.)
+BURNHAM: Mister Saru?
+SARU: I register no radiation or toxins. The exterior is coated in the hydrocarbon for peacefulness. The interior contains a breathable atmosphere.
+(A hatch appears.)
+BURNHAM: That's how they want to keep talking. They want us to go inside.
+
+[Booker's ship]
+
+(Book is being thrown around.)
+BOOK: More defence improvements. Well done.
+TARKA: Book, come on. Please, stop.
+BOOK: You first.
+(He fires a weapon and gets repelled backwards again.)
+TARKA: I'm sorry. I have to take this badge.
+(He lowers Reno's forcefield to put Booker in with her.)
+TARKA: I never wanted this, Book. Ever. I've had two real friends in my life. And you were one of them.
+RENO: You have a funny way of showing it. What you're doing is wrong.
+(Forcefield is back up.)
+TARKA: 30 minutes left, then we're out of this orb and on our way.
+
+[Shuttle bay]
+
+NDOYE: We can't be sure it's even safe to go inside.
+BURNHAM: If they wanted to hurt us, they could've done it already.
+RILLAK: And if diplomacy fails, the consequences will be far greater than any immediate risk to us. I'll go. Captain Burnham, Mister Saru, I'd like you to join me. Your skill set as a xenoanthropologist and a linguist will be invaluable. Doctor Hirai, I'd ask that you stay. If... something happens, you should resume diplomacy without us. President T'Rina, General Ndoye, your presence would be welcome, as the delegates whose planets are under the most direct threat.
+T'RINA: I will advocate for my planet, whatever is required.
+NDOYE: I have faith you'll convey the necessary message. I'm of greater use here on the outside.
+RILLAK: Very well.
+BURNHAM: Zora shouldn't come, given all the unknowns.
+RILLAK: Agreed.
+SARU: I will assemble a portable transporter unit and some samples of the hydrocarbons. Perhaps Commander Stamets can suggest something to project a light map.
+BURNHAM: Actually, have him handle all of that. I need to borrow you for a moment.
+
+[Burnham's quarters]
+
+BURNHAM: You're the only one I can say this to, but I think it needs to be said. The Ten-C... they hold all the cards here. I feel like everything is just... slipping through my fingers.
+SARU: I have also struggled when I feel a lack of control. Yet it is something with which we must make peace. Strangely enough, Mister Tarka showed me a technique that has proven helpful, though unorthodox.
+BURNHAM: What is it?
+SARU: Well, simply put... yelling. I could demonstrate.
+BURNHAM: Okay.
+(Saru roars.)
+SARU: I'm sorry.
+BURNHAM: No. Don't be. It's not even close to the weirdest thing that's happened today.
+(Burnham starts screaming, Saru joins in and they end up laughing. Grudge is not amused.)
+BURNHAM: I think I needed that.
+SARU: Apparently, Grudge did not need that.
+BURNHAM: There is no one I would rather go into this with.
+SARU: It is an honour to be at your side, today and always.
+
+[Engineering]
+
+CULBER: Zora, are you positive Reno's in here?
+ZORA: My sensors say she's present.
+ADIRA: We've been in here all day, and I haven't seen her once. I... Maybe Paul found her? He should be back soon.
+ZORA: He is on his way back now, Ensign.
+CULBER: This is so strange.
+(He lifts a grating.)
+ADIRA: Is that her badge?
+CULBER: Yeah, look.
+ZORA: I'm receiving full biometric data, even though she's not wearing it. Very odd. I'll run an analysis subroutine to locate the malfunction.
+CULBER: And we should page her, too. She's got to be on the ship somewhere.
+
+[Shuttle bay]
+
+ZORA: Commander Jett Reno, please report to Engineering. Commander Reno.
+SARU: Madam President. If it helps to hear this, I... I do not believe we have cause to fear.
+T'RINA: I wish I could say the same. I must admit, I am not certain how to step into danger with one for whom I have such personal fondness. Perhaps this is one of the reasons I avoid closeness with others.
+SARU: Er...
+CREWWOMAN: Mister Saru.
+SARU: Oh.
+CREWWOMAN: From Commander Stamets.
+SARU: Ah, thank you.
+BURNHAM: All right. Let's go.
+
+[Bridge 2]
+
+T'RINA: Were we beamed onto the bridge? Where is everyone?
+SARU: I believe it is... a replica.
+BURNHAM: The Ten-C created an environment where they thought we'd be comfortable.
+RILLAK: We've lost contact with Discovery. We're on our own.
+BURNHAM: Not entirely.
+SARU: An isolytic weapon.
+BURNHAM: It's not armed. They must've built it from data they collected on the one Tarka detonated in the DMA.
+T'RINA: Is it intended as a threat?
+SARU: Or a gift in return for boronite? Sensors show they have sent a mist of molecules onto the viewscreen.
+BURNHAM: And there are the lights.
+SARU: I will translate the message. 178 plus this mathematical equation equals a curiosity hydrocarbon.
+RILLAK: Is the message about the weapon?
+BURNHAM: 178 is the atomic number for isolynium.
+SARU: I believe this equation is an expression of volume for a convex lens-like shape.
+T'RINA: The DMA.
+BURNHAM: Isolytic weapon plus DMA equals curiosity. It's a question. They put the weapon here to help us understand. They want to know why the weapon was put in the DMA.
+SARU: This implies they may be unaware of the damage the DMA has caused.
+RILLAK: Well, our response needs to make them understand. They need to make it stop.
+BURNHAM: Okay. Let's figure out how to say that with math.
+
+[Corridor]
+
+NDOYE: Booker, it's Ndoye. Your captain and a team went to talk with the Ten-C and now they're gone. Scans can't find the orb they entered into. Can you see it at all?
+
+[Booker's ship]
+
+BOOK: Tell her to stand down. Give the talks a chance.
+NDOYE [OC]: Booker, do you copy?
+TARKA: They could be dead for all we know.
+BOOK: If the Ten-C wanted to kill any of us, we'd already be dead.
+TARKA: Assuming they do come back, we have no idea when that'll be. It could be hours. Weeks? Years?
+BOOK: Tarka, don't!
+
+[Corridor]
+
+(Text message - They could be gone weeks, years. DMA hits in hours. We are ready. Let's do this.)
+NDOYE: It's done. Just make sure you stop the damn thing in time.
+
+[Bridge 2]
+
+BURNHAM: So, we agree on our response. DMA plus us equals the terror hydrocarbon.
+SARU: As they felt when their world was being destroyed.
+RILLAK: The only question is how do we convey the concept of us? The number four, maybe? There are four of us.
+T'RINA: Or six, the atomic number of carbon. We are carbon-based.
+SARU: I fear that such numbers could hold other significance for the Ten-C. It is easy for misunderstanding to occur between different cultures when one lacks context.
+BURNHAM: But what President T'Rina said, using our own biology... The air. The air. They've created an artificial atmosphere based on the exact ratio of gases we need to breathe. 78% nitrogen, 21% oxygen, 0.93% argon and 0.04% carbon dioxide. They will recognise that as us.
+SARU: DMA plus us equals terror. I will code and send it. Ah. We are receiving a new message already. They have sent us a greater-than symbol and a sadness hydrocarbon.
+T'RINA: Great sadness.
+BURNHAM: Ah. That means they understand, and it means they have empathy.
+RILLAK: And if they have empathy for us, diplomacy can work.
+BURNHAM: Now we just need to figure out how to ask them to turn off the DMA.
+
+[Engineering]
+
+STAMETS: Reno's gone?
+CULBER: Zora's analysis proves that someone tampered with her badge.
+ADIRA: Yeah, but why would anyone do that?
+CULBER: If it didn't sound completely insane, I would guess that somebody took her off the ship and covered it up.
+STAMETS: I should've known something was wrong. I've been trying to find her all day to help us get out of this orb.
+CULBER: It's not your fault.
+ZORA: I think I found something. I've been analysing every discrete event in this sector of the ship during the time range in question. Access Panel 4351 was opened briefly at one point, but the maintenance check isn't scheduled until tomorrow.
+(Panel opened.)
+ADIRA: Okay. Well, this should not be here.
+ZORA: That's it. That's the source of what I've been feeling. And now... Oh, no.
+CULBER: What? What's wrong?
+ZORA: There's a cloaked vessel attached to me. It's Book's ship.
+STAMETS: What's happening?
+ZORA: Plasma's venting from one of the nacelles.
+
+[Booker's ship]
+
+TARKA: Here we go.
+(Booker's ship disengages.)
+
+[Bridge]
+
+OWOSEKUN: It's burning a hole in the orb.
+RHYS: What about the emergency shutoff?
+NILSSON: Someone entered override codes.
+STAMETS [OC]: Commander, Book's ship is attached to our underbelly.
+RHYS: We know, we see them on scans.
+(Booker's ship escapes.)
+CHRISTOPHER: No response to hails, Commander.
+RHYS: What else can we do here?
+DETMER: Nothing. They're gone.
+
+[Bridge 2]
+
+SARU: I will be ready with the DMA message in one moment.
+RILLAK: Oh, that's... new.
+
+[Shuttle bay]
+
+T'RINA: They sent us back. Why?
+HIRAI: Booker's ship was attached to ours. They just escaped the orb.
+BURNHAM: What? They're here?
+RILLAK: The Ten-C's defences were breached. That's why we're back. How much time do we have?
+HIRAI: Four hours left until the Earth starts getting hit.
+
+[Booker's ship]
+
+TARKA: The impulse engines are back online. Weapons and warp drive are still down, but it doesn't matter, we're almost at the power source. I just need to figure out how to fly this damn thing.
+BOOK: You were right. I should've listened to you.
+RENO: I know it might feel like all is lost... and okay, maybe it is... but I do have something that can help. It's a communicator chip. I stashed it when I ran into psycho-pants and I realised he was gonna stun me.
+BOOK: What's the licorice do?
+RENO: The glycyrrhizic acid in licorice, when it dissolves, it conducts electricity. I can use it to call Discovery, but I haven't been able to make it past your ship's security protocols.
+BOOK: You need my access codes. We won't have long.
+RENO: I'll talk fast.
+
+[Bridge]
+
+BURNHAM: Can we get out the same way they did?
+RHYS: We've got nothing to repel against, and the hole they made has already sealed itself up.
+CHRISTOPHER: Captain, we just received an urgent message from Booker's ship.
+BURNHAM: Play it.
+RENO [OC]: Captain, it's Reno. Tarka's got me and Book locked up, and if he takes out the DMA the way he wants to, it'll destroy the hyperfield, the Ten-C, probably Discovery, too. It'll also leave a toxic waste dump heading straight for Earth. You have to stop us, whatever it takes.
+
